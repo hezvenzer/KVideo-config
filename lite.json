@@ -150,5 +150,61 @@
     "group": "normal",
     "enabled": true,
     "priority": 1
+  },
+  {
+    "id": "quantum",
+    "name": "量子资源",
+    "baseUrl": "http://cj.lziapi.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "feifan",
+    "name": "非凡资源",
+    "baseUrl": "http://www.ffzy.tv/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "wujin",
+    "name": "无尽资源",
+    "baseUrl": "https://api.wujinapi.me/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "jisu",
+    "name": "极速资源",
+    "baseUrl": "https://jszyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "hongniu",
+    "name": "红牛资源",
+    "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "huya",
+    "name": "虎牙资源",
+    "baseUrl": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "jinyingyun",
+    "name": "金鹰云资源",
+    "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
   }
 ]
