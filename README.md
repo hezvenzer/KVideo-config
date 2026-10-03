@@ -46,7 +46,7 @@
 
 ## 🚀 部署指南
 
-### 1. GitHub 自动化巡检
+### 1. 原始视频源接口
 1.  在 `KVideo-config.json` 中录入你的原始接口列表。可以自行添加和删除。
 
 ### 2. 在ACtion中手动开启`.github/workflows/build-check-encode.yml` 和 `check_api.js` 的工作流
