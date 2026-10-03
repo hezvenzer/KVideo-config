@@ -56,6 +56,9 @@
 ### 3. 自行修改worker.js文件中的
 1.  默认为原作者的仓库地址，请自行修改
 2.  地址获取请点击对应文件查看界面的右上角【raw】选项获取文件地址
+3.  修改地址如下
+<img width="589" height="236" alt="屏幕截图 2026-10-03 195729" src="https://github.com/user-attachments/assets/eaebd670-0aad-414d-8f80-938d7e7d1b06" />
+
 
 ### 2. Cloudflare Workers 中转
 1.  将 `_worker.js` 代码部署到 **Cloudflare Workers**。
