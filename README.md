@@ -47,9 +47,15 @@
 ## 🚀 部署指南
 
 ### 1. GitHub 自动化巡检
-1.  在 `KVideo-config.json` 中录入你的原始接口列表。
-2.  提交 `.github/workflows/build-check-encode.yml` 和 `check_api.js` 到仓库。
-3.  GitHub Actions 会在每天北京时间凌晨 1 点自动运行并更新文件。
+1.  在 `KVideo-config.json` 中录入你的原始接口列表。可以自行添加和删除。
+
+### 2. 在ACtion中手动开启`.github/workflows/build-check-encode.yml` 和 `check_api.js` 
+1.  默认关闭
+2.  可以自行修改
+3.  gitHub Actions 会在每天北京时间凌晨 1 点自动运行并更新文件
+### 3. 自行修改worker.js文件中的
+1.  默认为原作者的仓库地址，请自行修改
+2.  地址获取请点击对应文件查看界面的右上角【raw】选项获取文件地址
 
 ### 2. Cloudflare Workers 中转
 1.  将 `_worker.js` 代码部署到 **Cloudflare Workers**。
