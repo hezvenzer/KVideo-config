@@ -24,15 +24,15 @@ const EXCLUDE_HEADERS = new Set([
 const JSON_SOURCES = {
   'lite': {
     name: '健康过滤版 (normal)',
-    url: 'https://raw.githubusercontent.com/puppet680/KVideo-config/refs/heads/main/lite.json'
+    url: 'https://raw.githubusercontent.com/hezvenzer/KVideo-config/refs/heads/main/lite.json'
   },
   'adult': {
     name: '完整过滤版 (normal+premium)',
-    url: 'https://raw.githubusercontent.com/puppet680/KVideo-config/refs/heads/main/adult.json'
+    url: 'https://raw.githubusercontent.com/hezvenzer/KVideo-config/refs/heads/main/adult.json'
   },
   'full': {
     name: '完整版 (Full)',
-    url: 'https://raw.githubusercontent.com/puppet680/KVideo-config/refs/heads/main/KVideo-config.json'
+    url: 'https://raw.githubusercontent.com/hezvenzer/KVideo-config/refs/heads/main/KVideo-config.json'
   }
 };
 
