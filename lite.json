@@ -208,11 +208,11 @@
     "priority": 1
   },
   {
-    "id": "yinghua",
-    "name": "樱花资源",
-    "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+    "id": "ikun",
+    "name": "ikun资源",
+    "baseUrl": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
     "group": "normal",
     "enabled": true,
-    "priority": 10
+    "priority": 1
   }
 ]
