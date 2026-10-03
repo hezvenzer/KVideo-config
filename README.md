@@ -49,7 +49,7 @@
 ### 1. GitHub 自动化巡检
 1.  在 `KVideo-config.json` 中录入你的原始接口列表。可以自行添加和删除。
 
-### 2. 在ACtion中手动开启`.github/workflows/build-check-encode.yml` 和 `check_api.js` 
+### 2. 在ACtion中手动开启`.github/workflows/build-check-encode.yml` 和 `check_api.js` 的工作流
 1.  默认关闭
 2.  可以自行修改
 3.  gitHub Actions 会在每天北京时间凌晨 1 点自动运行并更新文件
