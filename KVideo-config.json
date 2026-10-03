@@ -404,5 +404,201 @@
     "baseUrl": "https://aosikazy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true
-  }
+  },
+{
+"id": "quantum",
+"name": "量子资源",
+"baseUrl": "http://cj.lziapi.com/api.php/provide/vod/",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "feifan",
+"name": "非凡资源",
+"baseUrl": "http://www.ffzy.tv/api.php/provide/vod/",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "kuaiche",
+"name": "快车资源",
+"baseUrl": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "wujin",
+"name": "无尽资源",
+"baseUrl": "https://api.wujinapi.me/api.php/provide/vod/",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "subo",
+"name": "速播资源",
+"baseUrl": "https://subocj.com/api.php/provide/vod/at/json",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "mozhu",
+"name": "魔爪资源",
+"baseUrl": "https://mozhuazy.com/api.php/provide/vod/at/xml",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "jisu",
+"name": "极速资源",
+"baseUrl": "https://jszyapi.com/api.php/provide/vod",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "yinghua",
+"name": "樱花资源",
+"baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "shandian",
+"name": "闪电资源",
+"baseUrl": "http://sdzyapi.com/api.php/provide/vod/",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "hongniu",
+"name": "红牛资源",
+"baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod/",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "wangwang",
+"name": "旺旺资源",
+"baseUrl": "https://api.wwzy.tv/api.php/provide/vod/at/xml/?ac=list",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "maoyan",
+"name": "猫眼资源",
+"baseUrl": "https://api.maoyanapi.top/api.php/provide/vod/at/xml",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "baidu",
+"name": "百度资源",
+"baseUrl": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "baofeng",
+"name": "暴风资源",
+"baseUrl": "https://bfzyapi.com/api.php/provide/vod/at/xml",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "guangsu",
+"name": "光速资源",
+"baseUrl": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "niuniu",
+"name": "牛牛资源",
+"baseUrl": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "xibao",
+"name": "细胞资源",
+"baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod/at/xml/",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "dianyingtiantang",
+"name": "电影天堂",
+"baseUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "huya",
+"name": "虎牙资源",
+"baseUrl": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "taopian",
+"name": "淘片资源",
+"baseUrl": "https://taopianapi.com/cjapi/sda/vod/json.html",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "jinyingyun",
+"name": "金鹰云资源",
+"baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "douban",
+"name": "豆瓣资源",
+"baseUrl": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "maotai",
+"name": "茅台资源",
+"baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "xingyuan",
+"name": "幸资源站",
+"baseUrl": "https://xzybb1.com/api.php/provide/vod/at/xml",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "maoyan2",
+"name": "猫眼资源2",
+"baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
+"group": "normal",
+"enabled": true
+},
+{
+"id": "ck",
+"name": "CK伦理资源",
+"baseUrl": "https://ckzy.me/api.php/provide/vod/at/xml/?ac=list",
+"group": "premium",
+"enabled": true
+},
+{
+"id": "ikun",
+"name": "ikun资源",
+"baseUrl": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+"group": "premium",
+"enabled": true
+},
+{
+"id": "jinying",
+"name": "金鹰资源",
+"baseUrl": "https://jyzyapi.com/provide/vod/at/xml/",
+"group": "premium",
+"enabled": true
+}
 ]
