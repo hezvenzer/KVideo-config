@@ -408,14 +408,6 @@
     "priority": 1
   },
   {
-    "id": "shayu",
-    "name": "鲨鱼资源站",
-    "baseUrl": "https://shayuapi.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "madou",
     "name": "麻豆资源站",
     "baseUrl": "https://91md.me/api.php/provide/vod/",
@@ -483,14 +475,6 @@
     "id": "maoyan",
     "name": "🎬猫眼资源",
     "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "feifan",
-    "name": "非凡资源",
-    "baseUrl": "http://www.ffzy.tv/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 10
