@@ -2,7 +2,7 @@
   {
     "id": "juliang",
     "name": "🎬-巨量-",
-    "baseUrl": "https://api.juliang.live/api/provide/vod/?ac=detail",
+    "baseUrl": "https://api.juliang.live/api/provide/vod",
     "group": "normal",
     "enabled": true
   },
