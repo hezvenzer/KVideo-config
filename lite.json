@@ -528,6 +528,22 @@
     "priority": 10
   },
   {
+    "id": "subo",
+    "name": "🎬速播资源",
+    "baseUrl": "https://subocaiji.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "subo",
+    "name": "速播资源",
+    "baseUrl": "https://subocj.com/api.php/provide/vod/at/json",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
     "id": "maoyan",
     "name": "猫眼资源",
     "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
@@ -539,6 +555,22 @@
     "id": "maoyan2",
     "name": "猫眼资源2",
     "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "subo2",
+    "name": "速播资源站",
+    "baseUrl": "https://subocj.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "subo3",
+    "name": "速播资源站2",
+    "baseUrl": "https://www.suboziyuan.net/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 10
