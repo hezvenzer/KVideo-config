@@ -162,7 +162,15 @@
   {
     "id": "quantum",
     "name": "量子资源",
-    "baseUrl": "http://cj.lziapi.com/api.php/provide/vod/",
+    "baseUrl": "http://cj.lziapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "feifan",
+    "name": "非凡资源",
+    "baseUrl": "http://www.ffzy.tv/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -170,7 +178,7 @@
   {
     "id": "wujin",
     "name": "无尽资源",
-    "baseUrl": "https://api.wujinapi.me/api.php/provide/vod/",
+    "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -520,14 +528,6 @@
     "priority": 10
   },
   {
-    "id": "feifan",
-    "name": "非凡资源",
-    "baseUrl": "http://www.ffzy.tv/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
     "id": "maoyan",
     "name": "猫眼资源",
     "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
@@ -544,41 +544,9 @@
     "priority": 10
   },
   {
-    "id": "danaizi",
-    "name": "大X子资源站",
-    "baseUrl": "https://apidanaizi.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "yuenan",
-    "name": "越南资源站",
-    "baseUrl": "https://api.vnzyz.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "baipiao",
-    "name": "白嫖资源站",
-    "baseUrl": "https://www.kxgav.com/api/json.php",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "meishaonv",
-    "name": "美少女资源站",
-    "baseUrl": "https://www.msnii.com/api/json.php",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "qingshui",
-    "name": "清水源资源站",
-    "baseUrl": "https://www.xrbsp.com/api/json.php",
+    "id": "shayu",
+    "name": "鲨鱼资源站",
+    "baseUrl": "https://shayuapi.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 10

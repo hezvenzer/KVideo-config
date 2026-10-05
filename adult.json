@@ -290,7 +290,15 @@
   {
     "id": "quantum",
     "name": "量子资源",
-    "baseUrl": "http://cj.lziapi.com/api.php/provide/vod/",
+    "baseUrl": "http://cj.lziapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "feifan",
+    "name": "非凡资源",
+    "baseUrl": "http://www.ffzy.tv/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -298,7 +306,7 @@
   {
     "id": "wujin",
     "name": "无尽资源",
-    "baseUrl": "https://api.wujinapi.me/api.php/provide/vod/",
+    "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -672,34 +680,10 @@
     "priority": 10
   },
   {
-    "id": "danaizi",
-    "name": "🔞-大奶子-",
-    "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
+    "id": "shayu",
+    "name": "🔞鲨鱼资源",
+    "baseUrl": "https://shayuapi.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "msnii",
-    "name": "🔞-美少女-",
-    "baseUrl": "https://www.msnii.com/api/json.php",
-    "group": "premium",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "kxgav",
-    "name": "🔞白嫖资源",
-    "baseUrl": "https://www.kxgav.com/api/json.php",
-    "group": "premium",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "feifan",
-    "name": "非凡资源",
-    "baseUrl": "http://www.ffzy.tv/api.php/provide/vod/",
-    "group": "normal",
     "enabled": true,
     "priority": 10
   },
@@ -720,70 +704,129 @@
     "priority": 10
   },
   {
+    "id": "shayu",
+    "name": "鲨鱼资源站",
+    "baseUrl": "https://shayuapi.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "maotai",
+    "name": "🎬茅台资源",
+    "baseUrl": "https://caiji.maotai999.vip/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
+  },
+  {
+    "id": "danaizi",
+    "name": "🔞-大奶子-",
+    "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "搜索无结果"
+  },
+  {
+    "id": "msnii",
+    "name": "🔞-美少女-",
+    "baseUrl": "https://www.msnii.com/api/json.php",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "搜索无结果"
+  },
+  {
+    "id": "kxgav",
+    "name": "🔞白嫖资源",
+    "baseUrl": "https://www.kxgav.com/api/json.php",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "搜索无结果"
+  },
+  {
+    "id": "semao",
+    "name": "🔞色猫资源",
+    "baseUrl": "https://caiji.semaozy.net/inc/apijson_vod.php",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "搜索无结果"
+  },
+  {
+    "id": "aosika",
+    "name": "🔞-奥斯卡-",
+    "baseUrl": "https://aosikazy1.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
+  },
+  {
     "id": "ck",
     "name": "CK伦理资源",
     "baseUrl": "https://ckzy.me/api.php/provide/vod",
     "group": "premium",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "搜索无结果"
   },
   {
     "id": "danaizi",
     "name": "大X子资源站",
     "baseUrl": "https://apidanaizi.com/api.php/provide/vod/",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "搜索无结果"
+  },
+  {
+    "id": "aosika",
+    "name": "奥斯卡资源站",
+    "baseUrl": "https://aosikazy1.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
   },
   {
     "id": "yuenan",
     "name": "越南资源站",
     "baseUrl": "https://api.vnzyz.com/api.php/provide/vod/",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "搜索无结果"
   },
   {
     "id": "baipiao",
     "name": "白嫖资源站",
     "baseUrl": "https://www.kxgav.com/api/json.php",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "搜索无结果"
   },
   {
     "id": "meishaonv",
     "name": "美少女资源站",
     "baseUrl": "https://www.msnii.com/api/json.php",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "搜索无结果"
   },
   {
     "id": "qingshui",
     "name": "清水源资源站",
     "baseUrl": "https://www.xrbsp.com/api/json.php",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "shayu",
-    "name": "🔞鲨鱼资源",
-    "baseUrl": "https://shayuapi.com/api.php/provide/vod",
-    "group": "premium",
     "enabled": false,
-    "priority": 102,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "shayu",
-    "name": "鲨鱼资源站",
-    "baseUrl": "https://shayuapi.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": false,
-    "priority": 102,
-    "_comment": "超时/宕机"
+    "priority": 101,
+    "_comment": "搜索无结果"
   },
   {
     "id": "kuaiche",
@@ -791,7 +834,7 @@
     "baseUrl": "https://caiji.kuaichezy.org/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 103,
+    "priority": 104,
     "_comment": "接口解析错误"
   },
   {
@@ -800,7 +843,7 @@
     "baseUrl": "https://mozhuazy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 103,
+    "priority": 104,
     "_comment": "超时/宕机"
   },
   {
@@ -809,7 +852,7 @@
     "baseUrl": "https://api.niuniuzy.me/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 103,
+    "priority": 104,
     "_comment": "接口解析错误"
   },
   {
@@ -818,7 +861,7 @@
     "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -827,7 +870,7 @@
     "baseUrl": "https://cj.yayazy.net/api.php/provide/vod/",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "接口解析错误"
   },
   {
@@ -836,7 +879,7 @@
     "baseUrl": "https://tyyszyapi.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "接口解析错误"
   },
   {
@@ -845,7 +888,7 @@
     "baseUrl": "https://suonizy.net/api.php/provide/vod/",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "接口解析错误"
   },
   {
@@ -854,7 +897,7 @@
     "baseUrl": "https://mtzy5.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "接口解析错误"
   },
   {
@@ -863,7 +906,7 @@
     "baseUrl": "https://dbzy.tv/api.php/provide/vod/",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "接口解析错误"
   },
   {
@@ -872,7 +915,7 @@
     "baseUrl": "https://subocj.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "搜索无结果"
   },
   {
@@ -881,7 +924,7 @@
     "baseUrl": "https://www.suboziyuan.net/api.php/provide/vod/",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "搜索无结果"
   },
   {
@@ -890,7 +933,7 @@
     "baseUrl": "https://p2100.net/api.php/provide/vod/",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -899,16 +942,7 @@
     "baseUrl": "https://dadiapi.com/api.php",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
-    "_comment": "接口解析错误"
-  },
-  {
-    "id": "aosika",
-    "name": "奥斯卡资源站",
-    "baseUrl": "https://aosikazy.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "接口解析错误"
   },
   {
@@ -917,7 +951,7 @@
     "baseUrl": "https://xxavs.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -926,7 +960,7 @@
     "baseUrl": "https://bhziyuan.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -935,7 +969,7 @@
     "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -944,7 +978,7 @@
     "baseUrl": "https://caiji.semaozy.net/inc/api.php",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "接口解析错误"
   },
   {
@@ -953,7 +987,7 @@
     "baseUrl": "https://www.xiangjiaozyw.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -962,7 +996,7 @@
     "baseUrl": "https://api.okzy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -971,7 +1005,7 @@
     "baseUrl": "https://api.ukuzy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -980,7 +1014,7 @@
     "baseUrl": "https://api.yzzy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -989,7 +1023,7 @@
     "baseUrl": "https://api.ryzy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -998,7 +1032,7 @@
     "baseUrl": "https://api.kczy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -1007,7 +1041,7 @@
     "baseUrl": "https://api.xlzy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -1016,7 +1050,7 @@
     "baseUrl": "https://api.hnzy2.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -1025,7 +1059,7 @@
     "baseUrl": "https://api.jyzy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -1034,7 +1068,7 @@
     "baseUrl": "https://api.sdzy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -1043,7 +1077,7 @@
     "baseUrl": "https://api.yjzy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -1052,7 +1086,7 @@
     "baseUrl": "https://api.ckzy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -1061,7 +1095,7 @@
     "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": false,
-    "priority": 109,
+    "priority": 110,
     "_comment": "超时/宕机"
   },
   {
@@ -1070,7 +1104,7 @@
     "baseUrl": "https://subocj.com/api.php/provide/vod/at/json",
     "group": "normal",
     "enabled": false,
-    "priority": 111,
+    "priority": 112,
     "_comment": "搜索无结果"
   },
   {
@@ -1079,7 +1113,7 @@
     "baseUrl": "http://sdzyapi.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": false,
-    "priority": 111,
+    "priority": 112,
     "_comment": "接口解析错误"
   },
   {
@@ -1088,7 +1122,7 @@
     "baseUrl": "https://xzybb1.com/api.php/provide/vod/at/xml",
     "group": "normal",
     "enabled": false,
-    "priority": 111,
+    "priority": 112,
     "_comment": "超时/宕机"
   },
   {
@@ -1097,7 +1131,7 @@
     "baseUrl": "https://subocaiji.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 113,
+    "priority": 114,
     "_comment": "搜索无结果"
   },
   {
@@ -1106,22 +1140,13 @@
     "baseUrl": "https://p2100.net/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 126,
+    "priority": 127,
     "_comment": "超时/宕机"
   },
   {
     "id": "dbzy",
     "name": "🎬豆瓣资源",
     "baseUrl": "https://caiji.dbzy5.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 130,
-    "_comment": "接口解析错误"
-  },
-  {
-    "id": "maotai",
-    "name": "🎬茅台资源",
-    "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
     "priority": 130,
@@ -1164,24 +1189,6 @@
     "_comment": "超时/宕机"
   },
   {
-    "id": "91jp",
-    "name": "🔞91-精品-",
-    "baseUrl": "https://91jpzyw.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 130,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "alvin",
-    "name": "🔞--AIvin-",
-    "baseUrl": "http://lbapiby.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 130,
-    "_comment": "超时/宕机"
-  },
-  {
     "id": "youyou",
     "name": "🔞优优资源",
     "baseUrl": "https://www.yyzywcj.com/api.php/provide/vod",
@@ -1198,33 +1205,6 @@
     "enabled": false,
     "priority": 130,
     "_comment": "超时/宕机"
-  },
-  {
-    "id": "baiwan",
-    "name": "🔞百万资源",
-    "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 130,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "semao",
-    "name": "🔞色猫资源",
-    "baseUrl": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 130,
-    "_comment": "搜索无结果"
-  },
-  {
-    "id": "aosika",
-    "name": "🔞-奥斯卡-",
-    "baseUrl": "https://aosikazy.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 130,
-    "_comment": "接口解析错误"
   },
   {
     "id": "wangwang",
