@@ -861,6 +861,13 @@
     "enabled": true
   },
   {
+    "id": "senlin",
+    "name": "森林资源",
+    "baseUrl": "https://slapibf.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true
+  },
+  {
     "id": "xiaojizy",
     "name": "小鸡资源站",
     "baseUrl": "https://api.xiaojizy.live/provide/vod/",
