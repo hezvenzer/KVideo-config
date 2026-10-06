@@ -8,6 +8,30 @@
     "priority": 1
   },
   {
+    "id": "haitun",
+    "name": "海豚资源",
+    "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "lezhizy",
+    "name": "乐子资源",
+    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "twzy",
+    "name": "TW资源站",
+    "baseUrl": "https://cj.10010888.xyz/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "iqiyi",
     "name": "🎬-爱奇艺-",
     "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
@@ -494,6 +518,14 @@
     "group": "normal",
     "enabled": true,
     "priority": 1
+  },
+  {
+    "id": "jinyingyun",
+    "name": "金鹰云资源",
+    "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
   },
   {
     "id": "api155",
