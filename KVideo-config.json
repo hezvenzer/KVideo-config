@@ -6,6 +6,34 @@
   "group": "normal",
   "enabled": true
 },
+ {
+  "id": "haitun",
+  "name": "海豚资源",
+  "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
+  "group": "normal",
+  "enabled": true
+},
+ {
+  "id": "lezhizy",
+  "name": "乐子资源",
+  "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
+  "group": "normal",
+  "enabled": true
+},
+ {
+  "id": "twzy",
+  "name": "TW资源站",
+  "baseUrl": "https://cj.10010888.xyz/api.php/provide/vod",
+  "group": "normal",
+  "enabled": true
+},
+ {
+   "id": "tianya",
+   "name": "天涯资源",
+   "baseUrl": "https://tyyszy.com/api.php/provide/vod",
+   "group": "normal",
+   "enabled": true
+    },
   {
     "id": "iqiyi",
     "name": "🎬-爱奇艺-",
@@ -115,13 +143,6 @@
     "id": "xinlang",
     "name": "🎬新浪资源",
     "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-    "group": "normal",
-    "enabled": true
-  },
-  {
-    "id": "wangwang",
-    "name": "🎬旺旺资源",
-    "baseUrl": "https://api.wwzy.tv/api.php/provide/vod",
     "group": "normal",
     "enabled": true
   },
@@ -458,13 +479,6 @@
     "id": "hongniu",
     "name": "红牛资源",
     "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true
-  },
-  {
-    "id": "wangwang",
-    "name": "旺旺资源",
-    "baseUrl": "https://api.wwzy.tv/api.php/provide/vod",
     "group": "normal",
     "enabled": true
   },
@@ -931,30 +945,9 @@
     "enabled": true
   },
   {
-    "id": "ryzy",
-    "name": "如意资源站",
-    "baseUrl": "https://api.ryzy.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true
-  },
-  {
     "id": "kczy",
     "name": "快车资源站",
     "baseUrl": "https://api.kczy.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true
-  },
-  {
-    "id": "xlzy",
-    "name": "新浪资源站",
-    "baseUrl": "https://api.xlzy.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true
-  },
-  {
-    "id": "hnzy2",
-    "name": "红牛资源站2",
-    "baseUrl": "https://api.hnzy2.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true
   },
