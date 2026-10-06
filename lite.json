@@ -1,5 +1,13 @@
 [
   {
+    "id": "juliang",
+    "name": "🎬-巨量-",
+    "baseUrl": "https://api.juliang.live/api/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "iqiyi",
     "name": "🎬-爱奇艺-",
     "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
@@ -219,14 +227,6 @@
     "id": "huya",
     "name": "虎牙资源",
     "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "jinyingyun",
-    "name": "金鹰云资源",
-    "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
     "group": "normal",
     "enabled": true,
     "priority": 1
