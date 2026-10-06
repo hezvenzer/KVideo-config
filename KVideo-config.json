@@ -1,13 +1,11 @@
 [
-  {
-    "id": "juliang",
-    "name": "🎬-巨量-",
-    "baseUrl": "https://api.juliang.live/api",
-    "searchPath": "/provide/vod",
-    "detailPath": "/provide/vod",
-    "group": "normal",
-    "enabled": true
-  },
+ {
+  "id": "juliang",
+  "name": "🎬-巨量-",
+  "baseUrl": "https://api.juliang.live/api/provide/vod",
+  "group": "normal",
+  "enabled": true
+},
   {
     "id": "iqiyi",
     "name": "🎬-爱奇艺-",
