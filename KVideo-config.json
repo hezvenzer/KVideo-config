@@ -682,7 +682,7 @@
     "id": "ikun",
     "name": "ikun资源",
     "baseUrl": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
-    "group": "normal",
+    "group": "premium",
     "enabled": true
   },
   {
