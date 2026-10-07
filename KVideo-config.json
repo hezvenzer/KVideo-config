@@ -300,6 +300,34 @@
     "group": "premium",
     "enabled": true
   },
+ {
+    "id": "sexy8",
+    "name": "杏吧资源",
+    "baseUrl": "https://json.xingba222.com/api.php/provide/vod/",
+    "group": "premium",
+    "enabled": true
+  },
+  {
+    "id": "heiliao",
+    "name": "黑料资源",
+    "baseUrl": "https://www.heiliaozyapi.com/api.php/provide/vod/",
+    "group": "premium",
+    "enabled": true
+  },
+  {
+    "id": "dadi",
+    "name": "大地资源",
+    "baseUrl": "https://dadiapi.com/api.php/provide/vod/",
+    "group": "premium",
+    "enabled": true
+  },
+ {
+    "id": "lebo",
+    "name": "乐播资源",
+    "baseUrl": "https://lbapi9.com/api.php/provide/vod/",
+    "group": "premium",
+    "enabled": true
+  },
   {
     "id": "lsbzy",
     "name": "🔞-老色逼-",
