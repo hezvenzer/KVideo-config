@@ -1,6 +1,6 @@
 # 🎬 API 健康巡检报告
 
-> **更新时间：** 2026-10-08 05:42 CST | **检测关键字：** 斗罗大陆
+> **更新时间：** 2026-10-08 21:48 CST | **检测关键字：** 斗罗大陆
 
 | 状态 | 资源名称 | 优先级 | 成功率 | 最近7天趋势 | 源站地址 | 备注 |
 | :--- | :--- | :---: | :---: | :--- | :--- | :--- |
@@ -9,7 +9,7 @@
 | ✅ | **鲸鱼资源** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [jyzyapi.com](https://jyzyapi.com/provide/vod) | - |
 | ✅ | **海豚资源** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [hhzyapi.com](https://hhzyapi.com/api.php/provide/vod) | - |
 | ✅ | **乐子资源** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [cj.lziapi.com](https://cj.lziapi.com/api.php/provide/vod) | - |
-| ✅ | **非凡采集https** | 1 | 100.0% | `-✅✅✅✅✅✅` | [cj.ffzyapi.com](https://cj.ffzyapi.com/api.php/provide/vod) | - |
+| ✅ | **非凡采集https** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [cj.ffzyapi.com](https://cj.ffzyapi.com/api.php/provide/vod) | - |
 | ✅ | **U酷资源88** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [api.ukuapi88.com](https://api.ukuapi88.com/api.php/provide/vod) | - |
 | ✅ | **🎬iKun资源** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [ikunzyapi.com](https://ikunzyapi.com/api.php/provide/vod) | - |
 | ✅ | **🎬电影天堂** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [caiji.dyttzyapi.com](http://caiji.dyttzyapi.com/api.php/provide/vod) | - |
@@ -33,9 +33,11 @@
 | ✅ | **🔞155-资源** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [155api.com](https://155api.com/api.php/provide/vod) | - |
 | ✅ | **🔞玉兔资源** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [apiyutu.com](https://apiyutu.com/api.php/provide/vod) | - |
 | ✅ | **🔞番号资源** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [fhapi9.com](http://fhapi9.com/api.php/provide/vod) | - |
-| ✅ | **杏吧资源** | 1 | 100.0% | `----✅✅✅` | [json.xingba222.com](https://json.xingba222.com/api.php/provide/vod/) | - |
-| ✅ | **黑料资源** | 1 | 100.0% | `----✅✅✅` | [www.heiliaozyapi.com](https://www.heiliaozyapi.com/api.php/provide/vod/) | - |
+| ✅ | **杏吧资源** | 1 | 100.0% | `---✅✅✅✅` | [json.xingba222.com](https://json.xingba222.com/api.php/provide/vod/) | - |
+| ✅ | **黑料资源** | 1 | 100.0% | `---✅✅✅✅` | [www.heiliaozyapi.com](https://www.heiliaozyapi.com/api.php/provide/vod/) | - |
 | ✅ | **乐播资源** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [lbapi9.com](https://lbapi9.com/api.php/provide/vod/) | - |
+| ✅ | **辣椒资源** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [apilj.com](https://apilj.com/api.php/provide/vod/) | - |
+| ✅ | **滴滴资源** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [api.ddapi.cc](https://api.ddapi.cc/api.php/provide/vod) | - |
 | ✅ | **🔞-老色逼-** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [apilsbzy1.com](https://apilsbzy1.com/api.php/provide/vod) | - |
 | ✅ | **🔞小鸡资源** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [api.xiaojizy.live](https://api.xiaojizy.live/provide/vod) | - |
 | ✅ | **🔞jkun资源** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [jkunzyapi.com](https://jkunzyapi.com/api.php/provide/vod) | - |
@@ -58,8 +60,8 @@
 | ✅ | **光速资源** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [api.guangsuapi.com](https://api.guangsuapi.com/api.php/provide/vod) | - |
 | ✅ | **电影天堂** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [caiji.dyttzyapi.com](http://caiji.dyttzyapi.com/api.php/provide/vod) | - |
 | ✅ | **虎牙资源** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [www.huyaapi.com](https://www.huyaapi.com/api.php/provide/vod) | - |
-| ✅ | **黄色仓库vip** | 1 | 100.0% | `-✅✅✅✅✅✅` | [hsckzy.vip](https://hsckzy.vip/api.php/provide/vod) | - |
-| ✅ | **玉兔2** | 1 | 100.0% | `-✅✅✅✅✅✅` | [yutuzy10.com](https://yutuzy10.com/api.php/provide/vod) | - |
+| ✅ | **黄色仓库vip** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [hsckzy.vip](https://hsckzy.vip/api.php/provide/vod) | - |
+| ✅ | **玉兔2** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [yutuzy10.com](https://yutuzy10.com/api.php/provide/vod) | - |
 | ✅ | **ikun资源** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [ikunzyapi.com](https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json) | - |
 | ✅ | **金鹰资源** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [jyzyapi.com](https://jyzyapi.com/provide/vod) | - |
 | ✅ | **360资源站** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [360zy.com](https://360zy.com/api.php/provide/vod/) | - |
@@ -78,7 +80,7 @@
 | ✅ | **爱坤资源站** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [ikunzyapi.com](https://ikunzyapi.com/api.php/provide/vod/) | - |
 | ✅ | **奶香香资源站** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [naixxzy.com](https://naixxzy.com/api.php/provide/vod/) | - |
 | ✅ | **香奶儿资源站** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [www.gdlsp.com](https://www.gdlsp.com/api/json.php) | - |
-| ✅ | **森林资源** | 1 | 100.0% | `--✅✅✅✅✅` | [slapibf.com](https://slapibf.com/api.php/provide/vod) | - |
+| ✅ | **森林资源** | 1 | 100.0% | `-✅✅✅✅✅✅` | [slapibf.com](https://slapibf.com/api.php/provide/vod) | - |
 | ✅ | **小鸡资源站** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [api.xiaojizy.live](https://api.xiaojizy.live/provide/vod/) | - |
 | ✅ | **桃花资源站** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [thzy1.me](https://thzy1.me/api.php/provide/vod/) | - |
 | ✅ | **森林资源站** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [slapibf.com](https://slapibf.com/api.php/provide/vod/) | - |
@@ -95,70 +97,71 @@
 | ✅ | **豆豆资源站** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [api.douapi.cc](https://api.douapi.cc/api.php/provide/vod) | - |
 | ✅ | **X色A-V资源站** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [www.pgxdy.com](https://www.pgxdy.com/api/json.php) | - |
 | ✅ | **香系源资源站** | 1 | 100.0% | `✅✅✅✅✅✅✅` | [www.gdlsp.com](https://www.gdlsp.com/api/json.php) | - |
-| ✅ | **🎬-爱奇艺-** | 5 | 93.3% | `✅❌✅✅❌✅✅` | [iqiyizyapi.com](https://iqiyizyapi.com/api.php/provide/vod) | - |
-| ✅ | **🔞souavZY** | 5 | 93.3% | `✅✅✅✅✅✅✅` | [api.souavzyw.net](https://api.souavzyw.net/api.php/provide/vod) | - |
-| ✅ | **金鹰云资源** | 5 | 95.7% | `✅✅✅✅✅✅✅` | [jyzyapi.com](https://jyzyapi.com/provide/vod/from/jinyingyun/at/json) | - |
-| ✅ | **爱奇艺资源站** | 5 | 93.3% | `✅❌✅✅❌✅✅` | [iqiyizyapi.com](https://iqiyizyapi.com/api.php/provide/vod) | - |
-| ✅ | **搜A-V资源站** | 5 | 93.3% | `✅✅✅✅✅✅✅` | [api.souavzyw.net](https://api.souavzyw.net/api.php/provide/vod) | - |
-| ✅ | **TW资源站** | 10 | 57.1% | `✅✅✅❌❌❌✅` | [cj.10010888.xyz](https://cj.10010888.xyz/api.php/provide/vod) | - |
+| ✅ | **🔞黄色仓库** | 5 | 93.3% | `✅✅✅✅✅❌✅` | [hsckzy.xyz](https://hsckzy.xyz/api.php/provide/vod) | - |
+| ✅ | **🔞souavZY** | 5 | 96.7% | `✅✅✅✅✅✅✅` | [api.souavzyw.net](https://api.souavzyw.net/api.php/provide/vod) | - |
+| ✅ | **金鹰云资源** | 5 | 95.8% | `✅✅✅✅✅✅✅` | [jyzyapi.com](https://jyzyapi.com/provide/vod/from/jinyingyun/at/json) | - |
+| ✅ | **爱奇艺资源站** | 5 | 90.0% | `❌✅✅❌✅✅❌` | [iqiyizyapi.com](https://iqiyizyapi.com/api.php/provide/vod) | - |
+| ✅ | **搜A-V资源站** | 5 | 96.7% | `✅✅✅✅✅✅✅` | [api.souavzyw.net](https://api.souavzyw.net/api.php/provide/vod) | - |
+| ✅ | **TW资源站** | 10 | 62.5% | `✅✅❌❌❌✅✅` | [cj.10010888.xyz](https://cj.10010888.xyz/api.php/provide/vod) | - |
 | ✅ | **速博资源** | 10 | 53.3% | `✅✅✅✅✅✅✅` | [subocaiji.com](https://subocaiji.com/api.php/provide/vod) | - |
 | ✅ | **🎬猫眼资源** | 10 | 83.3% | `✅✅✅✅✅✅✅` | [api.maoyanapi.top](https://api.maoyanapi.top/api.php/provide/vod) | - |
 | ✅ | **🎬速播资源** | 10 | 53.3% | `✅✅✅✅✅✅✅` | [subocaiji.com](https://subocaiji.com/api.php/provide/vod) | - |
+| ✅ | **鲨鱼资源** | 10 | 80.0% | `✅✅✅✅✅✅✅` | [shayuapi.com](https://shayuapi.com/api.php/provide/vod) | - |
 | ✅ | **🔞鲨鱼资源** | 10 | 80.0% | `✅✅✅✅✅✅✅` | [shayuapi.com](https://shayuapi.com/api.php/provide/vod) | - |
-| ✅ | **速播资源** | 10 | 47.8% | `✅✅✅✅✅✅✅` | [subocj.com](https://subocj.com/api.php/provide/vod/at/json) | - |
+| ✅ | **速播资源** | 10 | 50.0% | `✅✅✅✅✅✅✅` | [subocj.com](https://subocj.com/api.php/provide/vod/at/json) | - |
 | ✅ | **猫眼资源** | 10 | 83.3% | `✅✅✅✅✅✅✅` | [api.maoyanapi.top](https://api.maoyanapi.top/api.php/provide/vod) | - |
 | ✅ | **猫眼资源2** | 10 | 83.3% | `✅✅✅✅✅✅✅` | [api.maoyanapi.top](https://api.maoyanapi.top/api.php/provide/vod) | - |
-| ✅ | **速播资源站** | 10 | 55.0% | `✅✅✅✅✅✅✅` | [subocj.com](https://subocj.com/api.php/provide/vod/) | - |
-| ✅ | **速播资源站2** | 10 | 55.0% | `✅✅✅✅✅✅✅` | [www.suboziyuan.net](https://www.suboziyuan.net/api.php/provide/vod/) | - |
-| ✅ | **鲨鱼资源站** | 10 | 65.0% | `✅❌✅❌✅✅✅` | [shayuapi.com](https://shayuapi.com/api.php/provide/vod/) | - |
-| ❌ | **🔞黄色仓库** | 101 | 93.3% | `✅✅✅✅✅✅❌` | [hsckzy.xyz](https://hsckzy.xyz/api.php/provide/vod) | 超时/宕机 |
-| 🚨 | **大地资源** | 103 | 0.0% | `----❌❌❌` | [dadiapi.com](https://dadiapi.com/api.php/provide/vod/) | 接口解析错误 |
-| 🚨 | **丫丫点播** | 106 | 0.0% | `-❌❌❌❌❌❌` | [cj.yayazy.net](https://cj.yayazy.net/api.php/provide/vod) | 接口解析错误 |
-| 🚨 | **步步高资源** | 106 | 0.0% | `-❌❌❌❌❌❌` | [api.yparse.com](https://api.yparse.com/api/json) | 超时/宕机 |
-| 🚨 | **索尼资源** | 106 | 0.0% | `-❌❌❌❌❌❌` | [suoniapi.com](https://suoniapi.com/api.php/provide/vod) | 接口解析错误 |
-| 🚨 | **闪电资源** | 106 | 0.0% | `-❌❌❌❌❌❌` | [sdzyapi.com](https://sdzyapi.com/api.php/provide/vod/) | 接口解析错误 |
-| 🚨 | **CK伦理资源** | 106 | 0.0% | `-❌❌❌❌❌❌` | [www.ckzy1.com](https://www.ckzy1.com/api.php/provide/vod) | 搜索无结果 |
-| 🚨 | **奥斯卡资源站** | 106 | 0.0% | `-❌❌❌❌❌❌` | [aosikazy.com](https://aosikazy.com/api.php/provide/vod) | 接口解析错误 |
-| 🚨 | **百万资源** | 106 | 0.0% | `-❌❌❌❌❌❌` | [api.bwzyz.com](https://api.bwzyz.com/api.php/provide/vod) | 超时/宕机 |
-| 🚨 | **天涯资源** | 107 | 0.0% | `❌❌❌❌❌❌❌` | [tyyszy.com](https://tyyszy.com/api.php/provide/vod) | 接口解析错误 |
-| 🚨 | **🔞-大奶子-** | 112 | 10.0% | `❌❌❌❌❌❌❌` | [apidanaizi.com](https://apidanaizi.com/api.php/provide/vod) | 搜索无结果 |
-| 🚨 | **🔞-美少女-** | 112 | 10.0% | `❌❌❌❌❌❌❌` | [www.msnii.com](https://www.msnii.com/api/json.php) | 搜索无结果 |
-| 🚨 | **🔞白嫖资源** | 112 | 10.0% | `❌❌❌❌❌❌❌` | [www.kxgav.com](https://www.kxgav.com/api/json.php) | 搜索无结果 |
-| 🚨 | **🔞色猫资源** | 112 | 0.0% | `❌❌❌❌❌❌❌` | [caiji.semaozy.net](https://caiji.semaozy.net/inc/apijson_vod.php) | 搜索无结果 |
-| 🚨 | **🔞-奥斯卡-** | 112 | 0.0% | `❌❌❌❌❌❌❌` | [aosikazy1.com](https://aosikazy1.com/api.php/provide/vod) | 接口解析错误 |
-| 🚨 | **淫水机资源站** | 112 | 5.0% | `❌❌❌❌❌❌❌` | [www.xrbsp.com](https://www.xrbsp.com/api/json.php) | 搜索无结果 |
-| 🚨 | **大X子资源站** | 112 | 5.0% | `❌❌❌❌❌❌❌` | [apidanaizi.com](https://apidanaizi.com/api.php/provide/vod/) | 搜索无结果 |
-| 🚨 | **越南资源站** | 112 | 5.0% | `❌❌❌❌❌❌❌` | [api.vnzyz.com](https://api.vnzyz.com/api.php/provide/vod/) | 搜索无结果 |
-| 🚨 | **白嫖资源站** | 112 | 10.0% | `❌❌❌❌❌❌❌` | [www.kxgav.com](https://www.kxgav.com/api/json.php) | 搜索无结果 |
-| 🚨 | **美少女资源站** | 112 | 10.0% | `❌❌❌❌❌❌❌` | [www.msnii.com](https://www.msnii.com/api/json.php) | 搜索无结果 |
-| 🚨 | **清水源资源站** | 112 | 5.0% | `❌❌❌❌❌❌❌` | [www.xrbsp.com](https://www.xrbsp.com/api/json.php) | 搜索无结果 |
-| 🚨 | **牛牛点播** | 115 | 0.0% | `❌❌❌❌❌❌❌` | [api.niuniuzy.me](https://api.niuniuzy.me/api.php/provide/vod) | 接口解析错误 |
-| 🚨 | **快车资源** | 115 | 0.0% | `❌❌❌❌❌❌❌` | [caiji.kuaichezy.org](https://caiji.kuaichezy.org/api.php/provide/vod) | 接口解析错误 |
-| 🚨 | **魔爪资源** | 115 | 0.0% | `❌❌❌❌❌❌❌` | [mozhuazy.com](https://mozhuazy.com/api.php/provide/vod) | 超时/宕机 |
-| 🚨 | **牛牛资源** | 115 | 0.0% | `❌❌❌❌❌❌❌` | [api.niuniuzy.me](https://api.niuniuzy.me/api.php/provide/vod) | 接口解析错误 |
-| 🚨 | **细胞资源** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [www.xxibaozyw.com](https://www.xxibaozyw.com/api.php/provide/vod) | 超时/宕机 |
-| 🚨 | **鸭鸭资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [cj.yayazy.net](https://cj.yayazy.net/api.php/provide/vod/) | 接口解析错误 |
-| 🚨 | **天涯影视资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [tyyszyapi.com](https://tyyszyapi.com/api.php/provide/vod/) | 接口解析错误 |
-| 🚨 | **索尼采集站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [suonizy.net](https://suonizy.net/api.php/provide/vod/) | 接口解析错误 |
-| 🚨 | **茅台资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [mtzy5.com](https://mtzy5.com/api.php/provide/vod/) | 接口解析错误 |
-| 🚨 | **豆瓣资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [dbzy.tv](https://dbzy.tv/api.php/provide/vod/) | 接口解析错误 |
-| 🚨 | **飘零影院资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [p2100.net](https://p2100.net/api.php/provide/vod/) | 超时/宕机 |
-| 🚨 | **大地资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [dadiapi.com](https://dadiapi.com/api.php) | 接口解析错误 |
-| 🚨 | **湿乐园资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [xxavs.com](https://xxavs.com/api.php/provide/vod/) | 超时/宕机 |
-| 🚨 | **百花资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [bhziyuan.com](https://bhziyuan.com/api.php/provide/vod) | 超时/宕机 |
-| 🚨 | **细胞网资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [www.xxibaozyw.com](https://www.xxibaozyw.com/api.php/provide/vod) | 超时/宕机 |
-| 🚨 | **色猫资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [caiji.semaozy.net](https://caiji.semaozy.net/inc/api.php) | 接口解析错误 |
-| 🚨 | **香蕉资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [www.xiangjiaozyw.com](https://www.xiangjiaozyw.com/api.php/provide/vod/) | 超时/宕机 |
-| 🚨 | **ok资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [api.okzy.com](https://api.okzy.com/api.php/provide/vod) | 超时/宕机 |
-| 🚨 | **u酷资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [api.ukuzy.com](https://api.ukuzy.com/api.php/provide/vod) | 超时/宕机 |
-| 🚨 | **优质资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [api.yzzy.com](https://api.yzzy.com/api.php/provide/vod) | 超时/宕机 |
-| 🚨 | **快车资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [api.kczy.com](https://api.kczy.com/api.php/provide/vod) | 超时/宕机 |
-| 🚨 | **金鹰资源站2** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [api.jyzy.com](https://api.jyzy.com/api.php/provide/vod) | 超时/宕机 |
-| 🚨 | **闪电资源2** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [api.sdzy.com](https://api.sdzy.com/api.php/provide/vod) | 超时/宕机 |
-| 🚨 | **雅集资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [api.yjzy.com](https://api.yjzy.com/api.php/provide/vod) | 超时/宕机 |
-| 🚨 | **ck资源站** | 120 | 0.0% | `❌❌❌❌❌❌❌` | [api.ckzy.com](https://api.ckzy.com/api.php/provide/vod) | 超时/宕机 |
-| 🚨 | **樱花资源** | 121 | 4.3% | `❌❌❌❌❌❌❌` | [m3u8.apiyhzy.com](https://m3u8.apiyhzy.com/api.php/provide/vod/) | 超时/宕机 |
-| 🚨 | **幸资源站** | 123 | 0.0% | `❌❌❌❌❌❌❌` | [xzybb1.com](https://xzybb1.com/api.php/provide/vod/at/xml) | 超时/宕机 |
+| ✅ | **速播资源站** | 10 | 57.1% | `✅✅✅✅✅✅✅` | [subocj.com](https://subocj.com/api.php/provide/vod/) | - |
+| ✅ | **速播资源站2** | 10 | 57.1% | `✅✅✅✅✅✅✅` | [www.suboziyuan.net](https://www.suboziyuan.net/api.php/provide/vod/) | - |
+| ✅ | **鲨鱼资源站** | 10 | 66.7% | `❌✅❌✅✅✅✅` | [shayuapi.com](https://shayuapi.com/api.php/provide/vod/) | - |
+| ❌ | **🎬-爱奇艺-** | 101 | 90.0% | `❌✅✅❌✅✅❌` | [iqiyizyapi.com](https://iqiyizyapi.com/api.php/provide/vod) | 超时/宕机 |
+| 🚨 | **大地资源** | 104 | 0.0% | `---❌❌❌❌` | [dadiapi.com](https://dadiapi.com/api.php/provide/vod/) | 接口解析错误 |
+| 🚨 | **丫丫点播** | 107 | 0.0% | `❌❌❌❌❌❌❌` | [cj.yayazy.net](https://cj.yayazy.net/api.php/provide/vod) | 接口解析错误 |
+| 🚨 | **步步高资源** | 107 | 0.0% | `❌❌❌❌❌❌❌` | [api.yparse.com](https://api.yparse.com/api/json) | 超时/宕机 |
+| 🚨 | **索尼资源** | 107 | 0.0% | `❌❌❌❌❌❌❌` | [suoniapi.com](https://suoniapi.com/api.php/provide/vod) | 接口解析错误 |
+| 🚨 | **闪电资源** | 107 | 0.0% | `❌❌❌❌❌❌❌` | [sdzyapi.com](https://sdzyapi.com/api.php/provide/vod/) | 接口解析错误 |
+| 🚨 | **CK伦理资源** | 107 | 0.0% | `❌❌❌❌❌❌❌` | [www.ckzy1.com](https://www.ckzy1.com/api.php/provide/vod) | 搜索无结果 |
+| 🚨 | **奥斯卡资源站** | 107 | 0.0% | `❌❌❌❌❌❌❌` | [aosikazy.com](https://aosikazy.com/api.php/provide/vod) | 接口解析错误 |
+| 🚨 | **百万资源** | 107 | 0.0% | `❌❌❌❌❌❌❌` | [api.bwzyz.com](https://api.bwzyz.com/api.php/provide/vod) | 超时/宕机 |
+| 🚨 | **天涯资源** | 108 | 0.0% | `❌❌❌❌❌❌❌` | [tyyszy.com](https://tyyszy.com/api.php/provide/vod) | 接口解析错误 |
+| 🚨 | **🔞-大奶子-** | 113 | 10.0% | `❌❌❌❌❌❌❌` | [apidanaizi.com](https://apidanaizi.com/api.php/provide/vod) | 搜索无结果 |
+| 🚨 | **🔞-美少女-** | 113 | 10.0% | `❌❌❌❌❌❌❌` | [www.msnii.com](https://www.msnii.com/api/json.php) | 搜索无结果 |
+| 🚨 | **🔞白嫖资源** | 113 | 10.0% | `❌❌❌❌❌❌❌` | [www.kxgav.com](https://www.kxgav.com/api/json.php) | 搜索无结果 |
+| 🚨 | **🔞色猫资源** | 113 | 0.0% | `❌❌❌❌❌❌❌` | [caiji.semaozy.net](https://caiji.semaozy.net/inc/apijson_vod.php) | 搜索无结果 |
+| 🚨 | **🔞-奥斯卡-** | 113 | 0.0% | `❌❌❌❌❌❌❌` | [aosikazy1.com](https://aosikazy1.com/api.php/provide/vod) | 接口解析错误 |
+| 🚨 | **淫水机资源站** | 113 | 4.8% | `❌❌❌❌❌❌❌` | [www.xrbsp.com](https://www.xrbsp.com/api/json.php) | 搜索无结果 |
+| 🚨 | **大X子资源站** | 113 | 4.8% | `❌❌❌❌❌❌❌` | [apidanaizi.com](https://apidanaizi.com/api.php/provide/vod/) | 搜索无结果 |
+| 🚨 | **越南资源站** | 113 | 4.8% | `❌❌❌❌❌❌❌` | [api.vnzyz.com](https://api.vnzyz.com/api.php/provide/vod/) | 搜索无结果 |
+| 🚨 | **白嫖资源站** | 113 | 10.0% | `❌❌❌❌❌❌❌` | [www.kxgav.com](https://www.kxgav.com/api/json.php) | 搜索无结果 |
+| 🚨 | **美少女资源站** | 113 | 10.0% | `❌❌❌❌❌❌❌` | [www.msnii.com](https://www.msnii.com/api/json.php) | 搜索无结果 |
+| 🚨 | **清水源资源站** | 113 | 4.8% | `❌❌❌❌❌❌❌` | [www.xrbsp.com](https://www.xrbsp.com/api/json.php) | 搜索无结果 |
+| 🚨 | **牛牛点播** | 116 | 0.0% | `❌❌❌❌❌❌❌` | [api.niuniuzy.me](https://api.niuniuzy.me/api.php/provide/vod) | 接口解析错误 |
+| 🚨 | **快车资源** | 116 | 0.0% | `❌❌❌❌❌❌❌` | [caiji.kuaichezy.org](https://caiji.kuaichezy.org/api.php/provide/vod) | 接口解析错误 |
+| 🚨 | **魔爪资源** | 116 | 0.0% | `❌❌❌❌❌❌❌` | [mozhuazy.com](https://mozhuazy.com/api.php/provide/vod) | 超时/宕机 |
+| 🚨 | **牛牛资源** | 116 | 0.0% | `❌❌❌❌❌❌❌` | [api.niuniuzy.me](https://api.niuniuzy.me/api.php/provide/vod) | 接口解析错误 |
+| 🚨 | **细胞资源** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [www.xxibaozyw.com](https://www.xxibaozyw.com/api.php/provide/vod) | 超时/宕机 |
+| 🚨 | **鸭鸭资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [cj.yayazy.net](https://cj.yayazy.net/api.php/provide/vod/) | 接口解析错误 |
+| 🚨 | **天涯影视资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [tyyszyapi.com](https://tyyszyapi.com/api.php/provide/vod/) | 接口解析错误 |
+| 🚨 | **索尼采集站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [suonizy.net](https://suonizy.net/api.php/provide/vod/) | 接口解析错误 |
+| 🚨 | **茅台资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [mtzy5.com](https://mtzy5.com/api.php/provide/vod/) | 接口解析错误 |
+| 🚨 | **豆瓣资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [dbzy.tv](https://dbzy.tv/api.php/provide/vod/) | 接口解析错误 |
+| 🚨 | **飘零影院资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [p2100.net](https://p2100.net/api.php/provide/vod/) | 超时/宕机 |
+| 🚨 | **大地资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [dadiapi.com](https://dadiapi.com/api.php) | 接口解析错误 |
+| 🚨 | **湿乐园资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [xxavs.com](https://xxavs.com/api.php/provide/vod/) | 超时/宕机 |
+| 🚨 | **百花资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [bhziyuan.com](https://bhziyuan.com/api.php/provide/vod) | 超时/宕机 |
+| 🚨 | **细胞网资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [www.xxibaozyw.com](https://www.xxibaozyw.com/api.php/provide/vod) | 超时/宕机 |
+| 🚨 | **色猫资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [caiji.semaozy.net](https://caiji.semaozy.net/inc/api.php) | 接口解析错误 |
+| 🚨 | **香蕉资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [www.xiangjiaozyw.com](https://www.xiangjiaozyw.com/api.php/provide/vod/) | 超时/宕机 |
+| 🚨 | **ok资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [api.okzy.com](https://api.okzy.com/api.php/provide/vod) | 超时/宕机 |
+| 🚨 | **u酷资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [api.ukuzy.com](https://api.ukuzy.com/api.php/provide/vod) | 超时/宕机 |
+| 🚨 | **优质资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [api.yzzy.com](https://api.yzzy.com/api.php/provide/vod) | 超时/宕机 |
+| 🚨 | **快车资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [api.kczy.com](https://api.kczy.com/api.php/provide/vod) | 超时/宕机 |
+| 🚨 | **金鹰资源站2** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [api.jyzy.com](https://api.jyzy.com/api.php/provide/vod) | 超时/宕机 |
+| 🚨 | **闪电资源2** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [api.sdzy.com](https://api.sdzy.com/api.php/provide/vod) | 超时/宕机 |
+| 🚨 | **雅集资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [api.yjzy.com](https://api.yjzy.com/api.php/provide/vod) | 超时/宕机 |
+| 🚨 | **ck资源站** | 121 | 0.0% | `❌❌❌❌❌❌❌` | [api.ckzy.com](https://api.ckzy.com/api.php/provide/vod) | 超时/宕机 |
+| 🚨 | **樱花资源** | 122 | 4.2% | `❌❌❌❌❌❌❌` | [m3u8.apiyhzy.com](https://m3u8.apiyhzy.com/api.php/provide/vod/) | 超时/宕机 |
+| 🚨 | **幸资源站** | 124 | 0.0% | `❌❌❌❌❌❌❌` | [xzybb1.com](https://xzybb1.com/api.php/provide/vod/at/xml) | 超时/宕机 |
 | 🚨 | **🎬豆瓣资源** | 130 | 0.0% | `❌❌❌❌❌❌❌` | [caiji.dbzy5.com](https://caiji.dbzy5.com/api.php/provide/vod) | 接口解析错误 |
 | 🚨 | **🎬飘零资源** | 130 | 0.0% | `❌❌❌❌❌❌❌` | [p2100.net](https://p2100.net/api.php/provide/vod) | 超时/宕机 |
 | 🚨 | **🎬百度云zy** | 130 | 0.0% | `❌❌❌❌❌❌❌` | [api.apibdzy.com](https://api.apibdzy.com/api.php/provide/vod) | 超时/宕机 |
@@ -179,243 +182,6 @@
 
 ```json
 [
-  {
-    "date": "2026-09-27",
-    "results": [
-      {
-        "api": "https://iqiyizyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "api": "https://wolongzyw.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "api": "https://ikunzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://api.maoyanapi.top/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://cj.lzcaiji.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://360zyzz.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://jszyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://www.mdzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://api.ffzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://bfzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://api.zuidapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://api.wujinapi.me/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://api.wwzy.tv/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "api": "https://subocaiji.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://jinyingzy.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://p2100.net/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "api": "https://api.ukuapi88.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://api.guangsuapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://cj.rycjapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://hhzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://api.apibdzy.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "api": "https://lovedan.net/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "api": "https://91md.me/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://91jpzyw.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "api": "http://lbapiby.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "api": "https://155api.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://apiyutu.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "http://fhapi9.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://apilsbzy1.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://www.yyzywcj.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "api": "https://api.xiaojizy.live/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://hsckzy.xyz/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://apidanaizi.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "api": "https://jkunzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://lbapi9.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://Naixxzy.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://beiyong.slapibf.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://apilj.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://shayuapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://xzybb2.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "api": "https://api.douapi.cc/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://api.ddapi.cc/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://www.heiliaozyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://api.bwzyz.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "api": "https://thzy1.me/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://www.jingpinx.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "api": "https://api.souavzyw.net/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "api": "https://www.msnii.com/api/json.php",
-        "success": false
-      },
-      {
-        "api": "https://www.pgxdy.com/api/json.php",
-        "success": true
-      },
-      {
-        "api": "https://www.kxgav.com/api/json.php",
-        "success": false
-      },
-      {
-        "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
-        "success": false
-      },
-      {
-        "api": "https://aosikazy.com/api.php/provide/vod",
-        "success": false
-      }
-    ]
-  },
   {
     "date": "2026-09-28",
     "results": [
@@ -14954,6 +14720,687 @@
       {
         "api": "https://hsckzy.xyz/api.php/provide/vod",
         "success": false
+      },
+      {
+        "api": "https://apidanaizi.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://jkunzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://lbapi9.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://Naixxzy.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://beiyong.slapibf.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://apilj.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://shayuapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://xzybb2.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://api.douapi.cc/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://api.ddapi.cc/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://www.heiliaozyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://thzy1.me/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://www.jingpinx.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://api.souavzyw.net/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://www.msnii.com/api/json.php",
+        "success": false
+      },
+      {
+        "api": "https://www.pgxdy.com/api/json.php",
+        "success": true
+      },
+      {
+        "api": "https://www.kxgav.com/api/json.php",
+        "success": false
+      },
+      {
+        "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+        "success": false
+      },
+      {
+        "api": "https://aosikazy1.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "http://cj.lziapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "http://www.ffzy.tv/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://api.wujinapi.me/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://subocj.com/api.php/provide/vod/at/json",
+        "success": true
+      },
+      {
+        "api": "https://mozhuazy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://jszyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+        "success": false
+      },
+      {
+        "api": "https://sdzyapi.com/api.php/provide/vod/",
+        "success": false
+      },
+      {
+        "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://api.maoyanapi.top/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://api.apibdzy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://bfzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://api.guangsuapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://api.niuniuzy.me/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://www.huyaapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+        "success": true
+      },
+      {
+        "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://xzybb1.com/api.php/provide/vod/at/xml",
+        "success": false
+      },
+      {
+        "api": "https://api.maoyanapi.top/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://www.ckzy1.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://hsckzy.vip/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://yutuzy10.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://www.xrbsp.com/api/json.php",
+        "success": false
+      },
+      {
+        "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+        "success": true
+      },
+      {
+        "api": "https://jyzyapi.com/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://360zy.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://cj.yayazy.net/api.php/provide/vod/",
+        "success": false
+      },
+      {
+        "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://tyyszyapi.com/api.php/provide/vod/",
+        "success": false
+      },
+      {
+        "api": "https://haohuazy.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://jipinvip1.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "http://zuidazy.me/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://iqiyizyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://suonizy.net/api.php/provide/vod/",
+        "success": false
+      },
+      {
+        "api": "http://hongniuzy2.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://mtzy5.com/api.php/provide/vod/",
+        "success": false
+      },
+      {
+        "api": "https://huyazy.net/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://dbzy.tv/api.php/provide/vod/",
+        "success": false
+      },
+      {
+        "api": "https://subocj.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://www.suboziyuan.net/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://jyzyapi.com/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://155api.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://ffzy5.tv/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://p2100.net/api.php/provide/vod/",
+        "success": false
+      },
+      {
+        "api": "https://jkunzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://lbapi9.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://dadiapi.com/api.php",
+        "success": false
+      },
+      {
+        "api": "https://ikunzyapi.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://apidanaizi.com/api.php/provide/vod/",
+        "success": false
+      },
+      {
+        "api": "https://aosikazy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://naixxzy.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://www.gdlsp.com/api/json.php",
+        "success": true
+      },
+      {
+        "api": "https://slapibf.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://api.xiaojizy.live/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://thzy1.me/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://slapibf.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://xxavs.com/api.php/provide/vod/",
+        "success": false
+      },
+      {
+        "api": "https://api.ddapi.cc/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://apiyutu.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "http://fhapi9.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://fqzy.me/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://bhziyuan.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://www.jingpinx.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://apilsbzy1.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://caiji.semaozy.net/inc/api.php",
+        "success": false
+      },
+      {
+        "api": "https://api.vnzyz.com/api.php/provide/vod/",
+        "success": false
+      },
+      {
+        "api": "https://apilj.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/",
+        "success": false
+      },
+      {
+        "api": "https://shayuapi.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://91md.me/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://hsckzy888.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://heiliaozyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://api.okzy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://api.ukuzy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://api.yzzy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://api.kczy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://api.jyzy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://api.sdzy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://api.yjzy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://api.ckzy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://api.apibdzy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://lovedan.net/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://api.souavzyw.net/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://www.kxgav.com/api/json.php",
+        "success": false
+      },
+      {
+        "api": "https://api.bwzyz.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://www.msnii.com/api/json.php",
+        "success": false
+      },
+      {
+        "api": "https://api.douapi.cc/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://www.pgxdy.com/api/json.php",
+        "success": true
+      },
+      {
+        "api": "https://www.xrbsp.com/api/json.php",
+        "success": false
+      },
+      {
+        "api": "https://www.gdlsp.com/api/json.php",
+        "success": true
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "results": [
+      {
+        "api": "https://api.juliang.live/api/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://api.juliang.live/api/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://jyzyapi.com/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://hhzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://cj.lziapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://cj.10010888.xyz/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://tyyszy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://api.ukuapi88.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://cj.yayazy.net/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://api.niuniuzy.me/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://api.yparse.com/api/json",
+        "success": false
+      },
+      {
+        "api": "https://suoniapi.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://subocaiji.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://iqiyizyapi.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://ikunzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://api.maoyanapi.top/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://360zyzz.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://jszyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://www.mdzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://api.ffzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://bfzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://api.zuidapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://api.wujinapi.me/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://subocaiji.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://jinyingzy.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://p2100.net/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://api.ukuapi88.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://api.guangsuapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://cj.rycjapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://hhzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://api.apibdzy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://lovedan.net/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://91md.me/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://155api.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://apiyutu.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "http://fhapi9.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://json.xingba222.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://dadiapi.com/api.php/provide/vod/",
+        "success": false
+      },
+      {
+        "api": "https://lbapi9.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://apilj.com/api.php/provide/vod/",
+        "success": true
+      },
+      {
+        "api": "https://api.ddapi.cc/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://shayuapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://apilsbzy1.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://www.yyzywcj.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "api": "https://api.xiaojizy.live/provide/vod",
+        "success": true
+      },
+      {
+        "api": "https://hsckzy.xyz/api.php/provide/vod",
+        "success": true
       },
       {
         "api": "https://apidanaizi.com/api.php/provide/vod",
