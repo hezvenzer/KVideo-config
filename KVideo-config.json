@@ -328,6 +328,27 @@
     "group": "premium",
     "enabled": true
   },
+ {
+    "id": "lajiao",
+    "name": "辣椒资源",
+    "baseUrl": "https://apilj.com/api.php/provide/vod/",
+    "group": "premium",
+    "enabled": true
+  },
+ {
+    "id": "didi",
+    "name": "滴滴资源",
+    "baseUrl": "https://api.ddapi.cc/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true
+  },
+ {
+    "id": "shayu",
+    "name": "鲨鱼资源",
+    "baseUrl": "https://shayuapi.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true
+  },
   {
     "id": "lsbzy",
     "name": "🔞-老色逼-",
