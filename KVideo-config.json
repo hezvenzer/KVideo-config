@@ -325,7 +325,7 @@
     "id": "lebo",
     "name": "乐播资源",
     "baseUrl": "https://lbapi9.com/api.php/provide/vod/",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
  {
@@ -395,7 +395,7 @@
     "id": "lebo",
     "name": "🔞乐播资源",
     "baseUrl": "https://lbapi9.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true
   },
   {
