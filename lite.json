@@ -296,6 +296,14 @@
     "priority": 5
   },
   {
+    "id": "huya",
+    "name": "虎牙资源",
+    "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "jinyingyun",
     "name": "金鹰云资源",
     "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
