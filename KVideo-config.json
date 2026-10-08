@@ -317,7 +317,7 @@
   {
     "id": "dadi",
     "name": "大地资源",
-    "baseUrl": "https://dadiapi.com/feifei2/",
+    "baseUrl": "https://dadiapi.com/feifei2",
     "group": "premium",
     "enabled": true
   },
@@ -651,8 +651,8 @@
     "enabled": true
   },
   {
-    "id": "maotai",
-    "name": "茅台资源",
+    "id": "maotai6",
+    "name": "茅台资源6",
     "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": true
@@ -786,7 +786,7 @@
   {
     "id": "maotai2",
     "name": "茅台资源站",
-    "baseUrl": "https://mtzy5.com/api.php/provide/vod/",
+    "baseUrl": "https://caiji.maotai999.vip/api.php/provide/vod",
     "group": "normal",
     "enabled": true
   },
