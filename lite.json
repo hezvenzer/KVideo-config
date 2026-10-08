@@ -248,6 +248,22 @@
     "priority": 5
   },
   {
+    "id": "lebo",
+    "name": "乐播资源",
+    "baseUrl": "https://lbapi9.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "lebo",
+    "name": "🔞乐播资源",
+    "baseUrl": "https://lbapi9.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "quantum",
     "name": "量子资源",
     "baseUrl": "http://cj.lziapi.com/api.php/provide/vod",
@@ -275,14 +291,6 @@
     "id": "hongniu",
     "name": "红牛资源",
     "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "huya",
-    "name": "虎牙资源",
-    "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
