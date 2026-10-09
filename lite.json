@@ -638,5 +638,13 @@
     "group": "normal",
     "enabled": true,
     "priority": 10
+  },
+  {
+    "id": "shayu",
+    "name": "鲨鱼资源站",
+    "baseUrl": "https://shayuapi.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
   }
 ]
