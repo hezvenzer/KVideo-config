@@ -357,13 +357,6 @@
     "enabled": true
   },
   {
-    "id": "youyou",
-    "name": "🔞优优资源",
-    "baseUrl": "https://www.yyzywcj.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true
-  },
-  {
     "id": "xiaoji",
     "name": "🔞小鸡资源",
     "baseUrl": "https://api.xiaojizy.live/provide/vod",
@@ -423,13 +416,6 @@
     "id": "shayu",
     "name": "🔞鲨鱼资源",
     "baseUrl": "https://shayuapi.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true
-  },
-  {
-    "id": "xing",
-    "name": "🔞-幸资源-",
-    "baseUrl": "https://xzybb2.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true
   },
