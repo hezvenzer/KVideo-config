@@ -472,14 +472,6 @@
     "priority": 5
   },
   {
-    "id": "yutu",
-    "name": "玉兔资源站",
-    "baseUrl": "https://apiyutu.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "fanhao",
     "name": "番号资源站",
     "baseUrl": "http://fhapi9.com/api.php/provide/vod/",
@@ -499,14 +491,6 @@
     "id": "jingpinx",
     "name": "精品X资源站",
     "baseUrl": "https://www.jingpinx.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "laosex",
-    "name": "老色X资源站",
-    "baseUrl": "https://apilsbzy1.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 5
