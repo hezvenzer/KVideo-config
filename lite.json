@@ -232,14 +232,6 @@
     "priority": 1
   },
   {
-    "id": "maoyan",
-    "name": "🎬猫眼资源",
-    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "wujin",
     "name": "🎬无尽资源",
     "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
@@ -296,14 +288,6 @@
     "priority": 5
   },
   {
-    "id": "maoyan",
-    "name": "猫眼资源",
-    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "huya",
     "name": "虎牙资源",
     "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
@@ -315,14 +299,6 @@
     "id": "jinyingyun",
     "name": "金鹰云资源",
     "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "maoyan2",
-    "name": "猫眼资源2",
-    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -472,6 +448,14 @@
     "priority": 5
   },
   {
+    "id": "yutu",
+    "name": "玉兔资源站",
+    "baseUrl": "https://apiyutu.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "fanhao",
     "name": "番号资源站",
     "baseUrl": "http://fhapi9.com/api.php/provide/vod/",
@@ -491,6 +475,14 @@
     "id": "jingpinx",
     "name": "精品X资源站",
     "baseUrl": "https://www.jingpinx.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "laosex",
+    "name": "老色X资源站",
+    "baseUrl": "https://apilsbzy1.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -619,6 +611,14 @@
     "id": "subo3",
     "name": "速播资源站2",
     "baseUrl": "https://www.suboziyuan.net/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "baihua",
+    "name": "百花资源站",
+    "baseUrl": "https://bhziyuan.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 10
