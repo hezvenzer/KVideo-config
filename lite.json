@@ -384,6 +384,14 @@
     "priority": 5
   },
   {
+    "id": "hongniu2",
+    "name": "红牛资源站",
+    "baseUrl": "http://hongniuzy2.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "huya2",
     "name": "虎牙资源站",
     "baseUrl": "https://huyazy.net/api.php/provide/vod/",
@@ -483,6 +491,14 @@
     "id": "subo",
     "name": "速博资源",
     "baseUrl": "https://subocaiji.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "iqiyi",
+    "name": "🎬-爱奇艺-",
+    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 10
