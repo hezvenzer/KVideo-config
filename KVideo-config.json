@@ -43,8 +43,8 @@
 },
  {
    "id": "tianya",
-   "name": "天涯资源",
-   "baseUrl": "https://tyyszy.com/api.php/provide/vod",
+   "name": "up天涯资源",
+   "baseUrl": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
    "group": "normal",
    "enabled": true
     },
@@ -721,13 +721,6 @@
     "enabled": true
   },
   {
-    "id": "tianya",
-    "name": "天涯影视资源站",
-    "baseUrl": "https://tyyszyapi.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true
-  },
-  {
     "id": "haohua",
     "name": "豪华资源站",
     "baseUrl": "https://haohuazy.com/api.php/provide/vod/",
@@ -988,8 +981,8 @@
   },
   {
     "id": "semao",
-    "name": "色猫资源站",
-    "baseUrl": "https://caiji.semaozy.net/inc/api.php",
+    "name": "up色猫资源站",
+    "baseUrl": "https://caiji.semaozy.net/inc/apijson_vod.php",
     "group": "normal",
     "enabled": true
   },
