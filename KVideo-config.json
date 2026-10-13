@@ -492,7 +492,7 @@
   {
     "id": "aosika",
     "name": "🔞-奥斯卡-",
-    "baseUrl": "https://aosikazy1.com/api.php/provide/vod",
+    "baseUrl": "https://aosikazy5.com/api.php/provide/vod/?ac=list",
     "group": "premium",
     "enabled": true
   },
@@ -849,7 +849,7 @@
   {
     "id": "dadi",
     "name": "大地资源站",
-    "baseUrl": "https://dadiapi.com/api.php",
+    "baseUrl": "https://dadiapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true
   },
@@ -870,7 +870,7 @@
   {
     "id": "aosika",
     "name": "奥斯卡资源站",
-    "baseUrl": "https://aosikazy.com/api.php/provide/vod",
+    "baseUrl": "https://aosikazy9.com/api.php/provide/vod/?ac=list",
     "group": "premium",
     "enabled": true
   },
@@ -1051,8 +1051,8 @@
   },
   {
     "id": "yzzy",
-    "name": "优质资源站",
-    "baseUrl": "https://api.yzzy.com/api.php/provide/vod",
+    "name": "up优质资源站",
+    "baseUrl": "https://api.yyzy-tv.vip/inc/apijson.php?ac=list",
     "group": "normal",
     "enabled": true
   },
