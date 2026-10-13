@@ -336,6 +336,14 @@
     "priority": 5
   },
   {
+    "id": "ikun",
+    "name": "ikun资源",
+    "baseUrl": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "zy360",
     "name": "360资源站",
     "baseUrl": "https://360zy.com/api.php/provide/vod/",
@@ -371,14 +379,6 @@
     "id": "zuidazy",
     "name": "最大资源站",
     "baseUrl": "http://zuidazy.me/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "hongniu2",
-    "name": "红牛资源站",
-    "baseUrl": "http://hongniuzy2.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -483,14 +483,6 @@
     "id": "subo",
     "name": "速博资源",
     "baseUrl": "https://subocaiji.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "iqiyi",
-    "name": "🎬-爱奇艺-",
-    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 10
