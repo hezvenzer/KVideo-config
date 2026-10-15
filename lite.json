@@ -312,6 +312,14 @@
     "priority": 5
   },
   {
+    "id": "subo",
+    "name": "速播资源",
+    "baseUrl": "https://subocj.com/api.php/provide/vod/at/json",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "hongniu",
     "name": "红牛资源",
     "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod/",
@@ -384,6 +392,14 @@
     "priority": 5
   },
   {
+    "id": "jipin",
+    "name": "新极品资源站",
+    "baseUrl": "https://jipinvip1.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "zuidazy",
     "name": "最大资源站",
     "baseUrl": "http://zuidazy.me/api.php/provide/vod/",
@@ -403,6 +419,22 @@
     "id": "huya2",
     "name": "虎牙资源站",
     "baseUrl": "https://huyazy.net/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "subo2",
+    "name": "速播资源站",
+    "baseUrl": "https://subocj.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "subo3",
+    "name": "速播资源站2",
+    "baseUrl": "https://www.suboziyuan.net/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -488,6 +520,14 @@
     "priority": 5
   },
   {
+    "id": "twzy",
+    "name": "TW资源站",
+    "baseUrl": "https://cj.10010888.xyz/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
     "id": "iqiyi",
     "name": "🎬-爱奇艺-",
     "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
@@ -496,25 +536,9 @@
     "priority": 10
   },
   {
-    "id": "subo",
-    "name": "速播资源",
-    "baseUrl": "https://subocj.com/api.php/provide/vod/at/json",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "subo2",
-    "name": "速播资源站",
-    "baseUrl": "https://subocj.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "subo3",
-    "name": "速播资源站2",
-    "baseUrl": "https://www.suboziyuan.net/api.php/provide/vod/",
+    "id": "iqiyi",
+    "name": "爱奇艺资源站",
+    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 10
