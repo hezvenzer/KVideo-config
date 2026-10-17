@@ -44,7 +44,14 @@
  {
    "id": "tianya",
    "name": "up天涯资源",
-   "baseUrl": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
+   "baseUrl": "https://tyyszy.com/api.php/provide/vod",
+   "group": "normal",
+   "enabled": true
+    },
+  {
+   "id": "tianyahj",
+   "name": "up天涯海角资源",
+   "baseUrl": "https://tyyszyapi.com/api.php/provide/vod",
    "group": "normal",
    "enabled": true
     },
@@ -65,31 +72,28 @@
  {
   "id": "yaya",
   "name": "up鸭鸭点播",
-  "baseUrl": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
+  "baseUrl": "https://cj.yayazy.net/api.php/provide/vod",
   "group": "normal",
   "enabled": true
 },
  {
-  "id": "niuniudbo",
-  "name": "牛牛点播",
-  "baseUrl": "https://api.niuniuzy.me/api.php/provide/vod",
-  "group": "normal",
-  "enabled": true
-},
+    "id": "niuniu",
+    "name": "up牛牛点播",
+    "baseUrl": "https://api.niuniuzy.me/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "group": "normal"
+    "enabled": true
+  },
  {
-  "id": "bubugao",
-  "name": "步步高资源",
-  "baseUrl": "https://api.yparse.com/api/json",
-  "group": "normal",
-  "enabled": true
-},
- {
-  "id": "suoni",
-  "name": "索尼资源",
-  "baseUrl": "https://suoniapi.com/api.php/provide/vod",
-  "group": "normal",
-  "enabled": true
-},
+    "id": "bubugao",
+    "name": "up步步高资源",
+    "baseUrl": "https://api.yparse.com/api/json",
+    "searchPath": "",
+    "detailPath": "",
+    "group": "normal"
+    "enabled": true
+  },
  {
   "id": "subo",
   "name": "速博资源",
@@ -104,11 +108,31 @@
     "group": "normal",
     "enabled": true
   },
+   {
+    "id": "dbzy-tv",
+    "name": "🎬up豆瓣资源",
+    "baseUrl": "https://caiji.dbzy.tv/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "group": "normal"
+    "enabled": true
+  },
+ {
+    "id": "mahua-1080zyku",
+    "name": "麻花资源",
+    "baseUrl": "https://api.1080zyku.com/inc/api_mac10.php",
+    "searchPath": "",
+    "detailPath": "",
+    "group": "normal"
+    "enabled": true
+  },
   {
-    "id": "dbzy",
-    "name": "🎬豆瓣资源",
-    "baseUrl": "https://caiji.dbzy5.com/api.php/provide/vod",
-    "group": "normal",
+    "id": "117-232",
+    "name": "建安采集",
+    "baseUrl": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "group": "normal"
     "enabled": true
   },
   {
@@ -265,11 +289,13 @@
     "group": "normal",
     "enabled": true
   },
-  {
+ {
     "id": "aidan",
-    "name": "🎬艾旦影视",
+    "name": "🎬up爱蛋资源",
     "baseUrl": "https://lovedan.net/api.php/provide/vod",
-    "group": "normal",
+    "searchPath": "",
+    "detailPath": "",
+    "group": "normal"
     "enabled": true
   },
   {
@@ -546,9 +572,9 @@
     "enabled": true
   },
   {
-    "id": "yinghua",
+    "id": "yinghuah",
     "name": "樱花资源",
-    "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+    "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true
   },
@@ -557,6 +583,15 @@
     "name": "闪电资源",
     "baseUrl": "https://sdzyapi.com/api.php/provide/vod/",
     "group": "normal",
+    "enabled": true
+  },
+ {
+    "id": "suonisd",
+    "name": "up索尼-闪电",
+    "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod",
+    "": "",
+    "detailPath": "",
+    "group": "normal"
     "enabled": true
   },
   {
@@ -626,20 +661,6 @@
     "id": "jinyingyun",
     "name": "金鹰云资源",
     "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
-    "group": "normal",
-    "enabled": true
-  },
-  {
-    "id": "douban",
-    "name": "豆瓣资源",
-    "baseUrl": "https://caiji.dbzy5.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true
-  },
-  {
-    "id": "maotai6",
-    "name": "up茅台资源6",
-    "baseUrl": "https://caiji.maotai999.vip/api.php/provide/vod/at/josn/",
     "group": "normal",
     "enabled": true
   },
@@ -748,11 +769,22 @@
     "group": "normal",
     "enabled": true
   },
-  {
-    "id": "suoni",
-    "name": "索尼采集站",
-    "baseUrl": "https://suonizy.net/api.php/provide/vod/",
-    "group": "normal",
+ {
+    "id": "lzizy-net",
+    "name": "量子影视",
+    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "group": "normal"
+    "enabled": true
+  },
+   {
+    "id": "suoni1",
+    "name": "up索尼资源",
+    "baseUrl": "https://suoniapi.com/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "group": "normal"
     "enabled": true
   },
   {
@@ -762,24 +794,19 @@
     "group": "normal",
     "enabled": true
   },
-  {
-    "id": "maotai2",
-    "name": "up茅台资源站",
-    "baseUrl": "https://caiji.maotai999.vip/api.php/provide/vod/at/josn/",
-    "group": "normal",
+   {
+    "id": "maotai",
+    "name": "茅台资源",
+    "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "group": "normal"
     "enabled": true
   },
   {
     "id": "huya2",
     "name": "虎牙资源站",
     "baseUrl": "https://huyazy.net/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true
-  },
-  {
-    "id": "douban2",
-    "name": "豆瓣资源站",
-    "baseUrl": "https://dbzy.tv/api.php/provide/vod/",
     "group": "normal",
     "enabled": true
   },
@@ -1081,13 +1108,6 @@
     "id": "baiduyun",
     "name": "百度云资源站",
     "baseUrl": "https://api.apibdzy.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true
-  },
-  {
-    "id": "lovedan",
-    "name": "艾旦资源站",
-    "baseUrl": "https://lovedan.net/api.php/provide/vod",
     "group": "normal",
     "enabled": true
   },
