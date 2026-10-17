@@ -64,8 +64,8 @@
 },
  {
   "id": "yaya",
-  "name": "丫丫点播",
-  "baseUrl": "https://cj.yayazy.net/api.php/provide/vod",
+  "name": "up鸭鸭点播",
+  "baseUrl": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
   "group": "normal",
   "enabled": true
 },
@@ -492,7 +492,7 @@
   {
     "id": "aosika",
     "name": "🔞-奥斯卡-",
-    "baseUrl": "https://aosikazy5.com/api.php/provide/vod/?ac=list",
+    "baseUrl": "https://aosikazy1.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true
   },
@@ -638,8 +638,8 @@
   },
   {
     "id": "maotai6",
-    "name": "茅台资源6",
-    "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
+    "name": "up茅台资源6",
+    "baseUrl": "https://caiji.maotai999.vip/api.php/provide/vod/at/josn/",
     "group": "normal",
     "enabled": true
   },
@@ -764,8 +764,8 @@
   },
   {
     "id": "maotai2",
-    "name": "茅台资源站",
-    "baseUrl": "https://caiji.maotai999.vip/api.php/provide/vod",
+    "name": "up茅台资源站",
+    "baseUrl": "https://caiji.maotai999.vip/api.php/provide/vod/at/josn/",
     "group": "normal",
     "enabled": true
   },
@@ -847,13 +847,6 @@
     "enabled": true
   },
   {
-    "id": "dadi",
-    "name": "大地资源站",
-    "baseUrl": "https://dadiapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true
-  },
-  {
     "id": "ikun2",
     "name": "爱坤资源站",
     "baseUrl": "https://ikunzyapi.com/api.php/provide/vod/",
@@ -870,7 +863,7 @@
   {
     "id": "aosika",
     "name": "奥斯卡资源站",
-    "baseUrl": "https://aosikazy9.com/api.php/provide/vod/?ac=list",
+    "baseUrl": "https://aosikazy9.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true
   },
