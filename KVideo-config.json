@@ -80,9 +80,9 @@
     "id": "niuniu",
     "name": "up牛牛点播",
     "baseUrl": "https://api.niuniuzy.me/api.php/provide/vod",
-    "searchPath": "",
+    "": "",
     "detailPath": "",
-    "group": "normal"
+    "group": "normal",
     "enabled": true
   },
  {
@@ -91,7 +91,7 @@
     "baseUrl": "https://api.yparse.com/api/json",
     "searchPath": "",
     "detailPath": "",
-    "group": "normal"
+    "group": "normal",
     "enabled": true
   },
  {
@@ -114,7 +114,7 @@
     "baseUrl": "https://caiji.dbzy.tv/api.php/provide/vod",
     "searchPath": "",
     "detailPath": "",
-    "group": "normal"
+    "group": "normal",
     "enabled": true
   },
  {
@@ -123,7 +123,7 @@
     "baseUrl": "https://api.1080zyku.com/inc/api_mac10.php",
     "searchPath": "",
     "detailPath": "",
-    "group": "normal"
+    "group": "normal",
     "enabled": true
   },
   {
@@ -132,7 +132,7 @@
     "baseUrl": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
     "searchPath": "",
     "detailPath": "",
-    "group": "normal"
+    "group": "normal",
     "enabled": true
   },
   {
@@ -295,7 +295,7 @@
     "baseUrl": "https://lovedan.net/api.php/provide/vod",
     "searchPath": "",
     "detailPath": "",
-    "group": "normal"
+    "group": "normal",
     "enabled": true
   },
   {
@@ -775,7 +775,7 @@
     "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
     "searchPath": "",
     "detailPath": "",
-    "group": "normal"
+    "group": "normal",
     "enabled": true
   },
    {
@@ -784,7 +784,7 @@
     "baseUrl": "https://suoniapi.com/api.php/provide/vod",
     "searchPath": "",
     "detailPath": "",
-    "group": "normal"
+    "group": "normal",
     "enabled": true
   },
   {
@@ -800,7 +800,7 @@
     "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
     "searchPath": "",
     "detailPath": "",
-    "group": "normal"
+    "group": "normal",
     "enabled": true
   },
   {
