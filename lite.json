@@ -272,9 +272,9 @@
     "priority": 5
   },
   {
-    "id": "wujin",
-    "name": "🎬无尽资源",
-    "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
+    "id": "jisu",
+    "name": "🎬极速资源",
+    "baseUrl": "https://jszyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -312,17 +312,17 @@
     "priority": 5
   },
   {
-    "id": "wujin",
-    "name": "无尽资源",
-    "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
+    "id": "subo",
+    "name": "速播资源",
+    "baseUrl": "https://subocj.com/api.php/provide/vod/at/json",
     "group": "normal",
     "enabled": true,
     "priority": 5
   },
   {
-    "id": "subo",
-    "name": "速播资源",
-    "baseUrl": "https://subocj.com/api.php/provide/vod/at/json",
+    "id": "jisu",
+    "name": "极速资源",
+    "baseUrl": "https://jszyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
