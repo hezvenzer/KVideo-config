@@ -216,6 +216,14 @@
     "priority": 1
   },
   {
+    "id": "muji",
+    "name": "up母鸡资源",
+    "baseUrl": "https://mujiziyuan00.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "baofeng",
     "name": "暴风资源",
     "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
@@ -251,6 +259,14 @@
     "id": "lzizy-net",
     "name": "量子影视",
     "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "uku",
+    "name": "u酷资源站",
+    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -554,14 +570,6 @@
   {
     "id": "iqiyi",
     "name": "🎬-爱奇艺-",
-    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "iqiyi",
-    "name": "爱奇艺资源站",
     "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
