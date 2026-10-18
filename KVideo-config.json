@@ -333,6 +333,27 @@
     "enabled": true
   },
  {
+    "id": "huosu",
+    "name": "🔞火速资源",
+    "baseUrl": "https://api.huosuapi.cc/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true
+  },
+  {
+    "id": "muji",
+    "name": "up母鸡资源",
+    "baseUrl": "https://mujiziyuan00.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true
+  },
+ {
+    "id": "wsy",
+    "name": "up无水印资源",
+    "baseUrl": "https://api.wsyzy.net/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true
+  },
+ {
     "id": "sexy8",
     "name": "杏吧资源",
     "baseUrl": "https://json.xingba222.com/api.php/provide/vod/",
@@ -1064,7 +1085,7 @@
   {
     "id": "uku",
     "name": "u酷资源站",
-    "baseUrl": "https://api.ukuzy.com/api.php/provide/vod",
+    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": true
   },
