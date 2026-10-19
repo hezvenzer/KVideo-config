@@ -432,6 +432,14 @@
     "priority": 5
   },
   {
+    "id": "jipin",
+    "name": "新极品资源站",
+    "baseUrl": "https://jipinvip1.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "zuidazy",
     "name": "最大资源站",
     "baseUrl": "http://zuidazy.me/api.php/provide/vod/",
