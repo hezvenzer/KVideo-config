@@ -438,10 +438,10 @@
     "enabled": true
   },
   {
-    "id": "lebo",
+    "id": "leboo",
     "name": "🔞乐播资源",
     "baseUrl": "https://lbapi9.com/api.php/provide/vod",
-    "group": "normal",
+    "group": "premium",
     "enabled": true
   },
   {
