@@ -546,6 +546,8 @@
     "id": "aosika",
     "name": "🔞-奥斯卡-",
     "baseUrl": "https://aosikazy1.com/api.php/provide/vod",
+    "searchPath": "/api.php/provide/vod",
+    "detailPath": "/api.php/provide/vod",
     "group": "premium",
     "enabled": true
   },
@@ -911,9 +913,11 @@
     "enabled": true
   },
   {
-    "id": "aosika",
+    "id": "aosika1",
     "name": "奥斯卡资源站",
     "baseUrl": "https://aosikazy9.com/api.php/provide/vod",
+    "searchPath": "/api.php/provide/vod",
+    "detailPath": "/api.php/provide/vod",
     "group": "premium",
     "enabled": true
   },
