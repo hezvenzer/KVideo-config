@@ -577,6 +577,14 @@
   },
   {
     "id": "iqiyi",
+    "name": "🎬-爱奇艺-",
+    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "iqiyi",
     "name": "爱奇艺资源站",
     "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
     "group": "normal",
