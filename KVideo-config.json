@@ -45,8 +45,6 @@
    "id": "tianya1",
    "name": "up天涯资源",
    "baseUrl": "https://tyyszy.com/api.php/provide/vod",
-   "searchPath": "",
-   "detailPath": "",
    "group": "normal",
    "enabled": true
     },
@@ -54,8 +52,6 @@
    "id": "tianyahj",
    "name": "up天涯海角资源",
    "baseUrl": "https://tyyszyapi.com/api.php/provide/vod",
-   "searchPath": "",
-   "detailPath": "",
    "group": "normal",
    "enabled": true
     },
