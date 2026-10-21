@@ -256,6 +256,22 @@
     "priority": 1
   },
   {
+    "id": "renren",
+    "name": "人人资源站",
+    "baseUrl": "http://43.139.196.163:31308/gather/json",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "muji",
+    "name": "母鸡资源站",
+    "baseUrl": "https://mujiziyuan00.com/api.php/provide/vod/?ac=list",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "lzizy-net",
     "name": "量子影视",
     "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
@@ -278,6 +294,14 @@
     "group": "normal",
     "enabled": true,
     "priority": 1
+  },
+  {
+    "id": "twzy",
+    "name": "TW资源站",
+    "baseUrl": "https://cj.10010888.xyz/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
   },
   {
     "id": "maoyan",
@@ -558,14 +582,6 @@
     "group": "normal",
     "enabled": true,
     "priority": 5
-  },
-  {
-    "id": "twzy",
-    "name": "TW资源站",
-    "baseUrl": "https://cj.10010888.xyz/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
   },
   {
     "id": "iqiyi",
