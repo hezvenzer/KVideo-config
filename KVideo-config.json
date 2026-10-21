@@ -7,6 +7,13 @@
   "enabled": true
 },
  {
+  "id": "chiyuanc",
+  "name": "🎬-次元城",
+  "baseUrl": "https://myani.ccbccb.workers.dev/api.php/provide/vod/",
+  "group": "normal",
+  "enabled": true
+},
+ {
   "id": "aidanzy",
   "name": "爱蛋资源",
   "baseUrl": "https://api.juliang.live/api/provide/vod",
