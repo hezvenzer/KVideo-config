@@ -12,7 +12,7 @@
     "baseUrl": "https://myani.ccbccb.workers.dev/api.php/provide/vod",
     "searchPath": "/provide/vod",
     "detailPath": "/provide/vod",
-    "enabled": true,
+    "enabled": true
   }
  {
   "id": "aidanzy",
