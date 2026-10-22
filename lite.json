@@ -224,14 +224,6 @@
     "priority": 1
   },
   {
-    "id": "lebo",
-    "name": "乐播资源",
-    "baseUrl": "https://lbapi9.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "quantum",
     "name": "量子资源",
     "baseUrl": "http://cj.lziapi.com/api.php/provide/vod",
@@ -283,6 +275,14 @@
     "id": "dianyingtiantang",
     "name": "电影天堂",
     "baseUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "huya",
+    "name": "虎牙资源",
+    "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -400,25 +400,9 @@
     "priority": 1
   },
   {
-    "id": "api155",
-    "name": "155资源站",
-    "baseUrl": "https://155api.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "feifan2",
     "name": "非凡资源站",
     "baseUrl": "https://ffzy5.tv/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "jkun",
-    "name": "JKUN资源站",
-    "baseUrl": "https://jkunzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -432,41 +416,9 @@
     "priority": 1
   },
   {
-    "id": "lebo",
-    "name": "乐播资源站",
-    "baseUrl": "https://lbapi9.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "ikun2",
     "name": "爱坤资源站",
     "baseUrl": "https://ikunzyapi.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "xiaojizy",
-    "name": "小鸡资源站",
-    "baseUrl": "https://api.xiaojizy.live/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "taohua",
-    "name": "桃花资源站",
-    "baseUrl": "https://thzy1.me/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "senlin",
-    "name": "森林资源站",
-    "baseUrl": "https://slapibf.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -486,14 +438,6 @@
     "group": "normal",
     "enabled": true,
     "priority": 1
-  },
-  {
-    "id": "twzy",
-    "name": "TW资源站",
-    "baseUrl": "https://cj.10010888.xyz/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
   },
   {
     "id": "iqiyi",
@@ -552,25 +496,9 @@
     "priority": 5
   },
   {
-    "id": "huya",
-    "name": "虎牙资源",
-    "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "maoyan2",
     "name": "猫眼资源2",
     "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "jipin",
-    "name": "新极品资源站",
-    "baseUrl": "https://jipinvip1.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 5
