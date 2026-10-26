@@ -8,8 +8,8 @@
     "priority": 1
   },
   {
-    "id": "aidanzy",
-    "name": "爱蛋资源",
+    "id": "juliang",
+    "name": "巨量资源",
     "baseUrl": "https://api.juliang.live/api/provide/vod",
     "group": "normal",
     "enabled": true,
@@ -419,6 +419,14 @@
     "id": "lebo",
     "name": "乐播资源",
     "baseUrl": "https://lbapi9.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "feifan",
+    "name": "非凡资源",
+    "baseUrl": "http://www.ffzy.tv/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
