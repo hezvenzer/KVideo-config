@@ -113,8 +113,6 @@
     "id": "dbzy-tv",
     "name": "🎬up豆瓣资源",
     "baseUrl": "https://caiji.dbzy5.com/api.php/provide/vod",
-    "searchPath": "",
-    "detailPath": "",
     "group": "normal",
     "enabled": true
   },
@@ -549,13 +547,6 @@
     "group": "normal",
     "enabled": true
   },
- {
-    "id": "yunjiexi",
-    "name": "云解析资源",
-    "baseUrl": "https://api.yparse.com/api/json",
-    "group": "normal",
-    "enabled": true
-  },
   {
     "id": "feifan",
     "name": "非凡资源",
@@ -648,13 +639,6 @@
     "enabled": true
   },
   {
-    "id": "xibao",
-    "name": "细胞资源",
-    "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true
-  },
-  {
     "id": "dianyingtiantang",
     "name": "电影天堂",
     "baseUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod",
@@ -672,13 +656,6 @@
     "id": "jinyingyun",
     "name": "金鹰云资源",
     "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
-    "group": "normal",
-    "enabled": true
-  },
-  {
-    "id": "xingyuan",
-    "name": "幸资源站",
-    "baseUrl": "https://xzybb1.com/api.php/provide/vod/at/xml",
     "group": "normal",
     "enabled": true
   },
@@ -953,7 +930,7 @@
   {
     "id": "shileyuan",
     "name": "湿乐园资源站",
-    "baseUrl": "https://xxavs.com/api.php/provide/vod/",
+    "baseUrl": "https://xxavs.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true
   },
@@ -997,13 +974,6 @@
     "name": "精品X资源站",
     "baseUrl": "https://www.jingpinx.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": true
-  },
-  {
-    "id": "xibao2",
-    "name": "细胞网资源站",
-    "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
-    "group": "normal",
     "enabled": true
   },
   {
