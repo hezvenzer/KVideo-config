@@ -193,7 +193,7 @@
   },
   {
     "id": "muji",
-    "name": "up母鸡资源",
+    "name": "🔞母鸡资源",
     "baseUrl": "https://mujiziyuan00.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
@@ -507,6 +507,14 @@
     "id": "jipin",
     "name": "新极品资源站",
     "baseUrl": "https://jipinvip1.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "iqiyi",
+    "name": "爱奇艺资源站",
+    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
