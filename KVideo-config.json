@@ -57,6 +57,27 @@
   "enabled": true
 },
  {
+  "id": "mangguo",
+  "name": "up芒果资源",
+  "baseUrl": "https://caiji.mgzyapi.com/api.php/provide/vod",
+  "group": "normal",
+  "enabled": true
+},
+{
+  "id": "dazhong",
+  "name": "up大众资源",
+  "baseUrl": "https://cdn.dzzyapi.com/api.php/provide/vod",
+  "group": "normal",
+  "enabled": true
+},
+{
+  "id": "baidu",
+  "name": "up百度资源",
+  "baseUrl": "https://api.apibdzy.com/api.php/provide/vod",
+  "group": "normal",
+  "enabled": true
+},
+ {
   "id": "lezhizy",
   "name": "乐子资源",
   "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
@@ -115,8 +136,8 @@
   "enabled": true
 },
   {
-    "id": "iqiyi",
-    "name": "🎬-爱奇艺-",
+    "id": "iqiyi1",
+    "name": "🎬-爱奇艺1",
     "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true
@@ -210,8 +231,8 @@
     "enabled": true
   },
   {
-    "id": "zuida",
-    "name": "🎬最大资源",
+    "id": "zuida1",
+    "name": "🎬最大资源1",
     "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true
@@ -770,8 +791,8 @@
     "enabled": true
   },
   {
-    "id": "zuidazy",
-    "name": "最大资源站",
+    "id": "zuidazy2",
+    "name": "最大资源站2",
     "baseUrl": "http://zuidazy.me/api.php/provide/vod/",
     "group": "normal",
     "enabled": true
@@ -791,8 +812,8 @@
     "enabled": true
   },
   {
-    "id": "iqiyi",
-    "name": "爱奇艺资源站",
+    "id": "iqiyi2",
+    "name": "爱奇艺资源站2",
     "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true
