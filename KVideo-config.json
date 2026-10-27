@@ -339,14 +339,14 @@
     "id": "huosu",
     "name": "🔞火速资源",
     "baseUrl": "https://api.huosuapi.cc/api.php/provide/vod",
-    "group": "",
+    "group": "premium",
     "enabled": true
   },
   {
     "id": "muji",
     "name": "🔞母鸡资源",
     "baseUrl": "https://mujiziyuan00.com/api.php/provide/vod",
-    "group": "normal",
+    "group": "premium",
     "enabled": true
   },
  {
@@ -391,6 +391,65 @@
     "group": "premium",
     "enabled": true
   },
+  {
+    "id": "xingye",
+    "name": "🔞星夜资源",
+    "baseUrl": "https://xyezy.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true
+  },
+ {
+    "id": "jingping98",
+    "name": "🔞精品98资源",
+    "baseUrl": "https://jp98.vip/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true
+  },
+ {
+    "id": "mianfei",
+    "name": "🔞免费资源",
+    "baseUrl": "https://yuanlib.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true
+  },
+  {
+    "id": "heihei",
+    "name": "🔞嘿嘿资源",
+    "baseUrl": "https://api.heiapi.cc/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true
+  },
+ {
+    "id": "",
+    "name": "🔞资源",
+    "baseUrl": "",
+    "group": "premium",
+    "enabled": true
+  },
+ {
+    "id": "",
+    "name": "🔞资源",
+    "baseUrl": "",
+    "group": "premium",
+    "enabled": true
+  },
+ {
+    "id": "",
+    "name": "🔞资源",
+    "baseUrl": "",
+    "group": "premium",
+    "enabled": true
+  },
+ {
+    "id": "",
+    "name": "🔞资源",
+    "baseUrl": "",
+    "group": "premium",
+    "enabled": true
+  },
+
+
+ 
  {
     "id": "didi",
     "name": "🔞滴滴资源",
@@ -420,8 +479,8 @@
     "enabled": true
   },
   {
-    "id": "hsck",
-    "name": "🔞黄色仓库",
+    "id": "hsck1",
+    "name": "🔞黄色仓库1",
     "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
     "group": "premium",
     "enabled": true
@@ -448,8 +507,8 @@
     "enabled": true
   },
   {
-    "id": "naixiang",
-    "name": "🔞奶香资源",
+    "id": "naixiang1",
+    "name": "🔞奶香资源1",
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true
@@ -672,8 +731,8 @@
     "enabled": true
   },
  {
-    "id": "hsck",
-    "name": "黄色仓库vip",
+    "id": "hsck2",
+    "name": "🔞黄色仓库vip2",
     "baseUrl": "https://hsckzy.vip/api.php/provide/vod",
     "group": "premium",
     "enabled": true
@@ -884,8 +943,8 @@
     "enabled": false
   },
   {
-    "id": "naixx",
-    "name": "🔞奶香香资源站",
+    "id": "naixx2",
+    "name": "🔞奶香香资源站2",
     "baseUrl": "https://naixxzy.com/api.php/provide/vod/",
     "group": "premium",
     "enabled": true
@@ -902,13 +961,6 @@
     "name": "🔞森林资源",
     "baseUrl": "https://slapibf.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": true
-  },
-  {
-    "id": "xiaojizy",
-    "name": "小鸡资源站",
-    "baseUrl": "https://api.xiaojizy.live/provide/vod/",
-    "group": "normal",
     "enabled": true
   },
   {
@@ -1017,8 +1069,8 @@
     "enabled": true
   },
   {
-    "id": "hsck",
-    "name": "🔞X色仓库资源",
+    "id": "hsck3",
+    "name": "🔞X色仓库资源3",
     "baseUrl": "https://hsckzy888.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true
