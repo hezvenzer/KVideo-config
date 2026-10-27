@@ -78,6 +78,13 @@
   "enabled": true
 },
  {
+  "id": "uuzy",
+  "name": "upUU资源",
+  "baseUrl": "https://uuzy.me/api.php/provide/vod",
+  "group": "normal",
+  "enabled": true
+},
+ {
   "id": "lezhizy",
   "name": "乐子资源",
   "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
