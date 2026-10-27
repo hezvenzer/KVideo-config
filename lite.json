@@ -512,14 +512,6 @@
     "priority": 5
   },
   {
-    "id": "iqiyi",
-    "name": "爱奇艺资源站",
-    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "hongniu2",
     "name": "红牛资源站",
     "baseUrl": "http://hongniuzy2.com/api.php/provide/vod/",
