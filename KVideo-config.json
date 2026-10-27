@@ -1,7 +1,7 @@
 [
  {
   "id": "juliang",
-  "name": "🎬-巨量-",
+  "name": "🎬-巨量资源",
   "baseUrl": "https://api.juliang.live/api/provide/vod",
   "group": "normal",
   "enabled": true
@@ -14,13 +14,6 @@
     "detailPath": "/provide/vod",
     "enabled": false
   },
- {
-  "id": "juliang",
-  "name": "巨量资源",
-  "baseUrl": "https://api.juliang.live/api/provide/vod",
-  "group": "normal",
-  "enabled": true
-},
  {
   "id": "jingyu",
   "name": "鲸鱼资源",
