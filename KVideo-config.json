@@ -420,37 +420,6 @@
     "enabled": true
   },
  {
-    "id": "",
-    "name": "🔞资源",
-    "baseUrl": "",
-    "group": "premium",
-    "enabled": true
-  },
- {
-    "id": "",
-    "name": "🔞资源",
-    "baseUrl": "",
-    "group": "premium",
-    "enabled": true
-  },
- {
-    "id": "",
-    "name": "🔞资源",
-    "baseUrl": "",
-    "group": "premium",
-    "enabled": true
-  },
- {
-    "id": "",
-    "name": "🔞资源",
-    "baseUrl": "",
-    "group": "premium",
-    "enabled": true
-  },
-
-
- 
- {
     "id": "didi",
     "name": "🔞滴滴资源",
     "baseUrl": "https://api.ddapi.cc/api.php/provide/vod",
