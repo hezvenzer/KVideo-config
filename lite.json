@@ -8,6 +8,22 @@
     "priority": 1
   },
   {
+    "id": "changzhang",
+    "name": "up厂长资源",
+    "baseUrl": "https://api.changzhang.tv/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "xiguazyw",
+    "name": "up西瓜资源",
+    "baseUrl": "https://caiji.xgzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "haitun",
     "name": "海豚资源",
     "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
@@ -120,8 +136,8 @@
     "priority": 1
   },
   {
-    "id": "baofeng",
-    "name": "🎬暴风资源",
+    "id": "baofeng2",
+    "name": "🎬暴风资源2",
     "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
@@ -136,8 +152,8 @@
     "priority": 1
   },
   {
-    "id": "subo",
-    "name": "🎬速播资源",
+    "id": "subo1",
+    "name": "🎬速播资源1",
     "baseUrl": "https://subocaiji.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
@@ -168,8 +184,8 @@
     "priority": 1
   },
   {
-    "id": "hhzy",
-    "name": "🎬豪华资源",
+    "id": "hhzy1",
+    "name": "🎬豪华资源1",
     "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
@@ -192,8 +208,8 @@
     "priority": 1
   },
   {
-    "id": "subo",
-    "name": "速播资源",
+    "id": "subo2",
+    "name": "速播资源2",
     "baseUrl": "https://subocj.com/api.php/provide/vod/at/json",
     "group": "normal",
     "enabled": true,
@@ -208,8 +224,8 @@
     "priority": 1
   },
   {
-    "id": "baofeng",
-    "name": "暴风资源",
+    "id": "baofeng1",
+    "name": "暴风资源1",
     "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
@@ -256,8 +272,8 @@
     "priority": 1
   },
   {
-    "id": "haohua",
-    "name": "豪华资源站",
+    "id": "haohua2",
+    "name": "豪华资源站2",
     "baseUrl": "https://haohuazy.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
@@ -304,16 +320,16 @@
     "priority": 1
   },
   {
-    "id": "subo2",
-    "name": "速播资源站",
+    "id": "subo3",
+    "name": "速播资源站3",
     "baseUrl": "https://subocj.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 1
   },
   {
-    "id": "subo3",
-    "name": "速播资源站2",
+    "id": "subo4",
+    "name": "速播资源站4",
     "baseUrl": "https://www.suboziyuan.net/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
@@ -384,7 +400,7 @@
     "priority": 5
   },
   {
-    "id": "jisu",
+    "id": "jisu1",
     "name": "🎬极速资源",
     "baseUrl": "https://jszyapi.com/api.php/provide/vod",
     "group": "normal",
@@ -443,14 +459,6 @@
     "id": "wujin",
     "name": "无尽资源",
     "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "jisu",
-    "name": "极速资源",
-    "baseUrl": "https://jszyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
