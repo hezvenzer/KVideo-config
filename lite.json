@@ -120,6 +120,14 @@
     "priority": 1
   },
   {
+    "id": "jisu1",
+    "name": "🎬极速资源",
+    "baseUrl": "https://jszyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "modu",
     "name": "🎬魔都资源",
     "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
@@ -387,14 +395,6 @@
     "id": "iqiyi",
     "name": "🎬-爱奇艺-",
     "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "jisu1",
-    "name": "🎬极速资源",
-    "baseUrl": "https://jszyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
