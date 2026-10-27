@@ -24,13 +24,13 @@
  {
   "id": "kuaiche",
   "name": "up快车资源",
-  "baseUrl": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list",
+  "baseUrl": "https://caiji.kuaichezy.org/api.php/provide/vod",
   "group": "normal",
   "enabled": true
 },
   {
   "id": "okzyw",
-  "name": "up_OK资源",
+  "name": "OK资源",
   "baseUrl": "https://api.okzyw.net/api.php/provide/vod",
   "group": "normal",
   "enabled": true
@@ -75,16 +75,16 @@
    "name": "up天涯资源",
    "baseUrl": "https://ty.tyyszy5.com/api.php/provide/vod/?ac=list",
    "group": "normal",
-   "enabled": true
-    },
-  {
-   "id": "tianyahj",
-   "name": "up天涯海角资源",
-   "baseUrl": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
-   "group": "normal",
-   "enabled": true
-    },
-  {
+   "enabled": false
+},
+ {
+  "id": "tianyahj",
+  "name": "up天涯海角资源",
+  "baseUrl": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
+  "group": "normal",
+  "enabled": false
+},
+ {
   "id": "feifancj",
   "name": "非凡采集https",
   "baseUrl": "https://cj.ffzyapi.com/api.php/provide/vod",
@@ -546,9 +546,9 @@
     "enabled": true
   },
   {
-    "id": "aosika",
-    "name": "🔞-奥斯卡-",
-    "baseUrl": "https://aosikazy1.com/api.php/provide/vod/?ac=list",
+    "id": "aosika1",
+    "name": "🔞-奥斯卡1",
+    "baseUrl": "https://aosikazy1.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true
   },
@@ -884,9 +884,9 @@
     "enabled": true
   },
   {
-    "id": "aosika1",
-    "name": "奥斯卡资源站",
-    "baseUrl": "https://aosikazy9.com/api.php/provide/vod/?ac=list",
+    "id": "aosika9",
+    "name": "奥斯卡资源站9",
+    "baseUrl": "https://aosikazy9.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true
   },
