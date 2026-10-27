@@ -26,14 +26,14 @@
   "name": "up快车资源",
   "baseUrl": "https://caiji.kuaichezy.org/api.php/provide/vod",
   "group": "normal",
-  "enabled": true
+  "enabled": false
 },
   {
   "id": "okzyw",
   "name": "OK资源",
   "baseUrl": "https://api.okzyw.net/api.php/provide/vod",
   "group": "normal",
-  "enabled": true
+  "enabled": false
 },
  {
   "id": "xiguazyw",
@@ -126,7 +126,7 @@
     "name": "🎬up豆瓣资源",
     "baseUrl": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
     "group": "normal",
-    "enabled": true
+    "enabled": false
   },
  {
     "id": "mahua-1080zyku",
@@ -298,14 +298,14 @@
     "name": "🎬up爱蛋资源1",
     "baseUrl": "https://lovedan.net/api.php/provide/vod",
     "group": "normal",
-    "enabled": true
+    "enabled": false
   },
  {
     "id": "aidan2",
     "name": "🎬up爱蛋资源2",
     "baseUrl": "https://www.ddmf.net/api.php/provide/vod",
     "group": "normal",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "madou",
@@ -550,7 +550,7 @@
     "name": "🔞-奥斯卡1",
     "baseUrl": "https://aosikazy1.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "quantum",
@@ -581,18 +581,11 @@
     "enabled": true
   },
   {
-    "id": "mozhu",
-    "name": "魔爪资源",
-    "baseUrl": "https://mozhuazy.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true
-  },
-  {
     "id": "yinghuah",
     "name": "up樱花资源",
     "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
     "group": "normal",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "shandian",
@@ -888,7 +881,7 @@
     "name": "奥斯卡资源站9",
     "baseUrl": "https://aosikazy9.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "naixx",
@@ -937,7 +930,7 @@
     "name": "湿乐园资源站",
     "baseUrl": "https://xxavs.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "didi",
