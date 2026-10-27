@@ -192,14 +192,6 @@
     "priority": 1
   },
   {
-    "id": "muji",
-    "name": "🔞母鸡资源",
-    "baseUrl": "https://mujiziyuan00.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "quantum",
     "name": "量子资源",
     "baseUrl": "http://cj.lziapi.com/api.php/provide/vod",
@@ -555,14 +547,6 @@
     "id": "lebo",
     "name": "乐播资源站",
     "baseUrl": "https://lbapi9.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "xiaojizy",
-    "name": "小鸡资源站",
-    "baseUrl": "https://api.xiaojizy.live/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 5

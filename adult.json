@@ -195,7 +195,7 @@
     "id": "muji",
     "name": "🔞母鸡资源",
     "baseUrl": "https://mujiziyuan00.com/api.php/provide/vod",
-    "group": "normal",
+    "group": "premium",
     "enabled": true,
     "priority": 1
   },
@@ -203,6 +203,30 @@
     "id": "dadi",
     "name": "🔞大地资源",
     "baseUrl": "https://dadiapi.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "xingye",
+    "name": "🔞星夜资源",
+    "baseUrl": "https://xyezy.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "mianfei",
+    "name": "🔞免费资源",
+    "baseUrl": "https://yuanlib.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "heihei",
+    "name": "🔞嘿嘿资源",
+    "baseUrl": "https://api.heiapi.cc/api.php/provide/vod",
     "group": "premium",
     "enabled": true,
     "priority": 1
@@ -536,8 +560,8 @@
     "priority": 5
   },
   {
-    "id": "hsck",
-    "name": "🔞黄色仓库",
+    "id": "hsck1",
+    "name": "🔞黄色仓库1",
     "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
     "group": "premium",
     "enabled": true,
@@ -560,8 +584,8 @@
     "priority": 5
   },
   {
-    "id": "naixiang",
-    "name": "🔞奶香资源",
+    "id": "naixiang1",
+    "name": "🔞奶香资源1",
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true,
@@ -680,8 +704,8 @@
     "priority": 5
   },
   {
-    "id": "hsck",
-    "name": "黄色仓库vip",
+    "id": "hsck2",
+    "name": "🔞黄色仓库vip2",
     "baseUrl": "https://hsckzy.vip/api.php/provide/vod",
     "group": "premium",
     "enabled": true,
@@ -768,8 +792,8 @@
     "priority": 5
   },
   {
-    "id": "naixx",
-    "name": "🔞奶香香资源站",
+    "id": "naixx2",
+    "name": "🔞奶香香资源站2",
     "baseUrl": "https://naixxzy.com/api.php/provide/vod/",
     "group": "premium",
     "enabled": true,
@@ -788,14 +812,6 @@
     "name": "🔞森林资源",
     "baseUrl": "https://slapibf.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "xiaojizy",
-    "name": "小鸡资源站",
-    "baseUrl": "https://api.xiaojizy.live/provide/vod/",
-    "group": "normal",
     "enabled": true,
     "priority": 5
   },
@@ -888,8 +904,8 @@
     "priority": 5
   },
   {
-    "id": "hsck",
-    "name": "🔞X色仓库资源",
+    "id": "hsck3",
+    "name": "🔞X色仓库资源3",
     "baseUrl": "https://hsckzy888.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true,
@@ -960,12 +976,57 @@
     "priority": 10
   },
   {
+    "id": "jingping98",
+    "name": "🔞精品98资源",
+    "baseUrl": "https://jp98.vip/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "搜索无结果"
+  },
+  {
+    "id": "",
+    "name": "🔞资源",
+    "baseUrl": "",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "",
+    "name": "🔞资源",
+    "baseUrl": "",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "",
+    "name": "🔞资源",
+    "baseUrl": "",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "",
+    "name": "🔞资源",
+    "baseUrl": "",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
     "id": "shandian",
     "name": "闪电资源",
     "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "接口解析错误"
   },
   {
@@ -974,7 +1035,7 @@
     "baseUrl": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "接口解析错误"
   },
   {
@@ -983,7 +1044,7 @@
     "baseUrl": "https://caiji.maotai999.vip/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "接口解析错误"
   },
   {
@@ -992,16 +1053,16 @@
     "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 110,
+    "priority": 111,
     "_comment": "接口解析错误"
   },
   {
     "id": "huosu",
     "name": "🔞火速资源",
     "baseUrl": "https://api.huosuapi.cc/api.php/provide/vod",
-    "group": "normal",
+    "group": "premium",
     "enabled": false,
-    "priority": 126,
+    "priority": 127,
     "_comment": "搜索无结果"
   },
   {
