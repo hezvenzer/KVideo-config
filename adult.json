@@ -448,6 +448,14 @@
     "priority": 5
   },
   {
+    "id": "modu",
+    "name": "🎬魔都资源",
+    "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "jinying",
     "name": "🎬金鹰点播",
     "baseUrl": "https://jinyingzy.com/api.php/provide/vod",
@@ -467,6 +475,14 @@
     "id": "hongniu",
     "name": "🎬红牛资源",
     "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "modudm",
+    "name": "🎬魔都动漫",
+    "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -728,14 +744,6 @@
     "priority": 5
   },
   {
-    "id": "jipin",
-    "name": "新极品资源站",
-    "baseUrl": "https://jipinvip1.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "iqiyi2",
     "name": "爱奇艺资源站2",
     "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
@@ -771,6 +779,14 @@
     "id": "jkun",
     "name": "JKUN资源站",
     "baseUrl": "https://jkunzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "modu",
+    "name": "魔都资源站",
+    "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -968,36 +984,18 @@
     "priority": 10
   },
   {
-    "id": "uuzy",
-    "name": "upUU资源",
-    "baseUrl": "https://uuzy.me/api.php/provide/vod",
+    "id": "jipin",
+    "name": "新极品资源站",
+    "baseUrl": "https://jipinvip1.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": false,
     "priority": 101,
     "_comment": "超时/宕机"
   },
   {
-    "id": "modu",
-    "name": "🎬魔都资源",
-    "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 102,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "modudm",
-    "name": "🎬魔都动漫",
-    "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 102,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "modu",
-    "name": "魔都资源站",
-    "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod/",
+    "id": "uuzy",
+    "name": "upUU资源",
+    "baseUrl": "https://uuzy.me/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
     "priority": 102,
@@ -1009,7 +1007,7 @@
     "baseUrl": "https://jp98.vip/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 104,
+    "priority": 105,
     "_comment": "搜索无结果"
   },
   {
@@ -1018,7 +1016,7 @@
     "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": false,
-    "priority": 112,
+    "priority": 113,
     "_comment": "接口解析错误"
   },
   {
@@ -1027,7 +1025,7 @@
     "baseUrl": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": false,
-    "priority": 112,
+    "priority": 113,
     "_comment": "接口解析错误"
   },
   {
@@ -1036,7 +1034,7 @@
     "baseUrl": "https://caiji.maotai999.vip/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 112,
+    "priority": 113,
     "_comment": "接口解析错误"
   },
   {
@@ -1045,7 +1043,7 @@
     "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 114,
+    "priority": 115,
     "_comment": "接口解析错误"
   },
   {
