@@ -604,9 +604,16 @@
   {
     "id": "aosika1",
     "name": "🔞-奥斯卡1",
-    "baseUrl": "https://aosikazy1.com/api.php/provide/vod",
+    "baseUrl": "https://aosikazy.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": false
+    "enabled": true
+  },
+  {
+    "id": "baiwan",
+    "name": "🔞-百万1",
+    "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true
   },
   {
     "id": "liangzi2",
@@ -835,7 +842,7 @@
    {
     "id": "maotai",
     "name": "up茅台资源",
-    "baseUrl": "https://caiji.maotai999.vip/api.php/provide/vod",
+    "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": true
   },
