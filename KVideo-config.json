@@ -779,22 +779,22 @@
   {
     "id": "guangsu2",
     "name": "光速资源站",
-    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod/",
+    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true
   },
   {
     "id": "haohua2",
     "name": "豪华资源站2",
-    "baseUrl": "https://haohuazy.com/api.php/provide/vod/",
+    "baseUrl": "https://haohuazy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true
   },
   {
     "id": "jipin",
-    "name": "新极品资源站",
-    "baseUrl": "https://jipinvip1.com/api.php/provide/vod/",
-    "group": "normal",
+    "name": "🔞新极品资源站",
+    "baseUrl": "https://jipinvip1.com/api.php/provide/vod",
+    "group": "premium",
     "enabled": true
   },
   {
