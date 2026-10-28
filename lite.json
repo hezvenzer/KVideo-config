@@ -120,8 +120,8 @@
     "priority": 1
   },
   {
-    "id": "liangzi",
-    "name": "🎬量子资源",
+    "id": "liangzi1",
+    "name": "🎬量子资源1",
     "baseUrl": "https://cj.lzcaiji.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
@@ -208,8 +208,8 @@
     "priority": 1
   },
   {
-    "id": "quantum",
-    "name": "量子资源",
+    "id": "liangzi2",
+    "name": "量子资源2",
     "baseUrl": "http://cj.lziapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
@@ -227,6 +227,14 @@
     "id": "subo2",
     "name": "速播资源2",
     "baseUrl": "https://subocj.com/api.php/provide/vod/at/json",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "hongniu2",
+    "name": "红牛资源2",
+    "baseUrl": "https://www.hongniuzy3.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -320,14 +328,6 @@
     "priority": 1
   },
   {
-    "id": "lzizy-net",
-    "name": "量子影视",
-    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "huya2",
     "name": "虎牙资源站",
     "baseUrl": "https://huyazy.net/api.php/provide/vod/",
@@ -416,24 +416,24 @@
     "priority": 5
   },
   {
-    "id": "jinying",
-    "name": "🎬金鹰点播",
+    "id": "jinying1",
+    "name": "🎬金鹰点播1",
     "baseUrl": "https://jinyingzy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
   },
   {
-    "id": "guangsu",
-    "name": "🎬光速资源",
+    "id": "guangsu1",
+    "name": "🎬光速资源1",
     "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
   },
   {
-    "id": "hongniu",
-    "name": "🎬红牛资源",
+    "id": "hongniu1",
+    "name": "🎬红牛资源1",
     "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
@@ -464,40 +464,24 @@
     "priority": 5
   },
   {
-    "id": "hongniu",
-    "name": "红牛资源",
-    "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "guangsu",
-    "name": "光速资源",
+    "id": "guangsu2",
+    "name": "光速资源2",
     "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
   },
   {
-    "id": "jinyingyun",
-    "name": "金鹰云资源",
+    "id": "jinyingyun2",
+    "name": "金鹰云资源2",
     "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
     "group": "normal",
     "enabled": true,
     "priority": 5
   },
   {
-    "id": "jinying",
-    "name": "金鹰资源",
-    "baseUrl": "https://jyzyapi.com/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "guangsu2",
-    "name": "光速资源站",
+    "id": "guangsu3",
+    "name": "光速资源站3",
     "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
@@ -512,17 +496,9 @@
     "priority": 5
   },
   {
-    "id": "hongniu2",
-    "name": "红牛资源站",
+    "id": "hongniu3",
+    "name": "红牛资源站3",
     "baseUrl": "http://hongniuzy2.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "jinying2",
-    "name": "金鹰资源站",
-    "baseUrl": "https://jyzyapi.com/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 5
