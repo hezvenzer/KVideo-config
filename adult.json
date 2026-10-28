@@ -968,12 +968,47 @@
     "priority": 5
   },
   {
+    "id": "xinlang",
+    "name": "🎬新浪资源",
+    "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "aosika1",
+    "name": "🔞-奥斯卡1",
+    "baseUrl": "https://aosikazy.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
+  },
+  {
+    "id": "baiwan",
+    "name": "🔞-百万1",
+    "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "maotai",
+    "name": "up茅台资源",
+    "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
+  },
+  {
     "id": "tianya2",
     "name": "up天涯资源2",
     "baseUrl": "https://tyyszy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 101,
+    "priority": 102,
     "_comment": "接口解析错误"
   },
   {
@@ -982,7 +1017,7 @@
     "baseUrl": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
     "group": "normal",
     "enabled": false,
-    "priority": 101,
+    "priority": 102,
     "_comment": "接口解析错误"
   },
   {
@@ -991,7 +1026,7 @@
     "baseUrl": "https://uuzy.me/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 104,
+    "priority": 105,
     "_comment": "超时/宕机"
   },
   {
@@ -1000,7 +1035,7 @@
     "baseUrl": "https://jp98.vip/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 107,
+    "priority": 108,
     "_comment": "搜索无结果"
   },
   {
@@ -1009,7 +1044,7 @@
     "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": false,
-    "priority": 115,
+    "priority": 116,
     "_comment": "接口解析错误"
   },
   {
@@ -1018,25 +1053,7 @@
     "baseUrl": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": false,
-    "priority": 115,
-    "_comment": "接口解析错误"
-  },
-  {
-    "id": "maotai",
-    "name": "up茅台资源",
-    "baseUrl": "https://caiji.maotai999.vip/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 115,
-    "_comment": "接口解析错误"
-  },
-  {
-    "id": "xinlang",
-    "name": "🎬新浪资源",
-    "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 117,
+    "priority": 116,
     "_comment": "接口解析错误"
   },
   {
@@ -1278,15 +1295,6 @@
     "name": "up无水印资源",
     "baseUrl": "https://api.wsyzy.net/api.php/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 999,
-    "_comment": "手动禁用"
-  },
-  {
-    "id": "aosika1",
-    "name": "🔞-奥斯卡1",
-    "baseUrl": "https://aosikazy1.com/api.php/provide/vod",
-    "group": "premium",
     "enabled": false,
     "priority": 999,
     "_comment": "手动禁用"
