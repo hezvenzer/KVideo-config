@@ -330,8 +330,16 @@
   {
     "id": "haohua2",
     "name": "豪华资源站2",
-    "baseUrl": "https://haohuazy.com/api.php/provide/vod/",
+    "baseUrl": "https://haohuazy.com/api.php/provide/vod",
     "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "jipin",
+    "name": "🔞新极品资源站",
+    "baseUrl": "https://jipinvip1.com/api.php/provide/vod",
+    "group": "premium",
     "enabled": true,
     "priority": 1
   },
@@ -560,6 +568,14 @@
     "priority": 5
   },
   {
+    "id": "shayu",
+    "name": "🔞鲨鱼资源",
+    "baseUrl": "https://shayuapi.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "lsbzy",
     "name": "🔞-老色逼-",
     "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
@@ -619,6 +635,14 @@
     "id": "lajiao",
     "name": "🔞辣椒资源",
     "baseUrl": "https://apilj.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "shayu",
+    "name": "🔞鲨鱼资源",
+    "baseUrl": "https://shayuapi.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true,
     "priority": 5
@@ -738,7 +762,7 @@
   {
     "id": "guangsu2",
     "name": "光速资源站",
-    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod/",
+    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -904,6 +928,14 @@
     "priority": 5
   },
   {
+    "id": "shayu",
+    "name": "🔞鲨鱼资源站",
+    "baseUrl": "https://shayuapi.com/api.php/provide/vod/",
+    "group": "premium",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "madou",
     "name": "🔞麻豆资源站",
     "baseUrl": "https://91md.me/api.php/provide/vod/",
@@ -960,45 +992,12 @@
     "priority": 5
   },
   {
-    "id": "shayu",
-    "name": "🔞鲨鱼资源",
-    "baseUrl": "https://shayuapi.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "shayu",
-    "name": "🔞鲨鱼资源",
-    "baseUrl": "https://shayuapi.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "shayu",
-    "name": "🔞鲨鱼资源站",
-    "baseUrl": "https://shayuapi.com/api.php/provide/vod/",
-    "group": "premium",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "jipin",
-    "name": "新极品资源站",
-    "baseUrl": "https://jipinvip1.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "超时/宕机"
-  },
-  {
     "id": "uuzy",
     "name": "upUU资源",
     "baseUrl": "https://uuzy.me/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 102,
+    "priority": 103,
     "_comment": "超时/宕机"
   },
   {
@@ -1007,7 +1006,7 @@
     "baseUrl": "https://jp98.vip/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 105,
+    "priority": 106,
     "_comment": "搜索无结果"
   },
   {
@@ -1016,7 +1015,7 @@
     "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": false,
-    "priority": 113,
+    "priority": 114,
     "_comment": "接口解析错误"
   },
   {
@@ -1025,7 +1024,7 @@
     "baseUrl": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": false,
-    "priority": 113,
+    "priority": 114,
     "_comment": "接口解析错误"
   },
   {
@@ -1034,7 +1033,7 @@
     "baseUrl": "https://caiji.maotai999.vip/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 113,
+    "priority": 114,
     "_comment": "接口解析错误"
   },
   {
@@ -1043,7 +1042,7 @@
     "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 115,
+    "priority": 116,
     "_comment": "接口解析错误"
   },
   {

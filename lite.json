@@ -290,7 +290,7 @@
   {
     "id": "haohua2",
     "name": "豪华资源站2",
-    "baseUrl": "https://haohuazy.com/api.php/provide/vod/",
+    "baseUrl": "https://haohuazy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -498,7 +498,7 @@
   {
     "id": "guangsu2",
     "name": "光速资源站",
-    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod/",
+    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
