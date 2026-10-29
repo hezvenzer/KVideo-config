@@ -413,8 +413,8 @@
     "enabled": true
   },
  {
-    "id": "lajiao",
-    "name": "🔞辣椒资源",
+    "id": "lajiao1",
+    "name": "🔞辣椒资源1",
     "baseUrl": "https://apilj.com/api.php/provide/vod/",
     "group": "premium",
     "enabled": true
@@ -514,13 +514,6 @@
     "id": "senlin",
     "name": "🔞森林资源",
     "baseUrl": "https://beiyong.slapibf.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true
-  },
-  {
-    "id": "lajiao",
-    "name": "🔞辣椒资源",
-    "baseUrl": "https://apilj.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true
   },
@@ -1029,9 +1022,9 @@
     "enabled": true
   },
   {
-    "id": "lajiao",
-    "name": "🔞辣椒资源站",
-    "baseUrl": "https://apilj.com/api.php/provide/vod/",
+    "id": "lajiao2",
+    "name": "🔞辣椒资源站2",
+    "baseUrl": "http://api.11bat.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true
   },
