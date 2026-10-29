@@ -567,8 +567,8 @@
     "enabled": true
   },
   {
-    "id": "msnii",
-    "name": "🔞-美少女-",
+    "id": "msnii1",
+    "name": "🔞-美少女1",
     "baseUrl": "https://www.msnii.com/api/json.php",
     "group": "premium",
     "enabled": true
@@ -1099,8 +1099,19 @@
     "enabled": true
   },
   {
-    "id": "meishaonv",
-    "name": "🔞美少女资源站",
+    "id": "",
+    "name": "🔞up",
+    "baseUrl": "",
+    "group": "premium",
+    "enabled": true
+  },
+
+
+
+ 
+  {
+    "id": "meishaonv2",
+    "name": "🔞美少女资源站2",
     "baseUrl": "https://www.msnii.com/api/json.php",
     "group": "premium",
     "enabled": true
