@@ -216,6 +216,14 @@
     "priority": 1
   },
   {
+    "id": "zuiying",
+    "name": "up追影资源",
+    "baseUrl": "https://tvbox.myeven.ccwu.cc/vod/zhuiying",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "dadi",
     "name": "🔞大地资源",
     "baseUrl": "https://dadiapi.com/api.php/provide/vod",
@@ -504,8 +512,8 @@
     "priority": 5
   },
   {
-    "id": "madou",
-    "name": "🔞麻豆视频",
+    "id": "madou1",
+    "name": "🔞麻豆视频1",
     "baseUrl": "https://91md.me/api.php/provide/vod",
     "group": "premium",
     "enabled": true,
@@ -548,14 +556,6 @@
     "name": "🔞黑料资源",
     "baseUrl": "https://www.heiliaozyapi.com/api.php/provide/vod/",
     "group": "premium",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "lebo",
-    "name": "乐播资源",
-    "baseUrl": "https://lbapi9.com/api.php/provide/vod/",
-    "group": "normal",
     "enabled": true,
     "priority": 5
   },
@@ -792,14 +792,6 @@
     "priority": 5
   },
   {
-    "id": "lebo",
-    "name": "乐播资源站",
-    "baseUrl": "https://lbapi9.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "naixx2",
     "name": "🔞奶香香资源站2",
     "baseUrl": "https://naixxzy.com/api.php/provide/vod/",
@@ -904,14 +896,6 @@
     "priority": 5
   },
   {
-    "id": "madou",
-    "name": "🔞麻豆资源站",
-    "baseUrl": "https://91md.me/api.php/provide/vod/",
-    "group": "premium",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "hsck3",
     "name": "🔞X色仓库资源3",
     "baseUrl": "https://hsckzy888.com/api.php/provide/vod",
@@ -968,12 +952,21 @@
     "priority": 10
   },
   {
+    "id": "dusi",
+    "name": "up独思资源",
+    "baseUrl": "http://y.ds05.cn/zyapi.php",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
+  },
+  {
     "id": "aosika1",
     "name": "🔞-奥斯卡1",
     "baseUrl": "https://aosikazy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 105,
+    "priority": 106,
     "_comment": "接口解析错误"
   },
   {
@@ -982,7 +975,7 @@
     "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 105,
+    "priority": 106,
     "_comment": "超时/宕机"
   },
   {
@@ -991,7 +984,7 @@
     "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 105,
+    "priority": 106,
     "_comment": "接口解析错误"
   },
   {
@@ -1000,7 +993,7 @@
     "baseUrl": "https://tyyszy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 106,
+    "priority": 107,
     "_comment": "接口解析错误"
   },
   {
@@ -1009,7 +1002,7 @@
     "baseUrl": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
     "group": "normal",
     "enabled": false,
-    "priority": 106,
+    "priority": 107,
     "_comment": "接口解析错误"
   },
   {
@@ -1018,7 +1011,7 @@
     "baseUrl": "https://uuzy.me/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 109,
+    "priority": 110,
     "_comment": "超时/宕机"
   },
   {
@@ -1027,8 +1020,17 @@
     "baseUrl": "https://jp98.vip/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 112,
+    "priority": 113,
     "_comment": "搜索无结果"
+  },
+  {
+    "id": "wsy",
+    "name": "up无水印资源",
+    "baseUrl": "https://api.wsyzy.net/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 121,
+    "_comment": "接口解析错误"
   },
   {
     "id": "shandian",
@@ -1036,7 +1038,7 @@
     "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": false,
-    "priority": 120,
+    "priority": 121,
     "_comment": "接口解析错误"
   },
   {
@@ -1045,7 +1047,7 @@
     "baseUrl": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": false,
-    "priority": 120,
+    "priority": 121,
     "_comment": "接口解析错误"
   },
   {
@@ -1277,15 +1279,6 @@
     "id": "aidan2",
     "name": "🎬up爱蛋资源2",
     "baseUrl": "https://www.ddmf.net/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 999,
-    "_comment": "手动禁用"
-  },
-  {
-    "id": "wsying",
-    "name": "up无水印资源",
-    "baseUrl": "https://api.wsyzy.net/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
     "priority": 999,

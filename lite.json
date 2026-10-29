@@ -208,6 +208,14 @@
     "priority": 1
   },
   {
+    "id": "zuiying",
+    "name": "up追影资源",
+    "baseUrl": "https://tvbox.myeven.ccwu.cc/vod/zhuiying",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "liangzi2",
     "name": "量子资源2",
     "baseUrl": "http://cj.lziapi.com/api.php/provide/vod",
@@ -448,14 +456,6 @@
     "priority": 5
   },
   {
-    "id": "lebo",
-    "name": "乐播资源",
-    "baseUrl": "https://lbapi9.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "feifan",
     "name": "非凡资源",
     "baseUrl": "http://www.ffzy.tv/api.php/provide/vod",
@@ -523,14 +523,6 @@
     "id": "modu",
     "name": "魔都资源站",
     "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "lebo",
-    "name": "乐播资源站",
-    "baseUrl": "https://lbapi9.com/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 5
