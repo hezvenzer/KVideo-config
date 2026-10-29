@@ -336,8 +336,8 @@
     "enabled": false
   },
   {
-    "id": "madou",
-    "name": "🔞麻豆视频",
+    "id": "madou1",
+    "name": "🔞麻豆视频1",
     "baseUrl": "https://91md.me/api.php/provide/vod",
     "group": "premium",
     "enabled": true
@@ -378,11 +378,25 @@
     "enabled": true
   },
  {
-    "id": "wsying",
+    "id": "wsy",
     "name": "up无水印资源",
     "baseUrl": "https://api.wsyzy.net/api.php/provide/vod",
     "group": "normal",
-    "enabled": false
+    "enabled": true
+  },
+ {
+    "id": "zuiying",
+    "name": "up追影资源",
+    "baseUrl": "https://tvbox.myeven.ccwu.cc/vod/zhuiying",
+    "group": "normal",
+    "enabled": true
+  },
+ {
+    "id": "dusi",
+    "name": "up独思资源",
+    "baseUrl": "http://y.ds05.cn/zyapi.php",
+    "group": "normal",
+    "enabled": true
   },
  {
     "id": "sexy8",
@@ -403,13 +417,6 @@
     "name": "🔞大地资源",
     "baseUrl": "https://dadiapi.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": true
-  },
- {
-    "id": "lebo",
-    "name": "乐播资源",
-    "baseUrl": "https://lbapi9.com/api.php/provide/vod/",
-    "group": "normal",
     "enabled": true
   },
  {
@@ -889,13 +896,6 @@
     "enabled": true
   },
   {
-    "id": "lebo",
-    "name": "乐播资源站",
-    "baseUrl": "https://lbapi9.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true
-  },
-  {
     "id": "ikun2",
     "name": "爱坤资源站",
     "baseUrl": "https://ikunzyapi.com/api.php/provide/vod/",
@@ -1032,13 +1032,6 @@
     "id": "shayu",
     "name": "🔞鲨鱼资源站",
     "baseUrl": "https://shayuapi.com/api.php/provide/vod/",
-    "group": "premium",
-    "enabled": true
-  },
-  {
-    "id": "madou",
-    "name": "🔞麻豆资源站",
-    "baseUrl": "https://91md.me/api.php/provide/vod/",
     "group": "premium",
     "enabled": true
   },
