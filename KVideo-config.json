@@ -388,6 +388,8 @@
     "id": "zuiying",
     "name": "up追影资源",
     "baseUrl": "https://tvbox.myeven.ccwu.cc/vod/zhuiying",
+    "searchPath": "/vod/zhuiying",
+    "detailPath": "/vod/zhuiying",
     "group": "normal",
     "enabled": true
   },
