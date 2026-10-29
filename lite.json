@@ -152,14 +152,6 @@
     "priority": 1
   },
   {
-    "id": "baofeng2",
-    "name": "🎬暴风资源2",
-    "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "zuida1",
     "name": "🎬最大资源1",
     "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
@@ -208,6 +200,14 @@
     "priority": 1
   },
   {
+    "id": "lxyy-4k60",
+    "name": "洛雪TV·4k60帧",
+    "baseUrl": "https://tvbox.myeven.ccwu.cc/vod/lxyy-4k60",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "zuiying",
     "name": "up追影资源",
     "baseUrl": "https://tvbox.myeven.ccwu.cc/vod/zhuiying",
@@ -251,14 +251,6 @@
     "id": "maoyan",
     "name": "猫眼资源",
     "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "baofeng1",
-    "name": "暴风资源1",
-    "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 1
