@@ -385,11 +385,16 @@
     "enabled": true
   },
  {
+    "id": "lxyy-4k60",
+    "name": "洛雪TV·4k60帧",
+    "baseUrl": "https://tvbox.myeven.ccwu.cc/vod/lxyy-4k60",
+    "group": "normal",
+    "enabled": true
+  },
+  {
     "id": "zuiying",
     "name": "up追影资源",
     "baseUrl": "https://tvbox.myeven.ccwu.cc/vod/zhuiying",
-    "searchPath": "/vod/zhuiying",
-    "detailPath": "/vod/zhuiying",
     "group": "normal",
     "enabled": true
   },
