@@ -1099,17 +1099,6 @@
     "enabled": true
   },
   {
-    "id": "",
-    "name": "🔞up",
-    "baseUrl": "",
-    "group": "premium",
-    "enabled": true
-  },
-
-
-
- 
-  {
     "id": "meishaonv2",
     "name": "🔞美少女资源站2",
     "baseUrl": "https://www.msnii.com/api/json.php",
