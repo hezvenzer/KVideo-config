@@ -216,14 +216,6 @@
     "priority": 1
   },
   {
-    "id": "155zy",
-    "name": "🔞155-资源",
-    "baseUrl": "https://155api.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "yutu",
     "name": "🔞玉兔资源",
     "baseUrl": "https://apiyutu.com/api.php/provide/vod",
@@ -259,6 +251,38 @@
     "id": "lxyy2",
     "name": "洛雪TV2",
     "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/lxyy-4k60",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "aosikazy666",
+    "name": "🔞奥斯卡资源站666",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/aosikazy9",
+    "group": "premium",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "niuniuzyy",
+    "name": "牛牛资源站2",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/niuniuzy",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "okk",
+    "name": "ok资源站2",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/ok",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "kuaichee",
+    "name": "快车资源站2",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/kuaichezy",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -632,14 +656,6 @@
     "priority": 1
   },
   {
-    "id": "api155",
-    "name": "155资源站",
-    "baseUrl": "https://155api.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "feifan2",
     "name": "非凡资源站",
     "baseUrl": "https://ffzy5.tv/api.php/provide/vod/",
@@ -848,6 +864,14 @@
     "priority": 5
   },
   {
+    "id": "iqiyi1",
+    "name": "🎬-爱奇艺1",
+    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "modu",
     "name": "🎬魔都资源",
     "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
@@ -936,6 +960,14 @@
     "priority": 5
   },
   {
+    "id": "iqiyi2",
+    "name": "爱奇艺资源站2",
+    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "hongniu3",
     "name": "红牛资源站3",
     "baseUrl": "http://hongniuzy2.com/api.php/provide/vod/",
@@ -960,18 +992,18 @@
     "priority": 10
   },
   {
-    "id": "iqiyi1",
-    "name": "🎬-爱奇艺1",
-    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
-    "group": "normal",
+    "id": "155zy",
+    "name": "🔞155-资源",
+    "baseUrl": "https://155api.com/api.php/provide/vod",
+    "group": "premium",
     "enabled": false,
     "priority": 101,
     "_comment": "超时/宕机"
   },
   {
-    "id": "iqiyi2",
-    "name": "爱奇艺资源站2",
-    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
+    "id": "api155",
+    "name": "155资源站",
+    "baseUrl": "https://155api.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
     "priority": 101,
@@ -983,16 +1015,7 @@
     "baseUrl": "http://y.ds05.cn/zyapi.php",
     "group": "normal",
     "enabled": false,
-    "priority": 105,
-    "_comment": "接口解析错误"
-  },
-  {
-    "id": "aosika1",
-    "name": "🔞-奥斯卡1",
-    "baseUrl": "https://aosikazy.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 110,
+    "priority": 106,
     "_comment": "接口解析错误"
   },
   {
@@ -1001,7 +1024,7 @@
     "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 110,
+    "priority": 111,
     "_comment": "超时/宕机"
   },
   {
@@ -1010,7 +1033,7 @@
     "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 110,
+    "priority": 111,
     "_comment": "接口解析错误"
   },
   {
@@ -1019,7 +1042,7 @@
     "baseUrl": "https://tyyszy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 111,
+    "priority": 112,
     "_comment": "接口解析错误"
   },
   {
@@ -1028,7 +1051,7 @@
     "baseUrl": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
     "group": "normal",
     "enabled": false,
-    "priority": 111,
+    "priority": 112,
     "_comment": "接口解析错误"
   },
   {
@@ -1037,7 +1060,7 @@
     "baseUrl": "https://uuzy.me/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 114,
+    "priority": 115,
     "_comment": "超时/宕机"
   },
   {
@@ -1046,7 +1069,7 @@
     "baseUrl": "https://jp98.vip/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 117,
+    "priority": 118,
     "_comment": "搜索无结果"
   },
   {
@@ -1055,7 +1078,7 @@
     "baseUrl": "https://api.wsyzy.net/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 125,
+    "priority": 126,
     "_comment": "接口解析错误"
   },
   {
@@ -1064,7 +1087,7 @@
     "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": false,
-    "priority": 125,
+    "priority": 126,
     "_comment": "接口解析错误"
   },
   {
@@ -1073,7 +1096,7 @@
     "baseUrl": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": false,
-    "priority": 125,
+    "priority": 126,
     "_comment": "接口解析错误"
   },
   {
@@ -1306,6 +1329,15 @@
     "name": "🎬up爱蛋资源2",
     "baseUrl": "https://www.ddmf.net/api.php/provide/vod",
     "group": "normal",
+    "enabled": false,
+    "priority": 999,
+    "_comment": "手动禁用"
+  },
+  {
+    "id": "aosika1",
+    "name": "🔞-奥斯卡1",
+    "baseUrl": "https://aosikazy.com/api.php/provide/vod",
+    "group": "premium",
     "enabled": false,
     "priority": 999,
     "_comment": "手动禁用"

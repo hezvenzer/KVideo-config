@@ -224,6 +224,30 @@
     "priority": 1
   },
   {
+    "id": "niuniuzyy",
+    "name": "牛牛资源站2",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/niuniuzy",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "okk",
+    "name": "ok资源站2",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/ok",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "kuaichee",
+    "name": "快车资源站2",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/kuaichezy",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "zuiying2",
     "name": "up追影资源2",
     "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/zhuiying",
@@ -376,14 +400,6 @@
     "priority": 1
   },
   {
-    "id": "api155",
-    "name": "155资源站",
-    "baseUrl": "https://155api.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "feifan2",
     "name": "非凡资源站",
     "baseUrl": "https://ffzy5.tv/api.php/provide/vod/",
@@ -443,6 +459,14 @@
     "id": "jingyu",
     "name": "鲸鱼资源",
     "baseUrl": "https://jyzyapi.com/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "iqiyi1",
+    "name": "🎬-爱奇艺1",
+    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -531,6 +555,14 @@
     "id": "guangsu3",
     "name": "光速资源站3",
     "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "iqiyi2",
+    "name": "爱奇艺资源站2",
+    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
