@@ -398,6 +398,34 @@
     "group": "normal",
     "enabled": true
   },
+{
+    "id": "aosikazy666",
+    "name": "🔞奥斯卡资源站666",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/aosikazy9",
+    "group": "premium",
+    "enabled": true
+  },
+{
+    "id": "niuniuzyy",
+    "name": "牛牛资源站2",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/niuniuzy",
+    "group": "normal",
+    "enabled": true
+  },
+{
+    "id": "okk",
+    "name": "ok资源站2",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/ok",
+    "group": "normal",
+    "enabled": true
+  },
+{
+    "id": "kuaichee",
+    "name": "快车资源站2",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/kuaichezy",
+    "group": "normal",
+    "enabled": true
+  },
  {
     "id": "zuiying2",
     "name": "up追影资源2",
@@ -627,7 +655,7 @@
     "name": "🔞-奥斯卡1",
     "baseUrl": "https://aosikazy.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "baiwan",
