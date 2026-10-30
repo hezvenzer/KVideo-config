@@ -576,6 +576,14 @@
     "priority": 5
   },
   {
+    "id": "api155",
+    "name": "155资源站",
+    "baseUrl": "https://155api.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "modu",
     "name": "魔都资源站",
     "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod/",
