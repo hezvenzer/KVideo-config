@@ -391,9 +391,23 @@
     "group": "normal",
     "enabled": true
   },
+{
+    "id": "lxyy2",
+    "name": "洛雪TV2",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/lxyy-4k60",
+    "group": "normal",
+    "enabled": true
+  },
+ {
+    "id": "zuiying2",
+    "name": "up追影资源2",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/zhuiying",
+    "group": "normal",
+    "enabled": true
+  },
   {
-    "id": "zuiying",
-    "name": "up追影资源",
+    "id": "zuiying1",
+    "name": "up追影资源1",
     "baseUrl": "https://tvbox.myeven.ccwu.cc/vod/zhuiying",
     "group": "normal",
     "enabled": true
