@@ -208,6 +208,14 @@
     "priority": 1
   },
   {
+    "id": "wsy2",
+    "name": "up无水印资源2",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/api-wsyzy-net",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "lxyy-4k60",
     "name": "洛雪TV·4k60帧",
     "baseUrl": "https://tvbox.myeven.ccwu.cc/vod/lxyy-4k60",
