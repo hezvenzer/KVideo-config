@@ -378,11 +378,18 @@
     "enabled": true
   },
  {
-    "id": "wsy",
-    "name": "up无水印资源",
-    "baseUrl": "https://api.wsyzy.net/api.php/provide/vod",
+    "id": "wsy2",
+    "name": "up无水印资源2",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/api-wsyzy-net",
     "group": "normal",
     "enabled": true
+  },
+  {
+    "id": "wsy1",
+    "name": "无水印资源1",
+    "baseUrl": "https://api.wsyzy.net/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false
   },
  {
     "id": "lxyy-4k60",
@@ -445,7 +452,7 @@
     "name": "up独思资源",
     "baseUrl": "http://y.ds05.cn/zyapi.php",
     "group": "normal",
-    "enabled": true
+    "enabled": false
   },
  {
     "id": "sexy8",
