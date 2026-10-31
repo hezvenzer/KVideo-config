@@ -82,9 +82,9 @@
 
 ## 🔗 快速调用示例
 
-* **获取最稳的精简订阅（带代理中转）：** `https://你的域名.workers.dev/?format=1&source=lite`
-* **获取原始链接的成人版订阅（无代理）：** `https://你的域名.workers.dev/?format=0&source=adult`
-
+* **获取最稳的精简订阅（带代理中转）：** `https://你的clouflare域名.workers.dev/?format=1&source=lite`
+* **获取原始链接的成人版订阅（无代理）：** `https://你的clouflare域名.workers.dev/?format=0&source=adult`
+* **获取原始链接的成人版订阅（自定义域名，无代理）：** `https://自定义域名/?format=0&source=adult`
 ---
 
 **最近巡检报告请查看：[report.md](./report.md)**
