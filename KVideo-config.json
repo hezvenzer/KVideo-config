@@ -832,6 +832,13 @@
     "group": "normal",
     "enabled": true
   },
+ {
+    "id": "yaya1",
+    "name": "鸭鸭资源站1",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/cj-yayazy-net",
+    "group": "normal",
+    "enabled": true
+  },
   {
     "id": "guangsu3",
     "name": "光速资源站3",
