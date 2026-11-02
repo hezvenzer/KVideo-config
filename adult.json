@@ -80,14 +80,6 @@
     "priority": 1
   },
   {
-    "id": "uku88",
-    "name": "U酷资源88",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "subo",
     "name": "速博资源",
     "baseUrl": "https://subocaiji.com/api.php/provide/vod",
@@ -123,14 +115,6 @@
     "id": "dytt",
     "name": "🎬电影天堂",
     "baseUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "maoyan",
-    "name": "🎬猫眼资源",
-    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -195,14 +179,6 @@
     "id": "jinying1",
     "name": "🎬金鹰点播1",
     "baseUrl": "https://jinyingzy.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "uku",
-    "name": "🎬U酷影视",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -456,14 +432,6 @@
     "priority": 1
   },
   {
-    "id": "naixiang1",
-    "name": "🔞奶香资源1",
-    "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "senlin",
     "name": "🔞森林资源",
     "baseUrl": "https://beiyong.slapibf.com/api.php/provide/vod",
@@ -576,14 +544,6 @@
     "priority": 1
   },
   {
-    "id": "maoyan",
-    "name": "猫眼资源",
-    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "guangsu2",
     "name": "光速资源2",
     "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
@@ -616,14 +576,6 @@
     "priority": 1
   },
   {
-    "id": "maoyan2",
-    "name": "猫眼资源2",
-    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "hsck2",
     "name": "🔞黄色仓库vip2",
     "baseUrl": "https://hsckzy.vip/api.php/provide/vod",
@@ -651,6 +603,14 @@
     "id": "zy360",
     "name": "360资源站",
     "baseUrl": "https://360zy.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "yaya1",
+    "name": "鸭鸭资源站1",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/cj-yayazy-net",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -756,14 +716,6 @@
     "name": "爱坤资源站",
     "baseUrl": "https://ikunzyapi.com/api.php/provide/vod/",
     "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "naixx2",
-    "name": "🔞奶香香资源站2",
-    "baseUrl": "https://naixxzy.com/api.php/provide/vod/",
-    "group": "premium",
     "enabled": true,
     "priority": 1
   },
@@ -888,14 +840,6 @@
     "priority": 1
   },
   {
-    "id": "uku",
-    "name": "u酷资源站",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "yzzy",
     "name": "up优质资源站",
     "baseUrl": "https://api.yyzy-tv.vip/inc/apijson.php?ac=list",
@@ -1016,12 +960,84 @@
     "priority": 10
   },
   {
+    "id": "uku88",
+    "name": "U酷资源88",
+    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "maoyan",
+    "name": "🎬猫眼资源",
+    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "uku",
+    "name": "🎬U酷影视",
+    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "naixiang1",
+    "name": "🔞奶香资源1",
+    "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
+  },
+  {
+    "id": "maoyan",
+    "name": "猫眼资源",
+    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "maoyan2",
+    "name": "猫眼资源2",
+    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "naixx2",
+    "name": "🔞奶香香资源站2",
+    "baseUrl": "https://naixxzy.com/api.php/provide/vod/",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
+  },
+  {
+    "id": "uku",
+    "name": "u酷资源站",
+    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
     "id": "baiwan",
     "name": "🔞-百万1",
     "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 115,
+    "priority": 116,
     "_comment": "超时/宕机"
   },
   {
@@ -1030,7 +1046,7 @@
     "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 115,
+    "priority": 116,
     "_comment": "接口解析错误"
   },
   {
@@ -1039,7 +1055,7 @@
     "baseUrl": "https://tyyszy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 116,
+    "priority": 117,
     "_comment": "接口解析错误"
   },
   {
@@ -1048,7 +1064,7 @@
     "baseUrl": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
     "group": "normal",
     "enabled": false,
-    "priority": 116,
+    "priority": 117,
     "_comment": "接口解析错误"
   },
   {
@@ -1057,7 +1073,7 @@
     "baseUrl": "https://uuzy.me/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 119,
+    "priority": 120,
     "_comment": "超时/宕机"
   },
   {
@@ -1066,7 +1082,7 @@
     "baseUrl": "https://jp98.vip/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 122,
+    "priority": 123,
     "_comment": "搜索无结果"
   },
   {
@@ -1176,15 +1192,6 @@
     "enabled": false,
     "priority": 130,
     "_comment": "搜索无结果"
-  },
-  {
-    "id": "yaya2",
-    "name": "up鸭鸭资源站",
-    "baseUrl": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
-    "group": "normal",
-    "enabled": false,
-    "priority": 130,
-    "_comment": "接口解析错误"
   },
   {
     "id": "danaizi",
@@ -1361,6 +1368,15 @@
     "id": "niuniu",
     "name": "牛牛资源",
     "baseUrl": "https://api.niuniuzy.me/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 999,
+    "_comment": "手动禁用"
+  },
+  {
+    "id": "yaya2",
+    "name": "up鸭鸭资源站",
+    "baseUrl": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": false,
     "priority": 999,

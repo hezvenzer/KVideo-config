@@ -80,14 +80,6 @@
     "priority": 1
   },
   {
-    "id": "uku88",
-    "name": "U酷资源88",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "subo",
     "name": "速博资源",
     "baseUrl": "https://subocaiji.com/api.php/provide/vod",
@@ -123,14 +115,6 @@
     "id": "dytt",
     "name": "🎬电影天堂",
     "baseUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "maoyan",
-    "name": "🎬猫眼资源",
-    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -195,14 +179,6 @@
     "id": "jinying1",
     "name": "🎬金鹰点播1",
     "baseUrl": "https://jinyingzy.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "uku",
-    "name": "🎬U酷影视",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -344,14 +320,6 @@
     "priority": 1
   },
   {
-    "id": "maoyan",
-    "name": "猫眼资源",
-    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "guangsu2",
     "name": "光速资源2",
     "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
@@ -384,14 +352,6 @@
     "priority": 1
   },
   {
-    "id": "maoyan2",
-    "name": "猫眼资源2",
-    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "ikun",
     "name": "ikun资源",
     "baseUrl": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
@@ -403,6 +363,14 @@
     "id": "zy360",
     "name": "360资源站",
     "baseUrl": "https://360zy.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "yaya1",
+    "name": "鸭鸭资源站1",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/cj-yayazy-net",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -515,14 +483,6 @@
     "id": "senlin",
     "name": "森林资源站",
     "baseUrl": "https://slapibf.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "uku",
-    "name": "u酷资源站",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": true,
     "priority": 1
