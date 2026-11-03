@@ -721,8 +721,15 @@
     "enabled": false
   },
   {
-    "id": "shandian",
-    "name": "闪电资源",
+    "id": "shandian1",
+    "name": "闪电资源1",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/xsd-sdzyapi-com",
+    "group": "normal",
+    "enabled": true
+  },
+  {
+    "id": "shandian2",
+    "name": "闪电资源2",
     "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": false
