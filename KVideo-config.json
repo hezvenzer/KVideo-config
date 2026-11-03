@@ -517,6 +517,13 @@
     "group": "premium",
     "enabled": true
   },
+  {
+    "id": "honglou",
+    "name": "🔞红楼资源",
+    "baseUrl": "https://www.hlzy.my/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true
+  },
  {
     "id": "shayu",
     "name": "🔞鲨鱼资源",
