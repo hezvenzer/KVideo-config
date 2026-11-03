@@ -40,14 +40,6 @@
     "priority": 1
   },
   {
-    "id": "mangguo",
-    "name": "up芒果资源",
-    "baseUrl": "https://caiji.mgzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "dazhong",
     "name": "up大众资源",
     "baseUrl": "https://cdn.dzzyapi.com/api.php/provide/vod",
@@ -624,14 +616,6 @@
     "priority": 1
   },
   {
-    "id": "jipin",
-    "name": "🔞新极品资源站",
-    "baseUrl": "https://jipinvip1.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "zuidazy2",
     "name": "最大资源站2",
     "baseUrl": "http://zuidazy.me/api.php/provide/vod/",
@@ -1032,12 +1016,30 @@
     "priority": 10
   },
   {
+    "id": "mangguo",
+    "name": "up芒果资源",
+    "baseUrl": "https://caiji.mgzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "jipin",
+    "name": "🔞新极品资源站",
+    "baseUrl": "https://jipinvip1.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
+  },
+  {
     "id": "naixiang1",
     "name": "🔞奶香资源1",
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 105,
+    "priority": 106,
     "_comment": "接口解析错误"
   },
   {
@@ -1046,7 +1048,7 @@
     "baseUrl": "https://naixxzy.com/api.php/provide/vod/",
     "group": "premium",
     "enabled": false,
-    "priority": 105,
+    "priority": 106,
     "_comment": "接口解析错误"
   },
   {
@@ -1055,7 +1057,7 @@
     "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 120,
+    "priority": 121,
     "_comment": "接口解析错误"
   },
   {
@@ -1064,7 +1066,7 @@
     "baseUrl": "https://tyyszy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 121,
+    "priority": 122,
     "_comment": "接口解析错误"
   },
   {
@@ -1073,7 +1075,7 @@
     "baseUrl": "https://jp98.vip/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 127,
+    "priority": 128,
     "_comment": "搜索无结果"
   },
   {

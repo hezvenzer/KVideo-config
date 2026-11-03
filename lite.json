@@ -40,14 +40,6 @@
     "priority": 1
   },
   {
-    "id": "mangguo",
-    "name": "up芒果资源",
-    "baseUrl": "https://caiji.mgzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "dazhong",
     "name": "up大众资源",
     "baseUrl": "https://cdn.dzzyapi.com/api.php/provide/vod",
