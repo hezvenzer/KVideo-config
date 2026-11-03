@@ -82,7 +82,7 @@
   "name": "upUU资源",
   "baseUrl": "https://uuzy.me/api.php/provide/vod",
   "group": "normal",
-  "enabled": true
+  "enabled": false
 },
  {
   "id": "lezhizy",
@@ -133,7 +133,7 @@
     "searchPath": "",
     "detailPath": "",
     "group": "normal",
-    "enabled": true
+    "enabled": false
   },
  {
   "id": "subo",
@@ -518,11 +518,18 @@
     "enabled": true
   },
   {
-    "id": "honglou",
-    "name": "🔞红楼资源",
-    "baseUrl": "https://www.hlzy.my/api.php/provide/vod",
+    "id": "honglou1",
+    "name": "🔞红楼资源1",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/hlzy-my",
     "group": "premium",
     "enabled": true
+  },
+  {
+    "id": "honglou2",
+    "name": "🔞红楼资源2",
+    "baseUrl": "https://www.hlzy.my/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false
   },
  {
     "id": "shayu",
@@ -676,7 +683,7 @@
     "name": "🔞-百万1",
     "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "liangzi2",
@@ -718,7 +725,7 @@
     "name": "闪电资源",
     "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
     "group": "normal",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "hongniu2",
@@ -731,13 +738,6 @@
     "id": "maoyan",
     "name": "猫眼资源",
     "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true
-  },
-  {
-    "id": "baidu",
-    "name": "百度资源",
-    "baseUrl": "https://api.apibdzy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true
   },
@@ -897,10 +897,17 @@
   },
    {
     "id": "suoni1",
-    "name": "up索尼资源",
-    "baseUrl": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+    "name": "up索尼资源1",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/suoniapi-com",
     "group": "normal",
     "enabled": true
+  },
+  {
+    "id": "suoni2",
+    "name": "索尼资源2",
+    "baseUrl": "https://suoniapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false
   },
   {
     "id": "hongniu3",
@@ -1138,13 +1145,6 @@
     "name": "🔞ck资源站",
     "baseUrl": "https://ckzy.me/api.php/provide/vod",
     "group": "premium",
-    "enabled": true
-  },
-  {
-    "id": "baiduyun",
-    "name": "百度云资源站",
-    "baseUrl": "https://api.apibdzy.com/api.php/provide/vod",
-    "group": "normal",
     "enabled": true
   },
   {
