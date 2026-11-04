@@ -488,6 +488,14 @@
     "priority": 1
   },
   {
+    "id": "mangguo",
+    "name": "up芒果资源",
+    "baseUrl": "https://caiji.mgzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "uku88",
     "name": "U酷资源88",
     "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",

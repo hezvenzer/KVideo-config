@@ -864,6 +864,14 @@
     "priority": 1
   },
   {
+    "id": "mangguo",
+    "name": "up芒果资源",
+    "baseUrl": "https://caiji.mgzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "uku88",
     "name": "U酷资源88",
     "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
@@ -1016,21 +1024,12 @@
     "priority": 10
   },
   {
-    "id": "mangguo",
-    "name": "up芒果资源",
-    "baseUrl": "https://caiji.mgzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "超时/宕机"
-  },
-  {
     "id": "jipin",
     "name": "🔞新极品资源站",
     "baseUrl": "https://jipinvip1.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 101,
+    "priority": 102,
     "_comment": "接口解析错误"
   },
   {
@@ -1039,7 +1038,7 @@
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 106,
+    "priority": 107,
     "_comment": "接口解析错误"
   },
   {
@@ -1048,7 +1047,7 @@
     "baseUrl": "https://naixxzy.com/api.php/provide/vod/",
     "group": "premium",
     "enabled": false,
-    "priority": 106,
+    "priority": 107,
     "_comment": "接口解析错误"
   },
   {
@@ -1057,7 +1056,7 @@
     "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 121,
+    "priority": 122,
     "_comment": "接口解析错误"
   },
   {
@@ -1066,7 +1065,7 @@
     "baseUrl": "https://tyyszy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 122,
+    "priority": 123,
     "_comment": "接口解析错误"
   },
   {
@@ -1075,7 +1074,7 @@
     "baseUrl": "https://jp98.vip/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 128,
+    "priority": 129,
     "_comment": "搜索无结果"
   },
   {
