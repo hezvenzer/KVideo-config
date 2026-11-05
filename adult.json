@@ -56,14 +56,6 @@
     "priority": 1
   },
   {
-    "id": "twzy",
-    "name": "TW资源站",
-    "baseUrl": "https://cj.10010888.xyz/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "feifancj",
     "name": "非凡采集https",
     "baseUrl": "https://cj.ffzyapi.com/api.php/provide/vod",
@@ -1024,12 +1016,21 @@
     "priority": 10
   },
   {
+    "id": "twzy",
+    "name": "TW资源站",
+    "baseUrl": "https://cj.10010888.xyz/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
     "id": "jipin",
     "name": "🔞新极品资源站",
     "baseUrl": "https://jipinvip1.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 102,
+    "priority": 103,
     "_comment": "接口解析错误"
   },
   {
@@ -1038,7 +1039,7 @@
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 107,
+    "priority": 108,
     "_comment": "接口解析错误"
   },
   {
@@ -1047,7 +1048,7 @@
     "baseUrl": "https://naixxzy.com/api.php/provide/vod/",
     "group": "premium",
     "enabled": false,
-    "priority": 107,
+    "priority": 108,
     "_comment": "接口解析错误"
   },
   {
@@ -1056,7 +1057,7 @@
     "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 122,
+    "priority": 123,
     "_comment": "接口解析错误"
   },
   {
@@ -1065,17 +1066,8 @@
     "baseUrl": "https://tyyszy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 123,
+    "priority": 124,
     "_comment": "接口解析错误"
-  },
-  {
-    "id": "jingping98",
-    "name": "🔞精品98资源",
-    "baseUrl": "https://jp98.vip/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 129,
-    "_comment": "搜索无结果"
   },
   {
     "id": "baidu",
@@ -1099,6 +1091,15 @@
     "id": "huosu",
     "name": "🔞火速资源",
     "baseUrl": "https://api.huosuapi.cc/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 130,
+    "_comment": "搜索无结果"
+  },
+  {
+    "id": "jingping98",
+    "name": "🔞精品98资源",
+    "baseUrl": "https://jp98.vip/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
     "priority": 130,
