@@ -38,9 +38,9 @@
 | :--- | :--- |
 | `KVideo-config.json` | **原始配置**：所有源站数据的录入入口。 |
 | `check_api.js` | **巡检核心**：执行测试、计算权重、生成报告与清洗 JSON。 |
+| `_worker.js` | **中转脚本**：部署在 Cloudflare，提供 UI 界面、KV 缓存及代理转换。 |
 | `.github/workflows/` | **Action 配置**：驱动 GitHub 每 24 小时执行一次自动化任务。 |
 | `update-tvbox.yml` | **Action 配置**：让 generate_tvbox.py 在 GitHub 上定时自动运行，提供 Actions 标签页“Generate TVBox Config”手动触发。 |
-| `_worker.js` | **中转脚本**：部署在 Cloudflare，提供 UI 界面、KV 缓存及代理转换。 |
 | `generate_tvbox.py` | **转换脚本**：把两个源清单文件 lite.json 和 adult.json 转换成 TVBox 可用的配置 JSON 文件，并分别生成“纯净版”和“含成人源版”两个配置。 |
 | `report.md` | **可视化简报**：直观展示源站地址、趋势及异常备注。 |
 
@@ -87,7 +87,8 @@
 * **获取最稳的精简订阅（带代理中转）：** `https://你的clouflare域名.workers.dev/?format=1&source=lite`
 * **获取原始链接的成人版订阅（无代理）：** `https://你的clouflare域名.workers.dev/?format=0&source=adult`
 * **获取原始链接的成人版订阅（自定义域名，无代理）：** `https://自定义域名/?format=0&source=adult`
-* **获取tvbox版本订阅：** ``
+* **获取tvbox非成人版本订阅：** `https://raw.githubusercontent.com/账号名称/项目名称/refs/heads/main/tvbox.json`
+* **获取tvbox成人版本订阅：** `https://raw.githubusercontent.com/账号名称/项目名称/refs/heads/main/tvbox-adult.json`
 ---
 
 **最近巡检报告请查看：[report.md](./report.md)**
