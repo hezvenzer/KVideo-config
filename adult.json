@@ -16,9 +16,9 @@
     "priority": 1
   },
   {
-    "id": "taopian",
-    "name": "up淘片资源",
-    "baseUrl": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
+    "id": "taopian1",
+    "name": "淘片资源1",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -872,6 +872,14 @@
     "priority": 5
   },
   {
+    "id": "uku88",
+    "name": "U酷资源88",
+    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "iqiyi1",
     "name": "🎬-爱奇艺1",
     "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
@@ -912,6 +920,14 @@
     "priority": 5
   },
   {
+    "id": "uku",
+    "name": "🎬U酷影视",
+    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "modudm",
     "name": "🎬魔都动漫",
     "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod",
@@ -923,6 +939,14 @@
     "id": "155zy",
     "name": "🔞155-资源",
     "baseUrl": "https://155api.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "hsck1",
+    "name": "🔞黄色仓库1",
+    "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
     "group": "premium",
     "enabled": true,
     "priority": 5
@@ -984,6 +1008,14 @@
     "priority": 5
   },
   {
+    "id": "uku",
+    "name": "u酷资源站",
+    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "xinlang",
     "name": "🎬新浪资源",
     "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
@@ -992,48 +1024,12 @@
     "priority": 10
   },
   {
-    "id": "uku88",
-    "name": "U酷资源88",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "uku",
-    "name": "🎬U酷影视",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "hsck1",
-    "name": "🔞黄色仓库1",
-    "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "uku",
-    "name": "u酷资源站",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
-    "group": "normal",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "超时/宕机"
-  },
-  {
     "id": "twzy",
     "name": "TW资源站",
     "baseUrl": "https://cj.10010888.xyz/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 102,
+    "priority": 103,
     "_comment": "超时/宕机"
   },
   {
@@ -1042,7 +1038,7 @@
     "baseUrl": "https://jipinvip1.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 104,
+    "priority": 105,
     "_comment": "接口解析错误"
   },
   {
@@ -1051,7 +1047,7 @@
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 109,
+    "priority": 110,
     "_comment": "接口解析错误"
   },
   {
@@ -1060,7 +1056,7 @@
     "baseUrl": "https://naixxzy.com/api.php/provide/vod/",
     "group": "premium",
     "enabled": false,
-    "priority": 109,
+    "priority": 110,
     "_comment": "接口解析错误"
   },
   {
@@ -1069,7 +1065,7 @@
     "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 124,
+    "priority": 125,
     "_comment": "接口解析错误"
   },
   {
@@ -1078,7 +1074,7 @@
     "baseUrl": "https://tyyszy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 125,
+    "priority": 126,
     "_comment": "接口解析错误"
   },
   {
@@ -1419,6 +1415,15 @@
     "name": "🔞湿乐园资源站",
     "baseUrl": "https://xxavs.com/api.php/provide/vod",
     "group": "premium",
+    "enabled": false,
+    "priority": 999,
+    "_comment": "手动禁用"
+  },
+  {
+    "id": "taopian2",
+    "name": "淘片资源2",
+    "baseUrl": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
+    "group": "normal",
     "enabled": false,
     "priority": 999,
     "_comment": "手动禁用"
