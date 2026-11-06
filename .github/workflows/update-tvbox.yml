@@ -1,0 +1,35 @@
+name: Generate TVBox Config
+
+on:
+  schedule:
+    # cron 使用 UTC 时间。'0 */12 * * *' 代表每12小时运行一次。
+    # 如果你想改成北京时间每天8:00，可设为 '0 0 * * *' (UTC 0点即北京8点)
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # 允许你在 Actions 页面手动点击按钮触发，方便测试
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 必须授予写入权限，脚本才能生成并提交新文件
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' # 根据你的脚本需求选择 Python 版本
+
+      - name: Run generate_tvbox.py
+        run: python generate_tvbox.py
+
+      - name: Commit and Push generated files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add tvbox.json tvbox-adult.json
+          # 如果没有文件变更，git commit 会失败，使用 || 符号来忽略这种情况
+          git commit -m "Auto-generate TVBox config" || echo "No changes to commit"
+          git push
