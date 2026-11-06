@@ -16,14 +16,6 @@
     "priority": 1
   },
   {
-    "id": "taopian1",
-    "name": "淘片资源1",
-    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "xiguazyw",
     "name": "up西瓜资源",
     "baseUrl": "https://caiji.xgzyapi.com/api.php/provide/vod",

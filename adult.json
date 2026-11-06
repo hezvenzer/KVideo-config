@@ -16,14 +16,6 @@
     "priority": 1
   },
   {
-    "id": "taopian1",
-    "name": "淘片资源1",
-    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "xiguazyw",
     "name": "up西瓜资源",
     "baseUrl": "https://caiji.xgzyapi.com/api.php/provide/vod",
@@ -1024,12 +1016,21 @@
     "priority": 10
   },
   {
+    "id": "taopian1",
+    "name": "淘片资源1",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "搜索无结果"
+  },
+  {
     "id": "twzy",
     "name": "TW资源站",
     "baseUrl": "https://cj.10010888.xyz/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 103,
+    "priority": 104,
     "_comment": "超时/宕机"
   },
   {
@@ -1038,7 +1039,7 @@
     "baseUrl": "https://jipinvip1.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 105,
+    "priority": 106,
     "_comment": "接口解析错误"
   },
   {
@@ -1047,7 +1048,7 @@
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 110,
+    "priority": 111,
     "_comment": "接口解析错误"
   },
   {
@@ -1056,7 +1057,7 @@
     "baseUrl": "https://naixxzy.com/api.php/provide/vod/",
     "group": "premium",
     "enabled": false,
-    "priority": 110,
+    "priority": 111,
     "_comment": "接口解析错误"
   },
   {
@@ -1065,7 +1066,7 @@
     "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 125,
+    "priority": 126,
     "_comment": "接口解析错误"
   },
   {
@@ -1074,7 +1075,7 @@
     "baseUrl": "https://tyyszy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 126,
+    "priority": 127,
     "_comment": "接口解析错误"
   },
   {
