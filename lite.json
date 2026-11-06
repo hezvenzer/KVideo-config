@@ -16,6 +16,14 @@
     "priority": 1
   },
   {
+    "id": "taopian",
+    "name": "up淘片资源",
+    "baseUrl": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "xiguazyw",
     "name": "up西瓜资源",
     "baseUrl": "https://caiji.xgzyapi.com/api.php/provide/vod",
@@ -488,14 +496,6 @@
     "priority": 5
   },
   {
-    "id": "uku88",
-    "name": "U酷资源88",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "iqiyi1",
     "name": "🎬-爱奇艺1",
     "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
@@ -531,14 +531,6 @@
     "id": "wujin",
     "name": "🎬无尽资源",
     "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "uku",
-    "name": "🎬U酷影视",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -603,14 +595,6 @@
     "id": "modu",
     "name": "魔都资源站",
     "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "uku",
-    "name": "u酷资源站",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
     "group": "normal",
     "enabled": true,
     "priority": 5
