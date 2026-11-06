@@ -21,6 +21,13 @@
   "group": "normal",
   "enabled": true
 },
+  {
+  "id": "taopian",
+  "name": "up淘片资源",
+  "baseUrl": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
+  "group": "normal",
+  "enabled": true
+},
  {
   "id": "kuaiche",
   "name": "up快车资源",
