@@ -128,6 +128,14 @@
     "priority": 1
   },
   {
+    "id": "modu",
+    "name": "🎬魔都资源",
+    "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "feifan",
     "name": "🎬非凡资源",
     "baseUrl": "https://api.ffzyapi.com/api.php/provide/vod",
@@ -171,6 +179,14 @@
     "id": "hongniu1",
     "name": "🎬红牛资源1",
     "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "modudm",
+    "name": "🎬魔都动漫",
+    "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -688,6 +704,14 @@
     "priority": 1
   },
   {
+    "id": "modu",
+    "name": "魔都资源站",
+    "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "ikun2",
     "name": "爱坤资源站",
     "baseUrl": "https://ikunzyapi.com/api.php/provide/vod/",
@@ -888,14 +912,6 @@
     "priority": 5
   },
   {
-    "id": "modu",
-    "name": "🎬魔都资源",
-    "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "baofeng2",
     "name": "🎬暴风资源2",
     "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
@@ -912,17 +928,17 @@
     "priority": 5
   },
   {
-    "id": "uku",
-    "name": "🎬U酷影视",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
+    "id": "xinlang",
+    "name": "🎬新浪资源",
+    "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
   },
   {
-    "id": "modudm",
-    "name": "🎬魔都动漫",
-    "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod",
+    "id": "uku",
+    "name": "🎬U酷影视",
+    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -992,14 +1008,6 @@
     "priority": 5
   },
   {
-    "id": "modu",
-    "name": "魔都资源站",
-    "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod/",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "uku",
     "name": "u酷资源站",
     "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
@@ -1008,21 +1016,12 @@
     "priority": 5
   },
   {
-    "id": "xinlang",
-    "name": "🎬新浪资源",
-    "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
     "id": "taopian1",
     "name": "淘片资源1",
     "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
     "group": "normal",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "搜索无结果"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "twzy",
@@ -1030,7 +1029,7 @@
     "baseUrl": "https://cj.10010888.xyz/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 104,
+    "priority": 105,
     "_comment": "超时/宕机"
   },
   {
@@ -1039,7 +1038,7 @@
     "baseUrl": "https://jipinvip1.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 106,
+    "priority": 107,
     "_comment": "接口解析错误"
   },
   {
@@ -1048,7 +1047,7 @@
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 111,
+    "priority": 112,
     "_comment": "接口解析错误"
   },
   {
@@ -1057,7 +1056,7 @@
     "baseUrl": "https://naixxzy.com/api.php/provide/vod/",
     "group": "premium",
     "enabled": false,
-    "priority": 111,
+    "priority": 112,
     "_comment": "接口解析错误"
   },
   {
@@ -1066,8 +1065,8 @@
     "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 126,
-    "_comment": "接口解析错误"
+    "priority": 127,
+    "_comment": "超时/宕机"
   },
   {
     "id": "tianya2",
@@ -1075,7 +1074,7 @@
     "baseUrl": "https://tyyszy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 127,
+    "priority": 128,
     "_comment": "接口解析错误"
   },
   {
