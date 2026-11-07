@@ -47,20 +47,20 @@ def main():
     lite_sites = parse_sites("lite.json", is_adult=False)
     adult_sites = parse_sites("adult.json", is_adult=True)
 
-    # 统一的首页分类标签
-    common_flags = ["电影", "电视剧", "动漫", "短剧", "AI", "综艺", "纪录片"]
+    # 只有纯净版才使用的首页分类标签
+    lite_flags = ["电影", "电视剧", "动漫", "短剧", "AI", "综艺", "纪录片"]
 
-    # 1. 生成纯净版 tvbox.json
+    # 1. 生成纯净版 tvbox.json（带分类）
     tvbox_lite = {
         "spider": "",
         "wallpaper": "https://picsum.photos/1920/1080",
-        "flags": common_flags,
+        "flags": lite_flags,
         "sites": lite_sites
     }
     with open("tvbox.json", "w", encoding="utf-8") as f:
         json.dump(tvbox_lite, f, ensure_ascii=False, indent=2)
 
-    # 2. 合并去重生成 tvbox-adult.json
+    # 2. 合并去重生成 tvbox-adult.json（不带分类）
     all_sites = list(lite_sites)
     seen_urls = set(s["api"] for s in lite_sites)
     for s in adult_sites:
@@ -71,13 +71,13 @@ def main():
     tvbox_adult = {
         "spider": "",
         "wallpaper": "https://picsum.photos/1920/1080",
-        "flags": common_flags,
+        # 注意：这里刻意不添加 flags 字段
         "sites": all_sites
     }
     with open("tvbox-adult.json", "w", encoding="utf-8") as f:
         json.dump(tvbox_adult, f, ensure_ascii=False, indent=2)
 
-    print(f"生成成功: tvbox.json ({len(lite_sites)} 个)，tvbox-adult.json ({len(all_sites)} 个)")
+    print(f"生成成功: tvbox.json ({len(lite_sites)} 个，含分类)，tvbox-adult.json ({len(all_sites)} 个，无分类)")
 
 
 if __name__ == "__main__":
