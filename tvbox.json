@@ -21,15 +21,6 @@
       "filterable": 1
     },
     {
-      "key": "cms_d2e8e883",
-      "name": "淘片资源1",
-      "type": 1,
-      "api": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "cms_23388f32",
       "name": "up西瓜资源",
       "type": 1,
