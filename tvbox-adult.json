@@ -1,6 +1,15 @@
 {
   "spider": "",
   "wallpaper": "https://picsum.photos/1920/1080",
+  "flags": [
+    "电影",
+    "电视剧",
+    "动漫",
+    "短剧",
+    "AI",
+    "综艺",
+    "纪录片"
+  ],
   "sites": [
     {
       "key": "cms_f361c235",
