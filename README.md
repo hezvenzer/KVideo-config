@@ -41,7 +41,7 @@
 | `_worker.js` | **中转脚本**：部署在 Cloudflare，提供 UI 界面、KV 缓存及代理转换。 |
 | `Backup/generate_tvbox.py.txt` | **转换脚本**：旧版`generate_tvbox.py`文件，没有默认分类。 |
 | `.github/workflows/` | **Action 配置**：驱动 GitHub 每 24 小时执行一次自动化任务。 |
-| `update-tvbox.yml` | **Action 配置**：让 generate_tvbox.py 在 GitHub 上定时自动运行，提供 Actions 标签页“Generate TVBox Config”手动触发。 |
+| `.github/workflows/update-tvbox.yml` | **Action 配置**：让 generate_tvbox.py 在 GitHub 上定时自动运行，提供 Actions 标签页“Generate TVBox Config”手动触发。 |
 | `generate_tvbox.py` | **转换脚本**：把两个源清单文件 lite.json 和 adult.json 转换成 TVBox 可用的配置 JSON 文件，并分别生成“纯净版”和“含成人源版”两个配置。tvbox.json（纯净版）保留 flags 分类字段，tvbox-adult.json（成人合并版）不加 flags 字段。 |
 | `report.md` | **可视化简报**：直观展示源站地址、趋势及异常备注。 |
 
