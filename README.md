@@ -87,8 +87,8 @@
 * **获取最稳的精简订阅（带代理中转）：** `https://你的clouflare域名.workers.dev/?format=1&source=lite`
 * **获取原始链接的成人版订阅（无代理）：** `https://你的clouflare域名.workers.dev/?format=0&source=adult`
 * **获取原始链接的成人版订阅（自定义域名，无代理）：** `https://自定义域名/?format=0&source=adult`
-* **获取tvbox非成人版本订阅：** `https://raw.githubusercontent.com/账号名称/项目名称/refs/heads/main/tvbox.json`
-* **获取tvbox成人版本订阅：** `https://raw.githubusercontent.com/账号名称/项目名称/refs/heads/main/tvbox-adult.json`
+* **获取tvbox纯净版本订阅：** `https://raw.githubusercontent.com/账号名称/项目名称/refs/heads/main/tvbox.json`
+* **获取tvbox含成人内容版本订阅：** `https://raw.githubusercontent.com/账号名称/项目名称/refs/heads/main/tvbox-adult.json`
 ---
 
 **最近巡检报告请查看：[report.md](./report.md)**
