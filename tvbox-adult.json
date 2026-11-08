@@ -147,6 +147,15 @@
       "filterable": 1
     },
     {
+      "key": "cms_a8fedf19",
+      "name": "🎬魔都资源",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "cms_0cdf4a19",
       "name": "🎬非凡资源",
       "type": 1,
@@ -196,6 +205,15 @@
       "name": "🎬红牛资源1",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_66f1d0e5",
+      "name": "🎬魔都动漫",
+      "type": 1,
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -507,6 +525,15 @@
       "filterable": 1
     },
     {
+      "key": "cms_77791ef6",
+      "name": "魔都资源站",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "cms_1857b571",
       "name": "爱坤资源站",
       "type": 1,
@@ -579,15 +606,6 @@
       "filterable": 1
     },
     {
-      "key": "cms_a8fedf19",
-      "name": "🎬魔都资源",
-      "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "cms_63feeb8d",
       "name": "🎬暴风资源2",
       "type": 1,
@@ -606,19 +624,19 @@
       "filterable": 1
     },
     {
-      "key": "cms_13b0386d",
-      "name": "🎬U酷影视",
+      "key": "cms_1155e267",
+      "name": "🎬新浪资源",
       "type": 1,
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "cms_66f1d0e5",
-      "name": "🎬魔都动漫",
+      "key": "cms_13b0386d",
+      "name": "🎬U酷影视",
       "type": 1,
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -678,15 +696,6 @@
       "filterable": 1
     },
     {
-      "key": "cms_77791ef6",
-      "name": "魔都资源站",
-      "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "cms_f9ba4943",
       "name": "u酷资源站",
       "type": 1,
@@ -696,10 +705,10 @@
       "filterable": 1
     },
     {
-      "key": "cms_1155e267",
-      "name": "🎬新浪资源",
+      "key": "cms_d2e8e883",
+      "name": "淘片资源1",
       "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "api": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
