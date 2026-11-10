@@ -152,6 +152,14 @@
     "priority": 1
   },
   {
+    "id": "xinlang",
+    "name": "🎬新浪资源",
+    "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "subo1",
     "name": "🎬速播资源1",
     "baseUrl": "https://subocaiji.com/api.php/provide/vod",
@@ -552,14 +560,6 @@
     "priority": 5
   },
   {
-    "id": "xinlang",
-    "name": "🎬新浪资源",
-    "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "uku",
     "name": "🎬U酷影视",
     "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
@@ -627,6 +627,14 @@
     "id": "taopian1",
     "name": "淘片资源1",
     "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "twzy",
+    "name": "TW资源站",
+    "baseUrl": "https://cj.10010888.xyz/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 10
