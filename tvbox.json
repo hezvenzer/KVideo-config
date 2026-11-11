@@ -183,6 +183,15 @@
       "filterable": 1
     },
     {
+      "key": "cms_1155e267",
+      "name": "🎬新浪资源",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "cms_ba84c0a9",
       "name": "🎬速播资源1",
       "type": 1,
@@ -633,15 +642,6 @@
       "filterable": 1
     },
     {
-      "key": "cms_1155e267",
-      "name": "🎬新浪资源",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "cms_13b0386d",
       "name": "🎬U酷影视",
       "type": 1,
@@ -718,6 +718,15 @@
       "name": "淘片资源1",
       "type": 1,
       "api": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_ba6d40e8",
+      "name": "TW资源站",
+      "type": 1,
+      "api": "https://cj.10010888.xyz/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
