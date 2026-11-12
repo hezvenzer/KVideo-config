@@ -147,15 +147,6 @@
       "filterable": 1
     },
     {
-      "key": "cms_a8fedf19",
-      "name": "🎬魔都资源",
-      "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "cms_0cdf4a19",
       "name": "🎬非凡资源",
       "type": 1,
@@ -214,15 +205,6 @@
       "name": "🎬红牛资源1",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cms_66f1d0e5",
-      "name": "🎬魔都动漫",
-      "type": 1,
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -534,15 +516,6 @@
       "filterable": 1
     },
     {
-      "key": "cms_77791ef6",
-      "name": "魔都资源站",
-      "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "cms_1857b571",
       "name": "爱坤资源站",
       "type": 1,
@@ -592,15 +565,6 @@
       "name": "U酷资源88",
       "type": 1,
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cms_db5eab26",
-      "name": "🎬-爱奇艺1",
-      "type": 1,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -673,15 +637,6 @@
       "name": "猫眼资源2",
       "type": 1,
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cms_db5eab26",
-      "name": "爱奇艺资源站2",
-      "type": 1,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
