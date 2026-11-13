@@ -136,14 +136,6 @@
     "priority": 1
   },
   {
-    "id": "zuida1",
-    "name": "🎬最大资源1",
-    "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "xinlang",
     "name": "🎬新浪资源",
     "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
@@ -371,14 +363,6 @@
     "id": "haohua2",
     "name": "豪华资源站2",
     "baseUrl": "https://haohuazy.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "zuidazy2",
-    "name": "最大资源站2",
-    "baseUrl": "http://zuidazy.me/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 1

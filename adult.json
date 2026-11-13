@@ -136,14 +136,6 @@
     "priority": 1
   },
   {
-    "id": "zuida1",
-    "name": "🎬最大资源1",
-    "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "xinlang",
     "name": "🎬新浪资源",
     "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
@@ -203,14 +195,6 @@
     "id": "madou1",
     "name": "🔞麻豆视频1",
     "baseUrl": "https://91md.me/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "yutu",
-    "name": "🔞玉兔资源",
-    "baseUrl": "https://apiyutu.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true,
     "priority": 1
@@ -379,14 +363,6 @@
     "id": "shayu",
     "name": "🔞鲨鱼资源",
     "baseUrl": "https://shayuapi.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "lsbzy",
-    "name": "🔞-老色逼-",
-    "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true,
     "priority": 1
@@ -568,14 +544,6 @@
     "priority": 1
   },
   {
-    "id": "yutu2",
-    "name": "🔞玉兔2",
-    "baseUrl": "https://yutuzy10.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "ikun",
     "name": "ikun资源",
     "baseUrl": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
@@ -611,14 +579,6 @@
     "id": "haohua2",
     "name": "豪华资源站2",
     "baseUrl": "https://haohuazy.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "zuidazy2",
-    "name": "最大资源站2",
-    "baseUrl": "http://zuidazy.me/api.php/provide/vod/",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -744,14 +704,6 @@
     "priority": 1
   },
   {
-    "id": "yutu",
-    "name": "🔞玉兔资源站",
-    "baseUrl": "https://apiyutu.com/api.php/provide/vod/",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "fanhao",
     "name": "🔞番号资源站",
     "baseUrl": "http://fhapi9.com/api.php/provide/vod/",
@@ -779,14 +731,6 @@
     "id": "jingpinx",
     "name": "🔞精品X资源站",
     "baseUrl": "https://www.jingpinx.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "laosex",
-    "name": "🔞老色X资源站",
-    "baseUrl": "https://apilsbzy1.com/api.php/provide/vod/",
     "group": "premium",
     "enabled": true,
     "priority": 1
@@ -944,14 +888,6 @@
     "priority": 5
   },
   {
-    "id": "hsck1",
-    "name": "🔞黄色仓库1",
-    "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "wujin",
     "name": "无尽资源",
     "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
@@ -1040,12 +976,84 @@
     "priority": 10
   },
   {
+    "id": "zuida1",
+    "name": "🎬最大资源1",
+    "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "yutu",
+    "name": "🔞玉兔资源",
+    "baseUrl": "https://apiyutu.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "lsbzy",
+    "name": "🔞-老色逼-",
+    "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "hsck1",
+    "name": "🔞黄色仓库1",
+    "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "yutu2",
+    "name": "🔞玉兔2",
+    "baseUrl": "https://yutuzy10.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "zuidazy2",
+    "name": "最大资源站2",
+    "baseUrl": "http://zuidazy.me/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "yutu",
+    "name": "🔞玉兔资源站",
+    "baseUrl": "https://apiyutu.com/api.php/provide/vod/",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "laosex",
+    "name": "🔞老色X资源站",
+    "baseUrl": "https://apilsbzy1.com/api.php/provide/vod/",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
     "id": "twzy",
     "name": "TW资源站",
     "baseUrl": "https://cj.10010888.xyz/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 101,
+    "priority": 102,
     "_comment": "超时/宕机"
   },
   {
@@ -1054,7 +1062,7 @@
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 117,
+    "priority": 118,
     "_comment": "接口解析错误"
   },
   {
@@ -1063,7 +1071,7 @@
     "baseUrl": "https://naixxzy.com/api.php/provide/vod/",
     "group": "premium",
     "enabled": false,
-    "priority": 117,
+    "priority": 118,
     "_comment": "接口解析错误"
   },
   {
