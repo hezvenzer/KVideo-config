@@ -579,10 +579,28 @@
       "filterable": 1
     },
     {
+      "key": "cms_db5eab26",
+      "name": "🎬-爱奇艺1",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "cms_f9ebea4c",
       "name": "🎬猫眼资源",
       "type": 1,
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_a8fedf19",
+      "name": "🎬魔都资源",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -610,6 +628,15 @@
       "name": "🎬U酷影视",
       "type": 1,
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_66f1d0e5",
+      "name": "🎬魔都动漫",
+      "type": 1,
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -651,10 +678,28 @@
       "filterable": 1
     },
     {
+      "key": "cms_db5eab26",
+      "name": "爱奇艺资源站2",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "cms_e9e7c34a",
       "name": "155资源站",
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_77791ef6",
+      "name": "魔都资源站",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -673,15 +718,6 @@
       "name": "淘片资源1",
       "type": 1,
       "api": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cms_ba6d40e8",
-      "name": "TW资源站",
-      "type": 1,
-      "api": "https://cj.10010888.xyz/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
