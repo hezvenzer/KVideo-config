@@ -156,15 +156,6 @@
       "filterable": 1
     },
     {
-      "key": "cms_8468aa5e",
-      "name": "🎬最大资源1",
-      "type": 1,
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "cms_1155e267",
       "name": "🎬新浪资源",
       "type": 1,
@@ -421,15 +412,6 @@
       "name": "豪华资源站2",
       "type": 1,
       "api": "https://haohuazy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cms_f6caf772",
-      "name": "最大资源站2",
-      "type": 1,
-      "api": "http://zuidazy.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -723,15 +705,6 @@
       "filterable": 1
     },
     {
-      "key": "cms_a_ccf2a73c",
-      "name": "[18+] 🔞玉兔资源",
-      "type": 1,
-      "api": "https://apiyutu.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "cms_a_161440fd",
       "name": "[18+] 🔞番号资源",
       "type": 1,
@@ -849,15 +822,6 @@
       "filterable": 1
     },
     {
-      "key": "cms_a_5b4e8d96",
-      "name": "[18+] 🔞-老色逼-",
-      "type": 1,
-      "api": "https://apilsbzy1.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "cms_a_b881aeb4",
       "name": "[18+] 🔞小鸡资源",
       "type": 1,
@@ -948,15 +912,6 @@
       "filterable": 1
     },
     {
-      "key": "cms_a_76f59869",
-      "name": "[18+] 🔞玉兔2",
-      "type": 1,
-      "api": "https://yutuzy10.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "cms_a_5b27aee0",
       "name": "[18+] 🔞香奶儿资源站",
       "type": 1,
@@ -984,15 +939,6 @@
       "filterable": 1
     },
     {
-      "key": "cms_a_7de11eca",
-      "name": "[18+] 🔞玉兔资源站",
-      "type": 1,
-      "api": "https://apiyutu.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "cms_a_39a5f7a3",
       "name": "[18+] 🔞番号资源站",
       "type": 1,
@@ -1015,15 +961,6 @@
       "name": "[18+] 🔞百花资源站",
       "type": 1,
       "api": "https://bhziyuan.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cms_a_b0144a61",
-      "name": "[18+] 🔞老色X资源站",
-      "type": 1,
-      "api": "https://apilsbzy1.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1060,15 +997,6 @@
       "name": "[18+] 🔞黑料资源站",
       "type": 1,
       "api": "https://heiliaozyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cms_a_979dfd02",
-      "name": "[18+] 🔞黄色仓库1",
-      "type": 1,
-      "api": "https://hsckzy.xyz/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
