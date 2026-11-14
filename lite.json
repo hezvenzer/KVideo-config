@@ -472,6 +472,14 @@
     "priority": 1
   },
   {
+    "id": "taopian1",
+    "name": "淘片资源1",
+    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "mangguo",
     "name": "up芒果资源",
     "baseUrl": "https://caiji.mgzyapi.com/api.php/provide/vod",
@@ -515,6 +523,14 @@
     "id": "baofeng2",
     "name": "🎬暴风资源2",
     "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "zuida1",
+    "name": "🎬最大资源1",
+    "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -576,6 +592,14 @@
     "priority": 5
   },
   {
+    "id": "zuidazy2",
+    "name": "最大资源站2",
+    "baseUrl": "http://zuidazy.me/api.php/provide/vod/",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "iqiyi2",
     "name": "爱奇艺资源站2",
     "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
@@ -606,13 +630,5 @@
     "group": "normal",
     "enabled": true,
     "priority": 5
-  },
-  {
-    "id": "taopian1",
-    "name": "淘片资源1",
-    "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
   }
 ]
