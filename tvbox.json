@@ -543,6 +543,15 @@
       "filterable": 1
     },
     {
+      "key": "cms_d2e8e883",
+      "name": "淘片资源1",
+      "type": 1,
+      "api": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "cms_38cf5286",
       "name": "up芒果资源",
       "type": 1,
@@ -592,6 +601,15 @@
       "name": "🎬暴风资源2",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_8468aa5e",
+      "name": "🎬最大资源1",
+      "type": 1,
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -660,6 +678,15 @@
       "filterable": 1
     },
     {
+      "key": "cms_f6caf772",
+      "name": "最大资源站2",
+      "type": 1,
+      "api": "http://zuidazy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "cms_db5eab26",
       "name": "爱奇艺资源站2",
       "type": 1,
@@ -691,15 +718,6 @@
       "name": "u酷资源站",
       "type": 1,
       "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cms_d2e8e883",
-      "name": "淘片资源1",
-      "type": 1,
-      "api": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
