@@ -183,15 +183,6 @@
       "filterable": 1
     },
     {
-      "key": "cms_462ef6ab",
-      "name": "🎬光速资源1",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "cms_49f59375",
       "name": "🎬红牛资源1",
       "type": 1,
@@ -336,28 +327,10 @@
       "filterable": 1
     },
     {
-      "key": "cms_462ef6ab",
-      "name": "光速资源2",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "cms_2ac93c85",
       "name": "电影天堂",
       "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cms_27bc68f7",
-      "name": "虎牙资源",
-      "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -394,15 +367,6 @@
       "name": "鸭鸭资源站1",
       "type": 1,
       "api": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/cj-yayazy-net",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cms_462ef6ab",
-      "name": "光速资源站3",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
