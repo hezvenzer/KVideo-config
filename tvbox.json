@@ -39,15 +39,6 @@
       "filterable": 1
     },
     {
-      "key": "cms_0b70e6eb",
-      "name": "鲸鱼资源",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "cms_6643d465",
       "name": "海豚资源",
       "type": 1,
@@ -147,19 +138,19 @@
       "filterable": 1
     },
     {
-      "key": "cms_88195273",
-      "name": "🎬极速资源",
+      "key": "cms_0cdf4a19",
+      "name": "🎬非凡资源",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod",
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "cms_0cdf4a19",
-      "name": "🎬非凡资源",
+      "key": "cms_63feeb8d",
+      "name": "🎬暴风资源2",
       "type": 1,
-      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -178,15 +169,6 @@
       "name": "🎬速播资源1",
       "type": 1,
       "api": "https://subocaiji.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cms_35175d3e",
-      "name": "🎬金鹰点播1",
-      "type": 1,
-      "api": "https://jinyingzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -336,19 +318,19 @@
       "filterable": 1
     },
     {
-      "key": "cms_2ac93c85",
-      "name": "电影天堂",
+      "key": "cms_63feeb8d",
+      "name": "暴风资源1",
       "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "cms_d3142ca0",
-      "name": "金鹰云资源2",
+      "key": "cms_2ac93c85",
+      "name": "电影天堂",
       "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -421,15 +403,6 @@
       "name": "红牛资源站3",
       "type": 1,
       "api": "http://hongniuzy2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cms_e98c655d",
-      "name": "虎牙资源站",
-      "type": 1,
-      "api": "https://huyazy.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -561,15 +534,6 @@
       "filterable": 1
     },
     {
-      "key": "cms_63feeb8d",
-      "name": "🎬暴风资源2",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "cms_8468aa5e",
       "name": "🎬最大资源1",
       "type": 1,
@@ -619,15 +583,6 @@
       "name": "猫眼资源",
       "type": 1,
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cms_63feeb8d",
-      "name": "暴风资源1",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
