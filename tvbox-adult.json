@@ -480,6 +480,15 @@
       "filterable": 1
     },
     {
+      "key": "cms_0b70e6eb",
+      "name": "鲸鱼资源",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "cms_38cf5286",
       "name": "up芒果资源",
       "type": 1,
@@ -516,6 +525,15 @@
       "filterable": 1
     },
     {
+      "key": "cms_88195273",
+      "name": "🎬极速资源",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "cms_a8fedf19",
       "name": "🎬魔都资源",
       "type": 1,
@@ -543,10 +561,28 @@
       "filterable": 1
     },
     {
+      "key": "cms_35175d3e",
+      "name": "🎬金鹰点播1",
+      "type": 1,
+      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "cms_13b0386d",
       "name": "🎬U酷影视",
       "type": 1,
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_462ef6ab",
+      "name": "🎬光速资源1",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -579,10 +615,46 @@
       "filterable": 1
     },
     {
+      "key": "cms_462ef6ab",
+      "name": "光速资源2",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_27bc68f7",
+      "name": "虎牙资源",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_d3142ca0",
+      "name": "金鹰云资源2",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "cms_f9ebea4c",
       "name": "猫眼资源2",
       "type": 1,
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_462ef6ab",
+      "name": "光速资源站3",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -601,6 +673,15 @@
       "name": "爱奇艺资源站2",
       "type": 1,
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_e98c655d",
+      "name": "虎牙资源站",
+      "type": 1,
+      "api": "https://huyazy.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -934,6 +1015,51 @@
       "name": "[18+] 🔞黑料资源站",
       "type": 1,
       "api": "https://heiliaozyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_a_ccf2a73c",
+      "name": "[18+] 🔞玉兔资源",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_a_5b4e8d96",
+      "name": "[18+] 🔞-老色逼-",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_a_76f59869",
+      "name": "[18+] 🔞玉兔2",
+      "type": 1,
+      "api": "https://yutuzy10.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_a_7de11eca",
+      "name": "[18+] 🔞玉兔资源站",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_a_b0144a61",
+      "name": "[18+] 🔞老色X资源站",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
