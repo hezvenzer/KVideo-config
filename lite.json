@@ -432,6 +432,14 @@
     "priority": 5
   },
   {
+    "id": "jingyu",
+    "name": "鲸鱼资源",
+    "baseUrl": "https://jyzyapi.com/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "mangguo",
     "name": "up芒果资源",
     "baseUrl": "https://caiji.mgzyapi.com/api.php/provide/vod",

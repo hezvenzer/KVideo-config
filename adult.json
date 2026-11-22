@@ -768,6 +768,14 @@
     "priority": 5
   },
   {
+    "id": "jingyu",
+    "name": "鲸鱼资源",
+    "baseUrl": "https://jyzyapi.com/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "mangguo",
     "name": "up芒果资源",
     "baseUrl": "https://caiji.mgzyapi.com/api.php/provide/vod",
@@ -992,6 +1000,14 @@
     "priority": 5
   },
   {
+    "id": "hsck3",
+    "name": "🔞X色仓库资源3",
+    "baseUrl": "https://hsckzy888.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "uku",
     "name": "u酷资源站",
     "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
@@ -1024,30 +1040,12 @@
     "priority": 10
   },
   {
-    "id": "jingyu",
-    "name": "鲸鱼资源",
-    "baseUrl": "https://jyzyapi.com/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "接口解析错误"
-  },
-  {
-    "id": "hsck3",
-    "name": "🔞X色仓库资源3",
-    "baseUrl": "https://hsckzy888.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "超时/宕机"
-  },
-  {
     "id": "twzy",
     "name": "TW资源站",
     "baseUrl": "https://cj.10010888.xyz/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 110,
+    "priority": 111,
     "_comment": "超时/宕机"
   },
   {
@@ -1056,7 +1054,7 @@
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 126,
+    "priority": 127,
     "_comment": "接口解析错误"
   },
   {
@@ -1065,7 +1063,7 @@
     "baseUrl": "https://naixxzy.com/api.php/provide/vod/",
     "group": "premium",
     "enabled": false,
-    "priority": 126,
+    "priority": 127,
     "_comment": "接口解析错误"
   },
   {
