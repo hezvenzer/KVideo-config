@@ -426,6 +426,15 @@
       "filterable": 1
     },
     {
+      "key": "cms_e9e7c34a",
+      "name": "155资源站",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "cms_8d21a3f1",
       "name": "非凡资源站",
       "type": 1,
@@ -484,15 +493,6 @@
       "name": "淘片资源1",
       "type": 1,
       "api": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cms_0b70e6eb",
-      "name": "鲸鱼资源",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -691,15 +691,6 @@
       "name": "虎牙资源站",
       "type": 1,
       "api": "https://huyazy.net/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cms_e9e7c34a",
-      "name": "155资源站",
-      "type": 1,
-      "api": "https://155api.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
