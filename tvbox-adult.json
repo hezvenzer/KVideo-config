@@ -489,6 +489,15 @@
       "filterable": 1
     },
     {
+      "key": "cms_0b70e6eb",
+      "name": "鲸鱼资源",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "cms_38cf5286",
       "name": "up芒果资源",
       "type": 1,
@@ -1042,6 +1051,15 @@
       "name": "[18+] 🔞老色X资源站",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_a_6168b734",
+      "name": "[18+] 🔞X色仓库资源3",
+      "type": 1,
+      "api": "https://hsckzy888.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
