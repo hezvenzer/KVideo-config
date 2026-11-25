@@ -312,14 +312,6 @@
     "priority": 1
   },
   {
-    "id": "haohua2",
-    "name": "豪华资源站2",
-    "baseUrl": "https://haohuazy.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "renren",
     "name": "人人资源站",
     "baseUrl": "http://43.139.196.163:31308/gather/json",
@@ -427,14 +419,6 @@
     "id": "taopian1",
     "name": "淘片资源1",
     "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "jingyu",
-    "name": "鲸鱼资源",
-    "baseUrl": "https://jyzyapi.com/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
