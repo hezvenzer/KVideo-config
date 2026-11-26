@@ -440,25 +440,9 @@
     "priority": 1
   },
   {
-    "id": "pgxdy",
-    "name": "🔞-黄AVZY",
-    "baseUrl": "https://www.pgxdy.com/api/json.php",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "liangzi2",
     "name": "量子资源2",
     "baseUrl": "http://cj.lziapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "feifan",
-    "name": "非凡资源",
-    "baseUrl": "http://www.ffzy.tv/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -616,14 +600,6 @@
     "priority": 1
   },
   {
-    "id": "gdlsp",
-    "name": "🔞香奶儿资源站",
-    "baseUrl": "https://www.gdlsp.com/api/json.php",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "senlin",
     "name": "🔞森林资源",
     "baseUrl": "https://slapibf.com/api.php/provide/vod",
@@ -736,25 +712,17 @@
     "priority": 1
   },
   {
-    "id": "pgxdy",
-    "name": "🔞X色A-V资源站",
-    "baseUrl": "https://www.pgxdy.com/api/json.php",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "xiangxiyuan",
-    "name": "🔞香系源资源站",
-    "baseUrl": "https://www.gdlsp.com/api/json.php",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "taopian1",
     "name": "淘片资源1",
     "baseUrl": "https://tvbox-harvest-cms.ccbccb.workers.dev/vod/taopian",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "jingyu",
+    "name": "鲸鱼资源",
+    "baseUrl": "https://jyzyapi.com/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -936,6 +904,14 @@
     "priority": 5
   },
   {
+    "id": "haohua2",
+    "name": "豪华资源站2",
+    "baseUrl": "https://haohuazy.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "zuidazy2",
     "name": "最大资源站2",
     "baseUrl": "http://zuidazy.me/api.php/provide/vod/",
@@ -1024,19 +1000,46 @@
     "priority": 10
   },
   {
-    "id": "jingyu",
-    "name": "鲸鱼资源",
-    "baseUrl": "https://jyzyapi.com/provide/vod",
+    "id": "pgxdy",
+    "name": "🔞-黄AVZY",
+    "baseUrl": "https://www.pgxdy.com/api/json.php",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "feifan",
+    "name": "非凡资源",
+    "baseUrl": "http://www.ffzy.tv/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
     "priority": 101,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
-    "id": "haohua2",
-    "name": "豪华资源站2",
-    "baseUrl": "https://haohuazy.com/api.php/provide/vod",
-    "group": "normal",
+    "id": "gdlsp",
+    "name": "🔞香奶儿资源站",
+    "baseUrl": "https://www.gdlsp.com/api/json.php",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "pgxdy",
+    "name": "🔞X色A-V资源站",
+    "baseUrl": "https://www.pgxdy.com/api/json.php",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "xiangxiyuan",
+    "name": "🔞香系源资源站",
+    "baseUrl": "https://www.gdlsp.com/api/json.php",
+    "group": "premium",
     "enabled": false,
     "priority": 101,
     "_comment": "超时/宕机"
@@ -1047,26 +1050,8 @@
     "baseUrl": "https://cj.10010888.xyz/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 113,
+    "priority": 114,
     "_comment": "超时/宕机"
-  },
-  {
-    "id": "naixiang1",
-    "name": "🔞奶香资源1",
-    "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 129,
-    "_comment": "接口解析错误"
-  },
-  {
-    "id": "naixx2",
-    "name": "🔞奶香香资源站2",
-    "baseUrl": "https://naixxzy.com/api.php/provide/vod/",
-    "group": "premium",
-    "enabled": false,
-    "priority": 129,
-    "_comment": "接口解析错误"
   },
   {
     "id": "baidu",
@@ -1114,13 +1099,22 @@
     "_comment": "搜索无结果"
   },
   {
+    "id": "naixiang1",
+    "name": "🔞奶香资源1",
+    "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 130,
+    "_comment": "接口解析错误"
+  },
+  {
     "id": "msnii1",
     "name": "🔞-美少女1",
     "baseUrl": "https://www.msnii.com/api/json.php",
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "搜索无结果"
+    "_comment": "超时/宕机"
   },
   {
     "id": "kxgav",
@@ -1129,7 +1123,7 @@
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "搜索无结果"
+    "_comment": "超时/宕机"
   },
   {
     "id": "semao",
@@ -1156,7 +1150,7 @@
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "搜索无结果"
+    "_comment": "超时/宕机"
   },
   {
     "id": "maotai",
@@ -1175,6 +1169,15 @@
     "enabled": false,
     "priority": 130,
     "_comment": "搜索无结果"
+  },
+  {
+    "id": "naixx2",
+    "name": "🔞奶香香资源站2",
+    "baseUrl": "https://naixxzy.com/api.php/provide/vod/",
+    "group": "premium",
+    "enabled": false,
+    "priority": 130,
+    "_comment": "接口解析错误"
   },
   {
     "id": "semao",
@@ -1210,7 +1213,7 @@
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "搜索无结果"
+    "_comment": "超时/宕机"
   },
   {
     "id": "meishaonv2",
@@ -1219,7 +1222,7 @@
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "搜索无结果"
+    "_comment": "超时/宕机"
   },
   {
     "id": "qingshui",
@@ -1228,7 +1231,7 @@
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "搜索无结果"
+    "_comment": "超时/宕机"
   },
   {
     "id": "cycani_source",

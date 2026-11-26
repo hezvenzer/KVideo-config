@@ -240,14 +240,6 @@
     "priority": 1
   },
   {
-    "id": "feifan",
-    "name": "非凡资源",
-    "baseUrl": "http://www.ffzy.tv/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "subo2",
     "name": "速播资源2",
     "baseUrl": "https://subocj.com/api.php/provide/vod/at/json",
@@ -424,6 +416,14 @@
     "priority": 5
   },
   {
+    "id": "jingyu",
+    "name": "鲸鱼资源",
+    "baseUrl": "https://jyzyapi.com/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "mangguo",
     "name": "up芒果资源",
     "baseUrl": "https://caiji.mgzyapi.com/api.php/provide/vod",
@@ -571,6 +571,14 @@
     "id": "guangsu3",
     "name": "光速资源站3",
     "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "haohua2",
+    "name": "豪华资源站2",
+    "baseUrl": "https://haohuazy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
