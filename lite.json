@@ -96,6 +96,14 @@
     "priority": 1
   },
   {
+    "id": "maoyan",
+    "name": "🎬猫眼资源",
+    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "liangzi1",
     "name": "🎬量子资源1",
     "baseUrl": "https://cj.lzcaiji.com/api.php/provide/vod",
@@ -264,6 +272,14 @@
     "priority": 1
   },
   {
+    "id": "maoyan",
+    "name": "猫眼资源",
+    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "baofeng1",
     "name": "暴风资源1",
     "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
@@ -275,6 +291,14 @@
     "id": "dianyingtiantang",
     "name": "电影天堂",
     "baseUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "maoyan2",
+    "name": "猫眼资源2",
+    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 1
@@ -448,14 +472,6 @@
     "priority": 5
   },
   {
-    "id": "maoyan",
-    "name": "🎬猫眼资源",
-    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "jisu1",
     "name": "🎬极速资源",
     "baseUrl": "https://jszyapi.com/api.php/provide/vod",
@@ -520,17 +536,17 @@
     "priority": 5
   },
   {
-    "id": "wujin",
-    "name": "无尽资源",
-    "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
+    "id": "feifan",
+    "name": "非凡资源",
+    "baseUrl": "http://www.ffzy.tv/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
   },
   {
-    "id": "maoyan",
-    "name": "猫眼资源",
-    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
+    "id": "wujin",
+    "name": "无尽资源",
+    "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -555,14 +571,6 @@
     "id": "jinyingyun2",
     "name": "金鹰云资源2",
     "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "maoyan2",
-    "name": "猫眼资源2",
-    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
