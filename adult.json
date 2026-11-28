@@ -984,14 +984,6 @@
     "priority": 5
   },
   {
-    "id": "hsck3",
-    "name": "🔞X色仓库资源3",
-    "baseUrl": "https://hsckzy888.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "uku",
     "name": "u酷资源站",
     "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
@@ -1040,12 +1032,21 @@
     "priority": 10
   },
   {
+    "id": "hsck3",
+    "name": "🔞X色仓库资源3",
+    "baseUrl": "https://hsckzy888.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
     "id": "twzy",
     "name": "TW资源站",
     "baseUrl": "https://cj.10010888.xyz/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 115,
+    "priority": 116,
     "_comment": "超时/宕机"
   },
   {
